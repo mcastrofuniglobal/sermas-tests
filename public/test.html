@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Test — SERMAS C2</title>
+
+  <script>
+    (function () {
+      try {
+        const stored = localStorage.getItem('sermas.theme');
+        const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+        if (stored === 'dark' || (!stored && prefersDark)) document.documentElement.classList.add('dark');
+      } catch {}
+    })();
+  </script>
+
+  <script src="https://cdn.tailwindcss.com?plugins=forms,typography"></script>
+  <script>
+    tailwind.config = {
+      darkMode: 'class',
+      theme: {
+        container: { center: true, padding: '1.5rem' },
+        extend: {
+          colors: {
+            border: 'hsl(var(--border))',
+            input: 'hsl(var(--input))',
+            ring: 'hsl(var(--ring))',
+            background: 'hsl(var(--background))',
+            foreground: 'hsl(var(--foreground))',
+            primary:     { DEFAULT: 'hsl(var(--primary))',     foreground: 'hsl(var(--primary-foreground))' },
+            secondary:   { DEFAULT: 'hsl(var(--secondary))',   foreground: 'hsl(var(--secondary-foreground))' },
+            destructive: { DEFAULT: 'hsl(var(--destructive))', foreground: 'hsl(var(--destructive-foreground))' },
+            success:     { DEFAULT: 'hsl(var(--success))',     foreground: 'hsl(var(--success-foreground))' },
+            warning:     { DEFAULT: 'hsl(var(--warning))',     foreground: 'hsl(var(--warning-foreground))' },
+            muted:       { DEFAULT: 'hsl(var(--muted))',       foreground: 'hsl(var(--muted-foreground))' },
+            accent:      { DEFAULT: 'hsl(var(--accent))',      foreground: 'hsl(var(--accent-foreground))' },
+            popover:     { DEFAULT: 'hsl(var(--popover))',     foreground: 'hsl(var(--popover-foreground))' },
+            card:        { DEFAULT: 'hsl(var(--card))',        foreground: 'hsl(var(--card-foreground))' },
+          },
+          borderRadius: { lg: 'var(--radius)', md: 'calc(var(--radius) - 2px)', sm: 'calc(var(--radius) - 4px)' },
+          fontFamily: { sans: ['Inter var', 'Inter', 'ui-sans-serif', 'system-ui', 'sans-serif'] },
+          boxShadow: {
+            card: '0 1px 2px hsl(var(--foreground) / 0.04), 0 4px 12px hsl(var(--foreground) / 0.05)',
+          },
+        },
+      },
+    };
+  </script>
+
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body class="min-h-screen bg-background text-foreground antialiased">
+
+  <header class="sticky top-0 z-40 w-full border-b border-border bg-background/80 backdrop-blur supports-[backdrop-filter]:bg-background/60">
+    <div class="app-container flex h-14 items-center gap-3">
+      <a href="index.html" class="inline-flex h-9 items-center rounded-md border border-border bg-background px-3 text-sm font-medium hover:bg-accent transition">
+        <svg class="mr-1.5 h-4 w-4" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m15 18-6-6 6-6"/></svg>
+        Menú
+      </a>
+      <div class="flex-1 min-w-0 flex items-center gap-2">
+        <h1 id="testTitle" class="truncate text-sm md:text-base font-semibold">Cargando…</h1>
+        <span id="modeBadge" class="hidden sm:inline-flex shrink-0 items-center rounded-full border px-2 py-0.5 text-xs font-medium"></span>
+      </div>
+      <div id="headerStatus" class="hidden md:block shrink-0 text-sm text-muted-foreground"></div>
+      <button id="themeToggle" type="button" aria-label="Cambiar tema"
+              class="inline-flex h-9 w-9 items-center justify-center rounded-md border border-border bg-background hover:bg-accent transition">
+        <svg class="h-4 w-4 dark:hidden" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="4"/><path d="M12 2v2"/><path d="M12 20v2"/><path d="m4.93 4.93 1.41 1.41"/><path d="m17.66 17.66 1.41 1.41"/><path d="M2 12h2"/><path d="M20 12h2"/><path d="m6.34 17.66-1.41 1.41"/><path d="m19.07 4.93-1.41 1.41"/></svg>
+        <svg class="h-4 w-4 hidden dark:block" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3a6 6 0 0 0 9 9 9 9 0 1 1-9-9Z"/></svg>
+      </button>
+    </div>
+  </header>
+
+  <main class="app-container py-6 md:py-8">
+    <div id="loading" class="flex items-center justify-center py-16 text-muted-foreground">
+      <svg class="animate-spin mr-3 h-5 w-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10" opacity=".25"/><path d="M22 12a10 10 0 0 1-10 10"/></svg>
+      Cargando preguntas…
+    </div>
+
+    <!-- Layout 2 columnas en desktop -->
+    <div id="questionPane" hidden class="grid grid-cols-1 lg:grid-cols-[minmax(0,1fr)_320px] gap-6">
+
+      <!-- Columna principal -->
+      <div class="min-w-0">
+        <!-- Progress -->
+        <div class="mb-4">
+          <div class="progress-track"><div id="progressFill" class="progress-fill"></div></div>
+          <div class="mt-2 flex items-center justify-between text-sm text-muted-foreground">
+            <span>
+              Pregunta <span id="qPosition" class="font-semibold text-foreground">1</span>
+              de <span id="qTotal" class="font-semibold text-foreground">0</span>
+            </span>
+            <button id="markDoubt" type="button"
+                    class="inline-flex items-center gap-1.5 rounded-full border border-border bg-background px-2.5 py-1 text-xs font-medium hover:bg-accent transition">
+              <span id="markIcon">☆</span> Marcar como dudosa
+            </button>
+          </div>
+        </div>
+
+        <!-- Question card -->
+        <article class="rounded-lg border border-border bg-card text-card-foreground shadow-card">
+          <div class="p-6 md:p-8">
+            <h2 id="questionText" class="text-lg md:text-xl font-semibold leading-snug"></h2>
+            <ol id="optionList" class="mt-6 space-y-2.5 list-none p-0"></ol>
+            <div id="feedback" hidden class="mt-5 rounded-md border px-4 py-3 text-sm"></div>
+          </div>
+        </article>
+
+        <!-- Nav -->
+        <nav class="mt-5 flex items-center justify-between gap-2">
+          <button id="prevBtn" type="button"
+                  class="inline-flex h-10 items-center rounded-md border border-border bg-background px-4 text-sm font-medium hover:bg-accent transition disabled:opacity-50 disabled:pointer-events-none">
+            <svg class="mr-1.5 h-4 w-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m15 18-6-6 6-6"/></svg>
+            Anterior
+          </button>
+          <button id="navMap" type="button"
+                  class="lg:hidden inline-flex h-10 items-center rounded-md border border-border bg-background px-4 text-sm font-medium hover:bg-accent transition">
+            Mapa de preguntas
+          </button>
+          <button id="nextBtn" type="button"
+                  class="inline-flex h-10 items-center rounded-md border border-border bg-background px-4 text-sm font-medium hover:bg-accent transition disabled:opacity-50 disabled:pointer-events-none">
+            Siguiente
+            <svg class="ml-1.5 h-4 w-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m9 18 6-6-6-6"/></svg>
+          </button>
+        </nav>
+
+        <div class="mt-4 flex justify-center">
+          <button id="submitBtn" type="button"
+                  class="inline-flex h-10 items-center rounded-md bg-primary px-5 text-sm font-semibold text-primary-foreground shadow hover:bg-primary/90 transition">
+            Terminar y ver resultado
+          </button>
+        </div>
+      </div>
+
+      <!-- Sidebar (desktop) -->
+      <aside class="hidden lg:block">
+        <div class="sticky top-20 space-y-4">
+          <div class="rounded-lg border border-border bg-card p-4 shadow-card">
+            <h3 class="text-sm font-semibold tracking-tight">Progreso</h3>
+            <div class="mt-3 grid grid-cols-2 gap-3 text-sm">
+              <div class="rounded-md border border-border bg-background p-3">
+                <div id="sbAnswered" class="text-xl font-semibold">0</div>
+                <div class="text-xs text-muted-foreground">Contestadas</div>
+              </div>
+              <div class="rounded-md border border-border bg-background p-3">
+                <div id="sbDoubts" class="text-xl font-semibold text-warning">0</div>
+                <div class="text-xs text-muted-foreground">Dudosas</div>
+              </div>
+            </div>
+          </div>
+
+          <div class="rounded-lg border border-border bg-card p-4 shadow-card">
+            <div class="flex items-center justify-between">
+              <h3 class="text-sm font-semibold tracking-tight">Mapa de preguntas</h3>
+              <span id="sbCounter" class="text-xs text-muted-foreground">0 / 0</span>
+            </div>
+            <div id="sidebarMap" class="mt-3 grid grid-cols-6 gap-1.5"></div>
+            <div class="mt-3 flex flex-wrap gap-x-3 gap-y-1 text-xs text-muted-foreground">
+              <span class="inline-flex items-center gap-1"><i class="inline-block h-2.5 w-2.5 rounded-sm bg-primary"></i>Contestada</span>
+              <span class="inline-flex items-center gap-1"><i class="inline-block h-2.5 w-2.5 rounded-sm bg-warning/30 border border-warning"></i>Dudosa</span>
+              <span class="inline-flex items-center gap-1"><i class="inline-block h-2.5 w-2.5 rounded-sm bg-background border border-border"></i>En blanco</span>
+            </div>
+          </div>
+
+          <div class="rounded-lg border border-border bg-card p-4 shadow-card">
+            <h3 class="text-sm font-semibold tracking-tight">Atajos</h3>
+            <ul class="mt-2 text-xs text-muted-foreground space-y-1">
+              <li><kbd class="rounded border border-border bg-background px-1.5 py-0.5 text-[10px]">←</kbd> <kbd class="rounded border border-border bg-background px-1.5 py-0.5 text-[10px]">→</kbd> navegar</li>
+              <li><kbd class="rounded border border-border bg-background px-1.5 py-0.5 text-[10px]">1</kbd>–<kbd class="rounded border border-border bg-background px-1.5 py-0.5 text-[10px]">4</kbd> responder</li>
+              <li><kbd class="rounded border border-border bg-background px-1.5 py-0.5 text-[10px]">A</kbd>–<kbd class="rounded border border-border bg-background px-1.5 py-0.5 text-[10px]">D</kbd> responder</li>
+            </ul>
+          </div>
+        </div>
+      </aside>
+    </div>
+
+    <!-- Result pane -->
+    <div id="resultPane" hidden class="max-w-5xl mx-auto">
+      <div class="rounded-lg border border-border bg-card shadow-card">
+        <div class="p-6 md:p-8">
+          <div class="flex flex-wrap items-baseline justify-between gap-2">
+            <h2 class="text-2xl font-bold tracking-tight">Resultado</h2>
+            <p id="rSummary" class="text-sm text-muted-foreground"></p>
+          </div>
+
+          <div class="mt-6 grid grid-cols-2 md:grid-cols-5 gap-3">
+            <div class="rounded-md border border-border bg-background p-4">
+              <div id="rCorrect" class="text-2xl md:text-3xl font-bold text-success">0</div>
+              <div class="text-xs text-muted-foreground mt-0.5">Aciertos</div>
+            </div>
+            <div class="rounded-md border border-border bg-background p-4">
+              <div id="rWrong" class="text-2xl md:text-3xl font-bold text-destructive">0</div>
+              <div class="text-xs text-muted-foreground mt-0.5">Fallos</div>
+            </div>
+            <div class="rounded-md border border-border bg-background p-4">
+              <div id="rBlank" class="text-2xl md:text-3xl font-bold text-muted-foreground">0</div>
+              <div class="text-xs text-muted-foreground mt-0.5">En blanco</div>
+            </div>
+            <div class="rounded-md border border-primary/40 bg-primary/5 p-4">
+              <div id="rScore" class="text-2xl md:text-3xl font-bold text-primary">0</div>
+              <div class="text-xs text-muted-foreground mt-0.5">Nota /10</div>
+            </div>
+            <div class="rounded-md border border-warning/40 bg-warning/5 p-4">
+              <div id="rPenaltyScore" class="text-2xl md:text-3xl font-bold text-warning">0</div>
+              <div class="text-xs text-muted-foreground mt-0.5">Con –1/3</div>
+            </div>
+          </div>
+
+          <div class="mt-6 flex flex-wrap gap-2">
+            <button id="reviewBtn" type="button"
+                    class="inline-flex h-10 items-center rounded-md bg-primary px-4 text-sm font-semibold text-primary-foreground hover:bg-primary/90 transition">
+              Revisar respuestas
+            </button>
+            <button id="retryBtn" type="button"
+                    class="inline-flex h-10 items-center rounded-md border border-border bg-background px-4 text-sm font-medium hover:bg-accent transition">
+              Repetir test
+            </button>
+            <a href="index.html"
+               class="inline-flex h-10 items-center rounded-md border border-border bg-background px-4 text-sm font-medium hover:bg-accent transition">
+              Volver al menú
+            </a>
+          </div>
+        </div>
+      </div>
+
+      <section id="reviewPane" hidden class="mt-6 rounded-lg border border-border bg-card shadow-card">
+        <div class="p-6 md:p-8">
+          <h3 class="text-lg font-semibold tracking-tight">Revisión</h3>
+          <div id="reviewList" class="mt-4 divide-y divide-border"></div>
+        </div>
+      </section>
+    </div>
+
+    <!-- Dialog del mapa (solo móvil/tablet) -->
+    <dialog id="mapDialog" class="w-[92vw] max-w-md">
+      <div class="p-5">
+        <h3 class="text-base font-semibold tracking-tight">Mapa de preguntas</h3>
+        <div id="mapGrid" class="mt-4 grid grid-cols-8 gap-1.5"></div>
+        <div class="mt-3 flex flex-wrap gap-x-3 gap-y-1 text-xs text-muted-foreground">
+          <span class="inline-flex items-center gap-1"><i class="inline-block h-2.5 w-2.5 rounded-sm bg-primary"></i>Contestada</span>
+          <span class="inline-flex items-center gap-1"><i class="inline-block h-2.5 w-2.5 rounded-sm bg-warning/30 border border-warning"></i>Dudosa</span>
+          <span class="inline-flex items-center gap-1"><i class="inline-block h-2.5 w-2.5 rounded-sm bg-background border border-border"></i>En blanco</span>
+        </div>
+        <form method="dialog" class="mt-4 flex justify-end">
+          <button type="submit"
+                  class="inline-flex h-9 items-center rounded-md border border-border bg-background px-3 text-sm font-medium hover:bg-accent transition">
+            Cerrar
+          </button>
+        </form>
+      </div>
+    </dialog>
+  </main>
+
+  <script>
+    document.getElementById('themeToggle').addEventListener('click', () => {
+      const isDark = document.documentElement.classList.toggle('dark');
+      try { localStorage.setItem('sermas.theme', isDark ? 'dark' : 'light'); } catch {}
+    });
+  </script>
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,489 @@
+{
+  "id": "ley-gobierno-cam",
+  "title": "Ley 1/1983 de Gobierno y Administración de la Comunidad de Madrid",
+  "category": "Leyes",
+  "source": "Ley 1/1983, de 13 de diciembre (texto consolidado)",
+  "lastUpdated": "2026-04-18",
+  "questions": [
+    {
+      "id": "lgc-001",
+      "q": "¿Qué norma regula el Gobierno y la Administración de la Comunidad de Madrid?",
+      "options": [
+        "La Ley 1/1983, de 13 de diciembre",
+        "La Ley 2/1983, de 23 de diciembre",
+        "La Ley 3/1984, de 13 de diciembre",
+        "La Ley Orgánica 3/1983, de 25 de febrero"
+      ],
+      "correct": 0,
+      "explanation": "La Ley 1/1983, de 13 de diciembre, es la norma que regula el Gobierno y la Administración de la Comunidad de Madrid, desarrollando el Estatuto de Autonomía."
+    },
+    {
+      "id": "lgc-002",
+      "q": "Según la Ley 1/1983, el Gobierno de la Comunidad de Madrid se denomina:",
+      "options": [
+        "Junta de Gobierno",
+        "Consejo Ejecutivo",
+        "Consejo de Gobierno",
+        "Gabinete Autonómico"
+      ],
+      "correct": 2,
+      "explanation": "Conforme al artículo 1 de la Ley 1/1983, el órgano colegiado que ostenta el Gobierno de la Comunidad de Madrid se denomina Consejo de Gobierno."
+    },
+    {
+      "id": "lgc-003",
+      "q": "El Presidente de la Comunidad de Madrid es elegido por:",
+      "options": [
+        "El Rey, a propuesta del Consejo de Gobierno",
+        "Los ciudadanos mediante sufragio universal directo",
+        "El Gobierno de la Nación",
+        "La Asamblea de Madrid de entre sus miembros"
+      ],
+      "correct": 3,
+      "explanation": "De acuerdo con el artículo 17 de la Ley 1/1983, el Presidente es elegido por la Asamblea de Madrid de entre sus miembros, siendo nombrado posteriormente por el Rey."
+    },
+    {
+      "id": "lgc-004",
+      "q": "¿Qué mayoría se requiere en primera votación para la investidura del Presidente de la Comunidad de Madrid?",
+      "options": [
+        "Mayoría simple",
+        "Mayoría de dos tercios",
+        "Mayoría absoluta",
+        "Unanimidad"
+      ],
+      "correct": 2,
+      "explanation": "Según el artículo 18 de la Ley 1/1983, en la primera votación para la investidura se requiere mayoría absoluta de los miembros de la Asamblea."
+    },
+    {
+      "id": "lgc-005",
+      "q": "Si en primera votación no se obtiene la mayoría absoluta para investir al Presidente, la segunda votación:",
+      "options": [
+        "Se celebra cuarenta y ocho horas después y basta la mayoría simple",
+        "Se celebra pasadas veinticuatro horas y exige mayoría cualificada",
+        "Se pospone una semana y requiere mayoría de dos tercios",
+        "Debe convocarse a los diez días con mayoría absoluta"
+      ],
+      "correct": 0,
+      "explanation": "Conforme al artículo 18 de la Ley 1/1983, si en primera votación no se alcanza la mayoría absoluta, la segunda se celebra transcurridas cuarenta y ocho horas y basta la mayoría simple."
+    },
+    {
+      "id": "lgc-006",
+      "q": "¿Quién nombra formalmente al Presidente de la Comunidad de Madrid una vez elegido por la Asamblea?",
+      "options": [
+        "El Presidente del Gobierno de la Nación",
+        "El Presidente de la Asamblea de Madrid",
+        "El Rey",
+        "El Delegado del Gobierno en la Comunidad"
+      ],
+      "correct": 2,
+      "explanation": "El artículo 18 de la Ley 1/1983 establece que, una vez elegido por la Asamblea, el Presidente es nombrado por el Rey mediante Real Decreto."
+    },
+    {
+      "id": "lgc-007",
+      "q": "¿Cuál de las siguientes NO es una función propia del Presidente de la Comunidad de Madrid?",
+      "options": [
+        "Representar a la Comunidad de Madrid",
+        "Dirigir la acción del Gobierno",
+        "Dictar sentencias firmes en materia administrativa",
+        "Nombrar y separar a los Consejeros"
+      ],
+      "correct": 2,
+      "explanation": "Conforme al artículo 21 de la Ley 1/1983, el Presidente representa a la Comunidad, dirige el Gobierno y nombra/separa a los Consejeros, pero no ejerce funciones jurisdiccionales, reservadas a jueces y tribunales."
+    },
+    {
+      "id": "lgc-008",
+      "q": "Los Consejeros de la Comunidad de Madrid son nombrados y separados por:",
+      "options": [
+        "La Asamblea de Madrid por mayoría absoluta",
+        "El Rey a propuesta del Consejo de Gobierno",
+        "El Presidente de la Comunidad de Madrid",
+        "El propio Consejo de Gobierno"
+      ],
+      "correct": 2,
+      "explanation": "De conformidad con el artículo 36 de la Ley 1/1983, los Consejeros son nombrados y separados libremente por el Presidente de la Comunidad de Madrid."
+    },
+    {
+      "id": "lgc-009",
+      "q": "En caso de ausencia, enfermedad o vacante del Presidente, sus funciones serán asumidas por:",
+      "options": [
+        "El Consejero de mayor edad",
+        "El Presidente de la Asamblea",
+        "El Secretario General Técnico de la Presidencia",
+        "El Vicepresidente o, en su caso, el Consejero que determine el Presidente o el Consejo de Gobierno"
+      ],
+      "correct": 3,
+      "explanation": "Conforme al artículo 23 de la Ley 1/1983, en caso de ausencia, enfermedad o vacante, el Presidente es sustituido por el Vicepresidente o, en su defecto, por el Consejero que corresponda conforme al orden establecido."
+    },
+    {
+      "id": "lgc-010",
+      "q": "El Consejo de Gobierno está integrado por:",
+      "options": [
+        "El Presidente, los Vicepresidentes, en su caso, y los Consejeros",
+        "Solo el Presidente y los Consejeros",
+        "El Presidente, los Consejeros y los Viceconsejeros",
+        "El Presidente, los Consejeros y los Directores Generales"
+      ],
+      "correct": 0,
+      "explanation": "De acuerdo con el artículo 9 de la Ley 1/1983, el Consejo de Gobierno está formado por el Presidente, los Vicepresidentes, en su caso, y los Consejeros."
+    },
+    {
+      "id": "lgc-011",
+      "q": "Las deliberaciones del Consejo de Gobierno tienen carácter:",
+      "options": [
+        "Público y grabado",
+        "Secreto",
+        "Reservado pero accesible a los diputados",
+        "Publicado íntegramente en el BOCM"
+      ],
+      "correct": 1,
+      "explanation": "El artículo 14 de la Ley 1/1983 establece expresamente que las deliberaciones del Consejo de Gobierno son secretas."
+    },
+    {
+      "id": "lgc-012",
+      "q": "En caso de empate en las votaciones del Consejo de Gobierno, decide:",
+      "options": [
+        "El Consejero de mayor antigüedad",
+        "El Vicepresidente primero",
+        "El voto de calidad del Presidente",
+        "Se pospone la decisión al siguiente pleno"
+      ],
+      "correct": 2,
+      "explanation": "Conforme al artículo 15 de la Ley 1/1983, los acuerdos se adoptan por mayoría y, en caso de empate, decide el voto de calidad del Presidente."
+    },
+    {
+      "id": "lgc-013",
+      "q": "La moción de censura contra el Presidente de la Comunidad de Madrid debe ser:",
+      "options": [
+        "Constructiva, incluyendo un candidato alternativo a la Presidencia",
+        "Individual y referida solo al cese",
+        "Presentada por el Consejo de Gobierno",
+        "Ratificada por referéndum"
+      ],
+      "correct": 0,
+      "explanation": "Conforme al artículo 27 de la Ley 1/1983, la moción de censura es constructiva y debe incluir obligatoriamente un candidato alternativo a la Presidencia."
+    },
+    {
+      "id": "lgc-014",
+      "q": "¿Qué porcentaje mínimo de diputados de la Asamblea debe firmar la moción de censura?",
+      "options": [
+        "El 10 por ciento",
+        "El 15 por ciento",
+        "El 20 por ciento",
+        "Un tercio de los diputados"
+      ],
+      "correct": 1,
+      "explanation": "Según el artículo 27 de la Ley 1/1983, la moción de censura debe estar firmada, al menos, por el 15 por ciento de los diputados de la Asamblea."
+    },
+    {
+      "id": "lgc-015",
+      "q": "La moción de censura no podrá ser votada hasta que transcurran, al menos, desde su presentación:",
+      "options": [
+        "Dos días",
+        "Tres días",
+        "Cinco días",
+        "Diez días"
+      ],
+      "correct": 2,
+      "explanation": "Conforme al artículo 27 de la Ley 1/1983, la votación de la moción de censura no podrá celebrarse antes de que transcurran cinco días desde su presentación."
+    },
+    {
+      "id": "lgc-016",
+      "q": "Para su aprobación, la moción de censura requiere:",
+      "options": [
+        "Mayoría simple de los diputados presentes",
+        "Mayoría absoluta de los miembros de la Asamblea",
+        "Mayoría de tres quintos de los miembros",
+        "Mayoría de dos tercios de los votantes"
+      ],
+      "correct": 1,
+      "explanation": "El artículo 27 de la Ley 1/1983 exige la mayoría absoluta de los miembros de la Asamblea de Madrid para aprobar la moción de censura."
+    },
+    {
+      "id": "lgc-017",
+      "q": "La cuestión de confianza es planteada por el Presidente:",
+      "options": [
+        "Unilateralmente y sin trámite previo",
+        "A petición de un tercio de los diputados",
+        "Solo tras acuerdo con los portavoces de la Asamblea",
+        "Previa deliberación del Consejo de Gobierno"
+      ],
+      "correct": 3,
+      "explanation": "Según el artículo 26 de la Ley 1/1983, el Presidente, previa deliberación del Consejo de Gobierno, puede plantear la cuestión de confianza sobre su programa o una declaración de política general."
+    },
+    {
+      "id": "lgc-018",
+      "q": "La cuestión de confianza se entiende otorgada cuando obtiene:",
+      "options": [
+        "Mayoría cualificada de dos tercios",
+        "Mayoría absoluta",
+        "Mayoría simple de los diputados emitidos",
+        "Unanimidad"
+      ],
+      "correct": 2,
+      "explanation": "Conforme al artículo 26 de la Ley 1/1983, se considera otorgada la confianza cuando vote a favor la mayoría simple de los diputados."
+    },
+    {
+      "id": "lgc-019",
+      "q": "¿En qué caso NO cesa el Presidente de la Comunidad de Madrid?",
+      "options": [
+        "Por celebración de elecciones autonómicas",
+        "Por aprobación de una moción de censura",
+        "Por pérdida de una cuestión de confianza",
+        "Por acuerdo de dos tercios del Consejo de Gobierno"
+      ],
+      "correct": 3,
+      "explanation": "El artículo 20 de la Ley 1/1983 enumera las causas de cese, que no incluyen acuerdo del Consejo de Gobierno; sí, en cambio, las elecciones, la censura aprobada y la pérdida de confianza."
+    },
+    {
+      "id": "lgc-020",
+      "q": "La potestad para disolver anticipadamente la Asamblea de Madrid corresponde a:",
+      "options": [
+        "El Presidente de la Comunidad, previa deliberación del Consejo de Gobierno",
+        "El Consejo de Gobierno por mayoría absoluta",
+        "La Mesa de la Asamblea a propuesta del Presidente",
+        "El Rey a instancia del Gobierno de la Nación"
+      ],
+      "correct": 0,
+      "explanation": "El artículo 21 de la Ley 1/1983 atribuye al Presidente la facultad de disolver anticipadamente la Asamblea, previa deliberación del Consejo de Gobierno y bajo su exclusiva responsabilidad."
+    },
+    {
+      "id": "lgc-021",
+      "q": "El cargo de Consejero es incompatible con:",
+      "options": [
+        "Ser funcionario público, en todo caso",
+        "Ser miembro de un partido político",
+        "Ocupar cualquier otro cargo público, incluidos los que derivan del propio cargo",
+        "Todo mandato representativo y cualquier otra actividad profesional, mercantil o laboral"
+      ],
+      "correct": 3,
+      "explanation": "Conforme al artículo 37 de la Ley 1/1983, los miembros del Consejo de Gobierno tienen un régimen estricto de incompatibilidades, incluyendo cualquier otra actividad profesional, mercantil o laboral."
+    },
+    {
+      "id": "lgc-022",
+      "q": "¿Qué tipo de disposiciones adopta el Consejo de Gobierno en ejercicio de su potestad reglamentaria?",
+      "options": [
+        "Órdenes",
+        "Decretos",
+        "Resoluciones",
+        "Circulares"
+      ],
+      "correct": 1,
+      "explanation": "Conforme a los artículos 49 y 50 de la Ley 1/1983, las disposiciones del Consejo de Gobierno en ejercicio de la potestad reglamentaria revisten la forma de decretos."
+    },
+    {
+      "id": "lgc-023",
+      "q": "¿En qué forma adoptan los Consejeros sus disposiciones generales?",
+      "options": [
+        "Órdenes",
+        "Decretos legislativos",
+        "Leyes",
+        "Reales Decretos"
+      ],
+      "correct": 0,
+      "explanation": "Según el artículo 50 de la Ley 1/1983, las disposiciones de los Consejeros de carácter general adoptan la forma de órdenes."
+    },
+    {
+      "id": "lgc-024",
+      "q": "Los decretos legislativos emanan de:",
+      "options": [
+        "La Asamblea de Madrid",
+        "El Presidente de la Comunidad",
+        "El Consejo de Gobierno, previa delegación de la Asamblea",
+        "Los Consejeros con habilitación expresa"
+      ],
+      "correct": 2,
+      "explanation": "Conforme al artículo 49 de la Ley 1/1983, los decretos legislativos son dictados por el Consejo de Gobierno cuando la Asamblea le delega la potestad de legislar en materias concretas."
+    },
+    {
+      "id": "lgc-025",
+      "q": "Las disposiciones generales y los actos del Gobierno y de la Administración de la Comunidad de Madrid se publican en:",
+      "options": [
+        "El Boletín Oficial del Estado",
+        "El Diario de Sesiones de la Asamblea",
+        "El Boletín Oficial de la Comunidad de Madrid (BOCM)",
+        "El Boletín Oficial de la Provincia de Madrid"
+      ],
+      "correct": 2,
+      "explanation": "El artículo 52 de la Ley 1/1983 establece que la publicación oficial se realiza en el Boletín Oficial de la Comunidad de Madrid (BOCM)."
+    },
+    {
+      "id": "lgc-026",
+      "q": "Entre las funciones del Consejo de Gobierno se encuentran:",
+      "options": [
+        "Aprobar sentencias y resolver recursos de casación",
+        "Controlar al Presidente del Gobierno de la Nación",
+        "Fiscalizar la gestión del Tribunal de Cuentas",
+        "Aprobar proyectos de ley y ejercer la potestad reglamentaria"
+      ],
+      "correct": 3,
+      "explanation": "Conforme al artículo 21 de la Ley 1/1983, corresponde al Consejo de Gobierno aprobar los proyectos de ley y ejercer la potestad reglamentaria, entre otras funciones ejecutivas y de planificación."
+    },
+    {
+      "id": "lgc-027",
+      "q": "Las Comisiones Delegadas del Gobierno se crean por:",
+      "options": [
+        "Orden del Consejero de Presidencia",
+        "Ley de la Asamblea",
+        "Decreto del Consejo de Gobierno",
+        "Resolución del Presidente"
+      ],
+      "correct": 2,
+      "explanation": "Según la Ley 1/1983, las Comisiones Delegadas son creadas, modificadas y suprimidas mediante decreto del Consejo de Gobierno a propuesta del Presidente."
+    },
+    {
+      "id": "lgc-028",
+      "q": "La estructura básica de la Administración de la Comunidad de Madrid se organiza en:",
+      "options": [
+        "Consejerías",
+        "Ministerios",
+        "Departamentos regionales",
+        "Secretarías Autonómicas"
+      ],
+      "correct": 0,
+      "explanation": "Conforme al artículo 38 y siguientes de la Ley 1/1983, la Administración de la Comunidad de Madrid se estructura en Consejerías como unidades básicas de gestión."
+    },
+    {
+      "id": "lgc-029",
+      "q": "¿Cuál de los siguientes es considerado un órgano superior de la Consejería?",
+      "options": [
+        "El Director General",
+        "El Secretario General Técnico",
+        "El Viceconsejero",
+        "El Subdirector General"
+      ],
+      "correct": 2,
+      "explanation": "Según la Ley 1/1983 y su desarrollo, el Consejero y el Viceconsejero son órganos superiores, mientras que el Secretario General Técnico y los Directores Generales son órganos directivos."
+    },
+    {
+      "id": "lgc-030",
+      "q": "Los organismos autónomos de la Comunidad de Madrid:",
+      "options": [
+        "Son entidades de derecho público con personalidad jurídica propia, dependientes de la Administración",
+        "Tienen personalidad jurídica privada y carecen de patrimonio propio",
+        "Forman parte del Gobierno como miembros de pleno derecho",
+        "Son órganos unipersonales sin autonomía"
+      ],
+      "correct": 0,
+      "explanation": "Conforme a la Ley 1/1983, los organismos autónomos son entidades de derecho público con personalidad jurídica propia adscritas a una Consejería para gestionar servicios o realizar actividades específicas."
+    },
+    {
+      "id": "lgc-031",
+      "q": "La jerarquía normativa, de mayor a menor rango, entre las disposiciones autonómicas es:",
+      "options": [
+        "Ley, Decreto, Orden",
+        "Orden, Decreto, Ley",
+        "Decreto, Ley, Orden",
+        "Resolución, Orden, Decreto"
+      ],
+      "correct": 0,
+      "explanation": "Conforme al artículo 50 de la Ley 1/1983 y los principios generales del ordenamiento, las leyes prevalecen sobre los decretos y estos sobre las órdenes de los Consejeros."
+    },
+    {
+      "id": "lgc-032",
+      "q": "La responsabilidad política del Consejo de Gobierno ante la Asamblea de Madrid es:",
+      "options": [
+        "Individual de cada Consejero únicamente",
+        "Solidaria, sin perjuicio de la responsabilidad directa de cada Consejero",
+        "Inexistente, pues solo responde ante el Presidente",
+        "Ejercida únicamente mediante preguntas parlamentarias"
+      ],
+      "correct": 1,
+      "explanation": "Conforme al artículo 25 de la Ley 1/1983, el Consejo de Gobierno responde solidariamente ante la Asamblea, sin perjuicio de la responsabilidad directa de cada Consejero por su gestión."
+    },
+    {
+      "id": "lgc-033",
+      "q": "Entre los principios que rigen la actuación de la Administración de la Comunidad de Madrid figura:",
+      "options": [
+        "Discrecionalidad absoluta",
+        "Independencia total respecto del Gobierno",
+        "Opacidad en la gestión",
+        "Eficacia, jerarquía, descentralización, desconcentración y coordinación"
+      ],
+      "correct": 3,
+      "explanation": "El artículo 38 de la Ley 1/1983, en línea con el artículo 103 CE, dispone que la Administración actúa con sometimiento pleno a la ley y al Derecho, conforme a los principios de eficacia, jerarquía, descentralización, desconcentración y coordinación."
+    },
+    {
+      "id": "lgc-034",
+      "q": "¿A quién corresponde, dentro de la Consejería, la dirección de los servicios comunes y el apoyo a los órganos directivos?",
+      "options": [
+        "Al Director General",
+        "Al Viceconsejero",
+        "Al Secretario General Técnico",
+        "Al Consejero"
+      ],
+      "correct": 2,
+      "explanation": "Conforme a la Ley 1/1983 y normativa de desarrollo, el Secretario General Técnico es el órgano directivo responsable de los servicios comunes y horizontales de la Consejería."
+    },
+    {
+      "id": "lgc-035",
+      "q": "Un Consejero, después de tomar posesión, descubre que es titular de una empresa que contrata con la Administración autonómica. Debe:",
+      "options": [
+        "Mantener la titularidad mientras no contrate directamente",
+        "Cesar en la actividad incompatible o renunciar al cargo",
+        "Comunicarlo solo al Presidente sin más consecuencias",
+        "Trasladar la titularidad a un familiar inmediato"
+      ],
+      "correct": 1,
+      "explanation": "El régimen de incompatibilidades de la Ley 1/1983 (art. 37) obliga al Consejero a cesar en la actividad incompatible o a renunciar al cargo, ya que no puede compatibilizar su cargo con actividades mercantiles."
+    },
+    {
+      "id": "lgc-036",
+      "q": "La responsabilidad patrimonial de la Administración de la Comunidad de Madrid por el funcionamiento de sus servicios públicos:",
+      "options": [
+        "Se rige por los principios constitucionales y la legislación básica del Estado",
+        "No existe en el ordenamiento autonómico",
+        "Solo se exige ante los tribunales penales",
+        "Requiere autorización previa de la Asamblea"
+      ],
+      "correct": 0,
+      "explanation": "Conforme al artículo 106.2 CE y la Ley 40/2015, aplicada también en el ámbito autonómico, la Administración de la Comunidad de Madrid responde patrimonialmente por el funcionamiento normal o anormal de sus servicios públicos."
+    },
+    {
+      "id": "lgc-037",
+      "q": "El procedimiento para la elaboración de disposiciones de carácter general en la Comunidad de Madrid exige, entre otros trámites:",
+      "options": [
+        "Solo la firma del Consejero proponente",
+        "Ratificación posterior por referéndum",
+        "Exclusiva aprobación por la Asamblea",
+        "Informes preceptivos, audiencia de los interesados cuando proceda y memoria justificativa"
+      ],
+      "correct": 3,
+      "explanation": "La Ley 1/1983 y la normativa concordante prevén que el procedimiento para elaborar disposiciones generales incluya memoria justificativa, informes preceptivos y trámite de audiencia cuando proceda."
+    },
+    {
+      "id": "lgc-038",
+      "q": "Los conflictos de atribuciones entre Consejerías de la Comunidad de Madrid son resueltos por:",
+      "options": [
+        "El Tribunal Superior de Justicia de Madrid",
+        "La Asamblea de Madrid",
+        "El Consejo de Gobierno",
+        "El Tribunal Constitucional"
+      ],
+      "correct": 2,
+      "explanation": "Conforme a la Ley 1/1983, los conflictos de atribuciones entre distintas Consejerías son resueltos por el Consejo de Gobierno, al ser el órgano superior del ejecutivo autonómico."
+    },
+    {
+      "id": "lgc-039",
+      "q": "El Presidente de la Comunidad de Madrid, antes de tomar posesión, debe:",
+      "options": [
+        "Realizar un examen ante la Asamblea",
+        "Solicitar autorización al Gobierno de la Nación",
+        "Prestar juramento o promesa del cargo",
+        "Obtener el visto bueno del Delegado del Gobierno"
+      ],
+      "correct": 2,
+      "explanation": "Según el artículo 19 de la Ley 1/1983, tras su nombramiento por el Rey, el Presidente toma posesión del cargo previa prestación de juramento o promesa."
+    },
+    {
+      "id": "lgc-040",
+      "q": "Las disposiciones generales aprobadas por el Gobierno y la Administración de la Comunidad de Madrid entran en vigor:",
+      "options": [
+        "Desde el momento en que son firmadas por el Consejero",
+        "Inmediatamente después de su aprobación por el Consejo de Gobierno, sin publicación",
+        "Tras ser convalidadas por la Asamblea",
+        "En la fecha que dispongan y, en su defecto, a los veinte días de su publicación en el BOCM"
+      ],
+      "correct": 3,
+      "explanation": "Conforme al artículo 52 de la Ley 1/1983 y las reglas generales de vacatio legis, las disposiciones entran en vigor en la fecha que señalen o, en su defecto, a los veinte días de su publicación íntegra en el BOCM."
+    }
+  ]
+}

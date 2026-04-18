@@ -1,0 +1,569 @@
+{
+  "id": "ley-14-1986",
+  "title": "Ley 14/1986, General de Sanidad",
+  "category": "Leyes",
+  "source": "BOE-A-1986-10499 (texto consolidado)",
+  "lastUpdated": "2026-04-18",
+  "questions": [
+    {
+      "id": "l14-001",
+      "q": "¿En qué fecha se promulgó la Ley 14/1986, General de Sanidad?",
+      "options": ["14 de abril de 1986", "25 de abril de 1986", "29 de abril de 1986", "14 de mayo de 1986"],
+      "correct": 1,
+      "explanation": "Ley 14/1986, de 25 de abril, General de Sanidad (publicada en el BOE el 29 de abril de 1986)."
+    },
+    {
+      "id": "l14-002",
+      "q": "La Ley General de Sanidad tiene por objeto (art. 1):",
+      "options": ["Regular la Seguridad Social", "La regulación general de todas las acciones que permitan hacer efectivo el derecho a la protección de la salud reconocido en el art. 43 y concordantes de la CE", "Regular la profesión médica", "Regular los medicamentos"],
+      "correct": 1,
+      "explanation": "Art. 1.1 LGS: la presente Ley tiene por objeto la regulación general de todas las acciones que permitan hacer efectivo el derecho a la protección de la salud reconocido en el artículo 43 y concordantes de la Constitución."
+    },
+    {
+      "id": "l14-003",
+      "q": "Son titulares del derecho a la protección de la salud (art. 1.2 LGS):",
+      "options": ["Todos los españoles", "Todos los españoles y los ciudadanos extranjeros que tengan establecida su residencia en el territorio nacional", "Solo los afiliados a la Seguridad Social", "Solo los mayores de edad"],
+      "correct": 1,
+      "explanation": "Art. 1.2 LGS: son titulares del derecho a la protección de la salud y a la atención sanitaria todos los españoles y los ciudadanos extranjeros que tengan establecida su residencia en el territorio nacional."
+    },
+    {
+      "id": "l14-004",
+      "q": "Los extranjeros no residentes en España, así como los españoles fuera del territorio nacional (art. 1.3 LGS):",
+      "options": ["No tienen derecho", "Tendrán garantizado tal derecho en la forma que las leyes y convenios internacionales establezcan", "Solo en casos de urgencia", "Tienen los mismos derechos siempre"],
+      "correct": 1,
+      "explanation": "Art. 1.3 LGS: los extranjeros no residentes en España, así como los españoles fuera del territorio nacional, tendrán garantizado tal derecho en la forma que las leyes y convenios internacionales establezcan."
+    },
+    {
+      "id": "l14-005",
+      "q": "La LGS tiene carácter (art. 2):",
+      "options": ["De ley ordinaria sin especial consideración", "De norma básica en el sentido previsto en el art. 149.1.16ª CE y será de aplicación a todo el territorio del Estado", "De ley orgánica", "Solo autonómico"],
+      "correct": 1,
+      "explanation": "Art. 2.1 LGS: esta Ley tendrá la condición de norma básica en el sentido previsto en el artículo 149.1.16.ª de la Constitución y será de aplicación a todo el territorio del Estado."
+    },
+    {
+      "id": "l14-006",
+      "q": "Los medios y actuaciones del sistema sanitario están orientados prioritariamente (art. 3.1 LGS) a:",
+      "options": ["La asistencia hospitalaria", "La promoción de la salud y la prevención de enfermedades", "El consumo de medicamentos", "La investigación biomédica"],
+      "correct": 1,
+      "explanation": "Art. 3.1 LGS: los medios y actuaciones del sistema sanitario estarán orientados prioritariamente a la promoción de la salud y a la prevención de las enfermedades."
+    },
+    {
+      "id": "l14-007",
+      "q": "La asistencia sanitaria pública se extenderá a toda la población española (art. 3.2 LGS) en condiciones de:",
+      "options": ["Gratuidad absoluta", "Copago universal", "Igualdad efectiva y calidad, garantizando el acceso y prestaciones en condiciones de igualdad efectiva", "Discrecionalidad"],
+      "correct": 2,
+      "explanation": "Art. 3.2 LGS: la asistencia sanitaria pública se extenderá a toda la población española. El acceso y las prestaciones sanitarias se realizarán en condiciones de igualdad efectiva."
+    },
+    {
+      "id": "l14-008",
+      "q": "La política de salud estará orientada a la superación de los desequilibrios (art. 3.3 LGS):",
+      "options": ["Sanitarios territoriales y sociales", "Solo territoriales", "Solo económicos", "Ninguno"],
+      "correct": 0,
+      "explanation": "Art. 3.3 LGS: la política de salud estará orientada a la superación de los desequilibrios territoriales y sociales."
+    },
+    {
+      "id": "l14-009",
+      "q": "Los poderes públicos tienen la obligación de desarrollar las actuaciones del art. 43 CE mediante (art. 4 LGS):",
+      "options": ["El Sistema Nacional de Salud", "La organización y tutela de la salud pública a través de medidas preventivas y de las prestaciones y servicios necesarios, además de con las acciones sanitarias del art. 43 CE", "Solo la sanidad privada", "La Seguridad Social únicamente"],
+      "correct": 1,
+      "explanation": "La CE en su art. 43.2 dispone que compete a los poderes públicos organizar y tutelar la salud pública, y la LGS desarrolla dicho mandato con carácter básico."
+    },
+    {
+      "id": "l14-010",
+      "q": "Las Administraciones Públicas con competencias sanitarias (art. 6 LGS) orientarán sus actuaciones a:",
+      "options": ["La promoción de la salud; la prevención; la asistencia sanitaria individual y colectiva; la rehabilitación; y la salud laboral y ambiental", "Solo a la asistencia", "Solo a la investigación", "A la prestación farmacéutica"],
+      "correct": 0,
+      "explanation": "Art. 6 LGS: las actuaciones se orientarán a la promoción de la salud, a promover el interés individual/familiar/social, a garantizar la asistencia sanitaria en caso de pérdida de salud, a la rehabilitación, y a promover las acciones necesarias para la rehabilitación."
+    },
+    {
+      "id": "l14-011",
+      "q": "Los servicios sanitarios adecuarán su organización y funcionamiento a los principios de (art. 7 LGS):",
+      "options": ["Eficacia, celeridad, economía y flexibilidad", "Jerarquía y coordinación", "Neutralidad y aislamiento", "Burocracia y centralización"],
+      "correct": 0,
+      "explanation": "Art. 7 LGS: los servicios sanitarios adecuarán su organización y funcionamiento a los principios de eficacia, celeridad, economía y flexibilidad."
+    },
+    {
+      "id": "l14-012",
+      "q": "Se considera actividad fundamental del sistema sanitario (art. 8 LGS):",
+      "options": ["La actividad hospitalaria", "La realización de estudios epidemiológicos para orientar con mayor eficacia la prevención y planificación sanitaria, así como la evaluación de la calidad", "La compra de tecnología", "Solo la atención primaria"],
+      "correct": 1,
+      "explanation": "Art. 8 LGS: se considera actividad fundamental del sistema sanitario la realización de los estudios epidemiológicos necesarios para orientar con mayor eficacia la prevención de los riesgos y la planificación sanitaria."
+    },
+    {
+      "id": "l14-013",
+      "q": "Los usuarios del Sistema Nacional de Salud tendrán derecho a (art. 10 LGS):",
+      "options": ["Solo a la asistencia médica", "Respeto a la personalidad, dignidad e intimidad; información; confidencialidad; libertad en la elección, y otros", "Solo a medicamentos", "Elección ilimitada de profesional"],
+      "correct": 1,
+      "explanation": "Art. 10 LGS enumera los derechos de los usuarios: respeto a personalidad/dignidad/intimidad, información, confidencialidad, no discriminación, consentimiento informado (desde la Ley 41/2002), libre elección, etc."
+    },
+    {
+      "id": "l14-014",
+      "q": "La información sobre servicios sanitarios a que se tiene acceso y los requisitos para su uso (art. 10.2 LGS) debe ser:",
+      "options": ["Reservada", "Pública, continuada, verdadera y comprensible", "Por escrito siempre", "Solo en castellano"],
+      "correct": 1,
+      "explanation": "Art. 10.2 LGS (redacción original): a la información sobre los servicios sanitarios a que puede acceder y los requisitos para su uso."
+    },
+    {
+      "id": "l14-015",
+      "q": "Son obligaciones de los ciudadanos con las instituciones y organismos del sistema sanitario (art. 11 LGS):",
+      "options": ["Solo pagar las tasas", "Cumplir las prescripciones generales de naturaleza sanitaria comunes a toda la población; cuidar las instalaciones; responsabilizarse de su salud y del uso adecuado de las prestaciones; firmar documento del art. 10.9", "Ninguna", "Solo acudir a consulta"],
+      "correct": 1,
+      "explanation": "Art. 11 LGS: son obligaciones de los ciudadanos con las instituciones y organismos del sistema sanitario: cumplir las prescripciones generales sanitarias; cuidar las instalaciones; responsabilizarse del uso adecuado; firmar documento cuando proceda."
+    },
+    {
+      "id": "l14-016",
+      "q": "Los poderes públicos orientarán sus políticas de gasto sanitario (art. 12 LGS) a:",
+      "options": ["Corregir desigualdades sanitarias y garantizar la igualdad de acceso al SNS en todo el territorio", "Solo al equilibrio presupuestario", "Favorecer a la sanidad privada", "Centralizar el gasto"],
+      "correct": 0,
+      "explanation": "Art. 12 LGS: los poderes públicos orientarán sus políticas de gasto sanitario en orden a corregir desigualdades sanitarias y garantizar la igualdad de acceso a los servicios sanitarios públicos en todo el territorio español."
+    },
+    {
+      "id": "l14-017",
+      "q": "Las Administraciones Públicas sanitarias, en el marco de sus competencias, realizarán acciones para (art. 18 LGS):",
+      "options": ["Solo prestar asistencia", "Adopción sistemática de acciones para la educación sanitaria como elemento primordial para la mejora de la salud individual y comunitaria", "Centralizar los hospitales", "Limitar la investigación"],
+      "correct": 1,
+      "explanation": "Art. 18 LGS enumera las actividades a realizar: adopción sistemática de acciones para la educación sanitaria, atención primaria, programas orientados a grupos de riesgo, salud mental, prestación farmacéutica, etc."
+    },
+    {
+      "id": "l14-018",
+      "q": "La competencia en materia de sanidad exterior corresponde (art. 38 LGS):",
+      "options": ["A las CCAA", "A la Administración del Estado", "A las Corporaciones Locales", "Conjuntamente a Estado y CCAA"],
+      "correct": 1,
+      "explanation": "Art. 38 LGS: es competencia de la Administración del Estado la sanidad exterior, y las relaciones y acuerdos sanitarios internacionales."
+    },
+    {
+      "id": "l14-019",
+      "q": "Las actividades de sanidad exterior (art. 39 LGS) incluyen:",
+      "options": ["Solo el control de fronteras terrestres", "Vigilancia y control higiénico-sanitarios de los puertos y aeropuertos, tráfico internacional de viajeros, mercancías y cadáveres", "Solo aduanas", "Inspección de alimentos nacionales"],
+      "correct": 1,
+      "explanation": "Art. 39 LGS: la sanidad exterior se ocupa de la vigilancia y control de los posibles riesgos derivados del tráfico internacional (puertos, aeropuertos, personas, mercancías y cadáveres)."
+    },
+    {
+      "id": "l14-020",
+      "q": "Las competencias de la Administración del Estado, sin menoscabo de las de las CCAA, incluyen (art. 40 LGS):",
+      "options": ["Las bases y coordinación general de la sanidad", "Solo la sanidad exterior", "Solo la política farmacéutica", "Solo la investigación"],
+      "correct": 0,
+      "explanation": "Art. 40 LGS: la Administración del Estado, sin menoscabo de las competencias de las CCAA, desarrollará: establecimiento de normas y directrices para la coordinación; bases y coordinación general; alta inspección; sanidad exterior, legislación sobre productos farmacéuticos, etc."
+    },
+    {
+      "id": "l14-021",
+      "q": "La alta inspección del Estado sobre el SNS (art. 43 LGS) tiene por objeto:",
+      "options": ["Controlar los medicamentos", "Supervisar el cumplimiento de las competencias estatales y los criterios de política sanitaria global", "Sustituir la inspección autonómica", "Inspeccionar hospitales privados"],
+      "correct": 1,
+      "explanation": "Art. 43 LGS: la alta inspección se ejercerá por la Administración del Estado para garantizar el cumplimiento de las competencias estatales en materia sanitaria y asegurar la homogeneidad del SNS."
+    },
+    {
+      "id": "l14-022",
+      "q": "El Sistema Nacional de Salud (art. 44.1 LGS) es:",
+      "options": ["Solo la asistencia pública de la Seguridad Social", "El conjunto de los servicios de salud de la Administración del Estado y de los servicios de salud de las CCAA", "Únicamente hospitales públicos", "La suma de la sanidad pública y privada"],
+      "correct": 1,
+      "explanation": "Art. 44.1 LGS: todas las estructuras y servicios públicos al servicio de la salud integran el SNS. Es el conjunto de los Servicios de Salud de la Administración del Estado y de los Servicios de Salud de las CCAA."
+    },
+    {
+      "id": "l14-023",
+      "q": "El Sistema Nacional de Salud integrará (art. 44.2 LGS):",
+      "options": ["Todas las funciones y prestaciones sanitarias que son responsabilidad de los poderes públicos para el debido cumplimiento del derecho a la protección de la salud", "Solo la atención primaria", "Los hospitales de agudos", "Solo los profesionales"],
+      "correct": 0,
+      "explanation": "Art. 44.2 LGS: integra todas las funciones y prestaciones sanitarias que son responsabilidad de los poderes públicos para el debido cumplimiento del derecho a la protección de la salud."
+    },
+    {
+      "id": "l14-024",
+      "q": "Son características fundamentales del SNS (art. 46 LGS):",
+      "options": ["Solo la gratuidad", "La extensión de sus servicios a toda la población, la organización adecuada, prestación integral, nivel de coordinación e integración, financiación pública, atención integrada, etc.", "La financiación privada", "La gestión exclusivamente autonómica"],
+      "correct": 1,
+      "explanation": "Art. 46 LGS: son características fundamentales del SNS la extensión de sus servicios a toda la población; organización adecuada para prestación integral de la atención; prestación integral; coordinación e integración; financiación pública; atención integrada; ejecución de las competencias respectivas."
+    },
+    {
+      "id": "l14-025",
+      "q": "El Consejo Interterritorial del Sistema Nacional de Salud (art. 47 LGS) está integrado por:",
+      "options": ["Solo representantes del Ministerio", "Un representante por cada CCAA y el mismo número de representantes de la Administración del Estado", "Los presidentes autonómicos", "Los directores de hospital"],
+      "correct": 1,
+      "explanation": "Art. 47 LGS (redacción original): estará constituido por un representante de cada CCAA y un igual número de representantes de la Administración del Estado."
+    },
+    {
+      "id": "l14-026",
+      "q": "En cada CCAA se constituirá (art. 49 LGS):",
+      "options": ["Un ministerio autonómico", "Un Servicio de Salud integrado por todos los centros, servicios y establecimientos de la propia CCAA, Diputaciones, Ayuntamientos y cualesquiera otras administraciones territoriales intracomunitarias", "Un consejo de hospitales", "Una fundación privada"],
+      "correct": 1,
+      "explanation": "Art. 49 LGS: en cada CCAA se constituirá un Servicio de Salud integrado por todos los centros, servicios y establecimientos de la propia CCAA, Diputaciones, Ayuntamientos y cualesquiera otras administraciones territoriales intracomunitarias, bajo la responsabilidad de la CCAA."
+    },
+    {
+      "id": "l14-027",
+      "q": "La organización territorial del sistema sanitario se basa en (art. 55 LGS):",
+      "options": ["Las provincias únicamente", "Las Áreas de Salud, dependiendo de las CCAA", "Los hospitales", "Los municipios exclusivamente"],
+      "correct": 1,
+      "explanation": "Art. 55 LGS: la organización territorial de los Servicios de Salud de las CCAA se realiza a través de las Áreas de Salud."
+    },
+    {
+      "id": "l14-028",
+      "q": "Las Áreas de Salud (art. 56 LGS) son:",
+      "options": ["Las estructuras fundamentales del sistema sanitario, responsables de la gestión unitaria de los centros y establecimientos del Servicio de Salud, así como de las prestaciones sanitarias y programas sanitarios", "Los hospitales", "Los centros de salud", "Las consejerías autonómicas"],
+      "correct": 0,
+      "explanation": "Art. 56 LGS: las áreas de salud son las estructuras fundamentales del sistema sanitario, responsables de la gestión unitaria de los centros y establecimientos del Servicio de Salud en su demarcación territorial, así como de las prestaciones y programas sanitarios a desarrollar por ellos."
+    },
+    {
+      "id": "l14-029",
+      "q": "Las Áreas de Salud deberán desarrollar las siguientes actividades (art. 56.2 LGS):",
+      "options": ["Solo asistencia", "Asistencia sanitaria de atención primaria y especializada; programas de promoción de la salud, prevención de enfermedades y rehabilitación; participación comunitaria", "Farmacia y ortopedia", "Solo investigación"],
+      "correct": 1,
+      "explanation": "Art. 56.2 LGS: las áreas de salud desarrollarán las actividades de: prevención; promoción; atención primaria y especializada; rehabilitación; programas y formación; participación."
+    },
+    {
+      "id": "l14-030",
+      "q": "Las Áreas de Salud se delimitarán teniendo en cuenta (art. 56.4 LGS):",
+      "options": ["Factores demográficos, geográficos, socioeconómicos, laborales, epidemiológicos, culturales, climatológicos y de dotación de vías y medios de comunicación, así como instalaciones sanitarias", "Solo el número de habitantes", "La distancia al hospital", "Criterios políticos"],
+      "correct": 0,
+      "explanation": "Art. 56.4 LGS: las áreas de salud se delimitarán teniendo en cuenta factores geográficos, socioeconómicos, demográficos, laborales, epidemiológicos, culturales, climatológicos y de vías y medios de comunicación, así como de instalaciones sanitarias del área."
+    },
+    {
+      "id": "l14-031",
+      "q": "Las Áreas de Salud extenderán su acción, como regla general, a una población no inferior a (art. 56.5 LGS):",
+      "options": ["50.000 habitantes ni superior a 100.000", "100.000 habitantes ni superior a 150.000", "200.000 habitantes ni superior a 250.000", "500.000 habitantes"],
+      "correct": 2,
+      "explanation": "Art. 56.5 LGS: como regla general, el área de salud extenderá su acción a una población no inferior a 200.000 habitantes ni superior a 250.000, si bien en CCAA uniprovinciales o insulares puede ampliarse o reducirse."
+    },
+    {
+      "id": "l14-032",
+      "q": "¿Qué órgano asume la dirección del Área de Salud en los términos que establezca la CCAA?",
+      "options": ["El Director Gerente o figura equivalente", "El Consejo de Salud", "El Gerente hospitalario", "El Alcalde"],
+      "correct": 0,
+      "explanation": "Cada CCAA determina la estructura de gestión del Área de Salud; habitualmente un Director Gerente o Director Médico del Área es responsable de la gestión."
+    },
+    {
+      "id": "l14-033",
+      "q": "Los órganos del Área de Salud (art. 57 y ss LGS) son:",
+      "options": ["Solo el Director", "Los de participación (Consejo de Salud), los de dirección (Consejo de Dirección del Área) y los de gestión (Gerente de Área)", "Solo el Consejo de Dirección", "Las juntas facultativas"],
+      "correct": 1,
+      "explanation": "Arts. 57-60 LGS: los órganos del Área de Salud son los de participación (Consejo de Salud del Área), de dirección (Consejo de Dirección del Área) y de gestión (Gerente de Área)."
+    },
+    {
+      "id": "l14-034",
+      "q": "Las Áreas de Salud se dividirán, para conseguir la máxima operatividad en la Atención Primaria, en (art. 62 LGS):",
+      "options": ["Distritos sanitarios", "Zonas Básicas de Salud", "Municipios", "Sectores sanitarios"],
+      "correct": 1,
+      "explanation": "Art. 62 LGS: para conseguir la máxima operatividad y eficacia en el funcionamiento de los servicios en el nivel primario, las áreas de salud se dividirán en Zonas Básicas de Salud."
+    },
+    {
+      "id": "l14-035",
+      "q": "En la delimitación de las Zonas Básicas de Salud se tendrán en cuenta (art. 62.2 LGS):",
+      "options": ["Solo la población", "Distancias máximas y tiempo normal a recorrer entre cualquier punto y su centro de salud; grado de concentración o dispersión de la población; características epidemiológicas; instalaciones y recursos sanitarios", "Nada en particular", "Solo el presupuesto"],
+      "correct": 1,
+      "explanation": "Art. 62.2 LGS: en la delimitación de las Zonas Básicas de Salud se tendrán en cuenta: distancias máximas y tiempo a recorrer entre cualquier punto y el centro de salud; grado de concentración o dispersión de la población; características epidemiológicas de la zona; instalaciones y recursos sanitarios."
+    },
+    {
+      "id": "l14-036",
+      "q": "La Zona Básica de Salud es el marco territorial de (art. 63 LGS):",
+      "options": ["La atención especializada", "La atención primaria de salud, donde desarrollan las actividades sanitarias los Centros de Salud", "La inspección", "Solo la salud pública"],
+      "correct": 1,
+      "explanation": "Art. 63 LGS: la Zona Básica de Salud es el marco territorial de la atención primaria de salud donde desarrollan las actividades sanitarias los Centros de Salud, centros integrales que desempeñan las funciones correspondientes al primer nivel asistencial."
+    },
+    {
+      "id": "l14-037",
+      "q": "El Centro de Salud tiene, entre sus funciones (art. 64 LGS):",
+      "options": ["Alojar a los equipos de Atención Primaria, realizar actividades encaminadas a la promoción de la salud, prevención, curación y rehabilitación, y actividades docentes e investigadoras", "Solo la docencia", "La investigación farmacológica", "Únicamente urgencias"],
+      "correct": 0,
+      "explanation": "Art. 64 LGS: el Centro de Salud tendrá las funciones de albergar la estructura física de consultas y servicios asistenciales del Equipo de AP; albergar los recursos materiales; mejorar la organización administrativa de la atención primaria; y desarrollar las labores de docencia e investigación."
+    },
+    {
+      "id": "l14-038",
+      "q": "Cada Área de Salud estará vinculada o dispondrá, al menos, de (art. 65 LGS):",
+      "options": ["Un centro de salud", "Un hospital general, con los servicios que aconseje la población a asistir, la estructura de esta y los problemas de salud", "Una clínica privada", "Un servicio de urgencias"],
+      "correct": 1,
+      "explanation": "Art. 65.1 LGS: cada área de salud estará vinculada o dispondrá, al menos, de un hospital general, con los servicios que aconseje la población a asistir, la estructura de ésta y los problemas de salud."
+    },
+    {
+      "id": "l14-039",
+      "q": "El hospital es el establecimiento encargado de (art. 65.2 LGS):",
+      "options": ["Solo ingresos", "El internamiento clínico y de la asistencia especializada y complementaria que requiera su zona de influencia", "Solo la cirugía", "Exclusivamente los crónicos"],
+      "correct": 1,
+      "explanation": "Art. 65.2 LGS: el hospital es el establecimiento encargado tanto del internamiento clínico como de la asistencia especializada y complementaria que requiera su zona de influencia."
+    },
+    {
+      "id": "l14-040",
+      "q": "La atención a la salud mental se desarrollará (art. 20 LGS):",
+      "options": ["En centros psiquiátricos específicos únicamente", "En el ámbito comunitario, potenciando los recursos asistenciales a nivel ambulatorio y los sistemas de hospitalización parcial y atención a domicilio", "Solo hospitalaria", "En consultas privadas"],
+      "correct": 1,
+      "explanation": "Art. 20 LGS: sobre la base de la plena integración de las actuaciones relativas a la salud mental en el sistema sanitario general, se desarrollará en el ámbito comunitario, potenciando los recursos asistenciales a nivel ambulatorio y los sistemas de hospitalización parcial y atención a domicilio que reduzcan al máximo posible la necesidad de hospitalización."
+    },
+    {
+      "id": "l14-041",
+      "q": "La hospitalización de pacientes por razones psiquiátricas se realizará (art. 20 LGS):",
+      "options": ["En hospitales psiquiátricos independientes", "En las unidades psiquiátricas de los hospitales generales", "En centros privados", "En residencias"],
+      "correct": 1,
+      "explanation": "Art. 20.2 LGS: la hospitalización de los pacientes por procesos que así lo requieran se realizará en las unidades psiquiátricas de los hospitales generales."
+    },
+    {
+      "id": "l14-042",
+      "q": "La atención a la salud laboral (art. 21 LGS) tendrá como objetivo:",
+      "options": ["La reincorporación inmediata al trabajo", "La promoción de la salud integral del trabajador, la vigilancia de la salud y la prevención", "Únicamente la protección del empresario", "Sustituir a la Seguridad Social"],
+      "correct": 1,
+      "explanation": "Art. 21 LGS: la actuación sanitaria en el ámbito de la salud laboral comprende la vigilancia de la salud de los trabajadores, la protección frente a riesgos específicos y el desarrollo de programas de promoción."
+    },
+    {
+      "id": "l14-043",
+      "q": "La participación comunitaria en el Sistema de Salud (art. 53 LGS) se articulará a través de:",
+      "options": ["Asambleas municipales", "Los órganos establecidos en las normas de organización de las CCAA y del Estado (Consejo de Salud, consejos de área, etc.)", "Solo referendos", "No existe"],
+      "correct": 1,
+      "explanation": "Art. 5.2 LGS y art. 53 LGS establecen el principio de participación comunitaria en los órganos de los servicios sanitarios (Consejos de Salud del Área y equivalentes)."
+    },
+    {
+      "id": "l14-044",
+      "q": "La asistencia sanitaria prestada con medios ajenos al SNS (art. 90 LGS):",
+      "options": ["Está prohibida", "Se vinculará mediante convenios o conciertos, con prioridad a los centros y servicios sin ánimo de lucro cuando sus características e igualdad de condiciones lo permitan", "Es discrecional", "Se contrata siempre en libre concurrencia"],
+      "correct": 1,
+      "explanation": "Art. 90 LGS: las AAPP sanitarias podrán establecer conciertos para la prestación de servicios con medios ajenos. Tendrán carácter preferente los conciertos con entidades sin ánimo de lucro."
+    },
+    {
+      "id": "l14-045",
+      "q": "La LGS establece en el art. 3.1 que el acceso y las prestaciones sanitarias:",
+      "options": ["Se realizarán en condiciones de igualdad efectiva", "Dependerán del lugar de residencia", "Serán diferentes por CCAA sin garantía básica", "Exigirán pago universal"],
+      "correct": 0,
+      "explanation": "Art. 3.2 LGS: el acceso y las prestaciones sanitarias se realizarán en condiciones de igualdad efectiva."
+    },
+    {
+      "id": "l14-046",
+      "q": "El derecho a la libre elección del médico en el Sistema Nacional de Salud se reconoce en (art. 10 LGS):",
+      "options": ["Solo en hospitales privados", "En los términos reglamentariamente establecidos, en el Área de Salud", "Siempre sin límite", "No se reconoce"],
+      "correct": 1,
+      "explanation": "Art. 10.13 LGS (redacción original): a elegir el médico y los demás sanitarios titulados, de acuerdo con las condiciones contempladas en la Ley, en las disposiciones que se dicten para su desarrollo y en las que regulen el trabajo sanitario en los Centros de Salud."
+    },
+    {
+      "id": "l14-047",
+      "q": "La docencia y la investigación en el sistema sanitario (art. 104 LGS) se desarrollarán de forma:",
+      "options": ["Separada de la asistencia", "Integrada con la actividad asistencial y la gestión del sistema", "Sin relación", "Únicamente en hospitales privados"],
+      "correct": 1,
+      "explanation": "Art. 104 LGS: toda la estructura asistencial del sistema sanitario debe estar en disposición de ser utilizada para la docencia pregraduada, postgraduada y continuada de los profesionales."
+    },
+    {
+      "id": "l14-048",
+      "q": "Según la LGS, las AAPP, a través del SNS (art. 18.13 LGS), garantizarán la asistencia sanitaria en todos los casos de pérdida de salud. ¿Qué más prevé el art. 18?",
+      "options": ["Promoción de la donación voluntaria de sangre y órganos", "Solo programas hospitalarios", "Nada más", "Solo medicina preventiva"],
+      "correct": 0,
+      "explanation": "Art. 18.13 LGS: promoción y mejora de la donación voluntaria de sangre y órganos. Entre las actividades incluidas está el fomento de la donación."
+    },
+    {
+      "id": "l14-049",
+      "q": "La atención primaria de salud (art. 63 LGS) incluye, entre otras, actividades de:",
+      "options": ["Solo curación", "Promoción de la salud, educación sanitaria, prevención, atención curativa y rehabilitadora", "Solo atención domiciliaria", "Solo especializada"],
+      "correct": 1,
+      "explanation": "Art. 63 LGS: la atención primaria desarrolla actividades de promoción, prevención, asistencia curativa y rehabilitadora a través de los Equipos de Atención Primaria."
+    },
+    {
+      "id": "l14-050",
+      "q": "La Ley General de Sanidad regula, entre sus títulos, uno específico dedicado a:",
+      "options": ["Los productos sanitarios", "Los productos farmacéuticos (Título V)", "Solo los medicamentos genéricos", "La farmacia hospitalaria"],
+      "correct": 1,
+      "explanation": "La LGS tiene un Título V dedicado a los productos farmacéuticos, si bien buena parte se rige por legislación específica (Ley del Medicamento)."
+    },
+    {
+      "id": "l14-051",
+      "q": "Los derechos de los usuarios incluyen el de confidencialidad de toda la información (art. 10.3 LGS), denominado:",
+      "options": ["Secreto profesional", "Derecho a la reserva de la información sanitaria en los términos de la ley", "Derecho al honor", "Derecho al olvido"],
+      "correct": 1,
+      "explanation": "Art. 10.3 LGS: todos los usuarios tienen derecho a la confidencialidad de toda la información relacionada con su proceso y estancia en instituciones sanitarias públicas y privadas."
+    },
+    {
+      "id": "l14-052",
+      "q": "El derecho a que se le dé en términos comprensibles información completa y continuada, verbal y escrita, sobre su proceso, incluyendo diagnóstico, pronóstico y alternativas (art. 10.5 LGS):",
+      "options": ["Ha sido sustituido por la Ley 41/2002 de autonomía del paciente", "Es inaplicable", "Se regula solo en el reglamento", "No existe"],
+      "correct": 0,
+      "explanation": "Este derecho, recogido originalmente en el art. 10.5 LGS, ha sido derogado y sustituido por la regulación específica de la Ley 41/2002, básica de autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica."
+    },
+    {
+      "id": "l14-053",
+      "q": "Según la LGS (art. 3), la asistencia sanitaria pública se extenderá:",
+      "options": ["Solo a los afiliados a la Seguridad Social", "A toda la población española", "A los mayores de edad", "A quienes paguen cuota"],
+      "correct": 1,
+      "explanation": "Art. 3.2 LGS: la asistencia sanitaria pública se extenderá a toda la población española."
+    },
+    {
+      "id": "l14-054",
+      "q": "Las Administraciones Locales (art. 42 LGS), sin menoscabo de las competencias del Estado y de las CCAA, tendrán responsabilidades mínimas en relación con:",
+      "options": ["La formación médica", "El control sanitario del medio ambiente, del aire, aguas, residuos, industrias, vivienda, alimentos, cementerios, etc.", "La investigación de enfermedades", "El dictado de normas básicas"],
+      "correct": 1,
+      "explanation": "Art. 42.3 LGS enumera las responsabilidades mínimas de las corporaciones locales: control sanitario del medio ambiente, de industrias, actividades y servicios, transportes y alimentos, edificios y lugares de vivienda y convivencia humana, cementerios y policía sanitaria mortuoria."
+    },
+    {
+      "id": "l14-055",
+      "q": "El Sistema Nacional de Salud se financia principalmente mediante (art. 79 LGS):",
+      "options": ["Cuotas de los trabajadores y empresarios", "Aportaciones de los Presupuestos Generales del Estado y de las CCAA, además de las tasas por prestación de servicios", "Fondos privados", "Donaciones"],
+      "correct": 1,
+      "explanation": "Art. 79 LGS: la financiación del SNS se realiza mediante recursos de las Administraciones Públicas (Presupuestos Generales y autonómicos) y por las tasas por prestaciones, entre otros."
+    },
+    {
+      "id": "l14-056",
+      "q": "Las competencias de las CCAA en materia sanitaria (art. 41 LGS) se ejercen:",
+      "options": ["Bajo la tutela directa del Estado", "En su ámbito territorial, respetando las bases y coordinación general del Estado", "Sin límites", "Únicamente sobre hospitales"],
+      "correct": 1,
+      "explanation": "Art. 41 LGS: las CCAA ejercerán sus competencias asumidas en los Estatutos, respetando las bases y coordinación general que corresponden al Estado."
+    },
+    {
+      "id": "l14-057",
+      "q": "El personal al servicio del sistema sanitario (art. 83 y ss LGS):",
+      "options": ["Es exclusivamente funcionario", "Está sujeto a un régimen específico, pudiendo ser personal estatutario, funcionario o laboral, con adecuada coordinación", "Es siempre laboral", "Está fuera del sistema"],
+      "correct": 1,
+      "explanation": "Arts. 84-87 LGS: existen diversos regímenes (estatutario, funcionarial y laboral). El estatutario se rige por el Estatuto Marco (Ley 55/2003)."
+    },
+    {
+      "id": "l14-058",
+      "q": "La LGS regula en sus arts. 27 a 37 medidas especiales en materia de:",
+      "options": ["Contratación", "Intervención pública en relación con la salud individual y colectiva (control de alimentos, productos tóxicos, etc.)", "Licitación hospitalaria", "Reclamaciones"],
+      "correct": 1,
+      "explanation": "Arts. 27-37 LGS regulan las intervenciones públicas en actividades y productos que pueden afectar a la salud (control sanitario, ejercicio profesional, autorizaciones, etc.)."
+    },
+    {
+      "id": "l14-059",
+      "q": "El control sanitario en el ámbito laboral (art. 21 LGS) se integra con:",
+      "options": ["El régimen general de la Seguridad Social sin más", "Las actividades de prevención de riesgos laborales", "La Inspección de Trabajo", "Nada"],
+      "correct": 1,
+      "explanation": "Art. 21 LGS y legislación de prevención: la salud laboral se integra con la prevención de riesgos laborales, la vigilancia de la salud y la acción sanitaria."
+    },
+    {
+      "id": "l14-060",
+      "q": "Las autoridades sanitarias, de acuerdo con el art. 26 LGS, podrán adoptar:",
+      "options": ["Solo informes", "Medidas preventivas cuando exista o se sospeche razonablemente la existencia de un riesgo inminente y extraordinario para la salud (incautación, cierre, suspensión de actividades, etc.)", "Decisiones políticas solamente", "Nada sin sentencia judicial"],
+      "correct": 1,
+      "explanation": "Art. 26 LGS: en caso de riesgo inminente y extraordinario, las autoridades sanitarias podrán adoptar medidas preventivas de incautación o inmovilización de productos, suspensión del ejercicio de actividades, cierres de empresas o sus instalaciones, intervención de medios materiales y personales, y cuantas se consideren sanitariamente justificadas."
+    },
+    {
+      "id": "l14-061",
+      "q": "La duración de estas medidas preventivas (art. 26.2 LGS) será:",
+      "options": ["Indefinida", "El tiempo que exija la situación de riesgo inminente y extraordinario que las justificó", "30 días prorrogables", "Máximo 3 meses"],
+      "correct": 1,
+      "explanation": "Art. 26.2 LGS: la duración de las medidas a que se refiere el apartado anterior no excederá de lo que exija la situación de riesgo inminente y extraordinario que las justificó."
+    },
+    {
+      "id": "l14-062",
+      "q": "La LGS declara (art. 5) que las Administraciones Públicas sanitarias orientarán sus actuaciones conforme a los siguientes principios:",
+      "options": ["Privatización", "Concepción integral de la sanidad; promoción; prevención; medicina comunitaria; educación sanitaria", "Centralización", "Financiación por cotizaciones"],
+      "correct": 1,
+      "explanation": "Art. 5 LGS: principios de concepción integral de la sanidad, promoción de la salud, prevención, asistencia integrada, participación comunitaria y educación sanitaria."
+    },
+    {
+      "id": "l14-063",
+      "q": "Las infracciones sanitarias (art. 35 LGS) se clasifican en:",
+      "options": ["Leves, graves y muy graves", "Leves y graves", "Solo graves", "Administrativas y penales"],
+      "correct": 0,
+      "explanation": "Art. 35 LGS: las infracciones en materia de sanidad se clasifican en leves, graves y muy graves. Las sanciones (art. 36) van desde los 3.000 € a más de 600.000 € en función de la gravedad y la actualización normativa."
+    },
+    {
+      "id": "l14-064",
+      "q": "Las actividades sanitarias de las AAPP en los centros docentes (art. 19 LGS) se dirigen a:",
+      "options": ["Solo la educación", "El control sanitario del medio escolar y la promoción y educación sanitaria en la escuela", "Solo la vigilancia", "La evaluación académica"],
+      "correct": 1,
+      "explanation": "Art. 19 LGS: las AAPP sanitarias, en coordinación con las de la enseñanza, desarrollarán actividades de control sanitario, información y educación sanitaria del medio escolar."
+    },
+    {
+      "id": "l14-065",
+      "q": "Los principios generales que regirán el SNS según el art. 46 LGS son (entre otros):",
+      "options": ["Extensión; organización adecuada; prestación integral; coordinación y, en su caso, integración de todos los recursos sanitarios públicos; financiación pública; atención integrada", "La competencia con la sanidad privada", "La rentabilidad económica", "La privatización progresiva"],
+      "correct": 0,
+      "explanation": "Art. 46 LGS enumera las características fundamentales del SNS."
+    },
+    {
+      "id": "l14-066",
+      "q": "En caso de emergencia o catástrofe, la coordinación de los Servicios de Salud (art. 70 LGS):",
+      "options": ["La decide cada CCAA sola", "Corresponde al Estado; la cooperación es obligatoria", "Se deja a la iniciativa privada", "Queda suspendida"],
+      "correct": 1,
+      "explanation": "Art. 70 LGS: la coordinación general sanitaria la establecerá el Estado. En casos de crisis o emergencia se habilitarán instrumentos coordinadores específicos."
+    },
+    {
+      "id": "l14-067",
+      "q": "En la LGS, se establece la obligación de las AAPP sanitarias de llevar a cabo programas de atención a grupos específicos de riesgo (art. 18.8 LGS) como:",
+      "options": ["Solo mayores", "Mujeres, infancia, adolescencia, tercera edad, grupos de riesgo y enfermos crónicos y terminales", "Solo niños", "Sin especificar"],
+      "correct": 1,
+      "explanation": "Art. 18.8 LGS: programas de atención a grupos de población de mayor riesgo y programas específicos de protección frente a factores de riesgo, así como los programas de prevención de las deficiencias."
+    },
+    {
+      "id": "l14-068",
+      "q": "La inspección de centros y actividades sanitarias corresponderá (art. 31 LGS):",
+      "options": ["Al Ministerio de Sanidad", "A las autoridades sanitarias competentes de las CCAA, pudiendo el Estado ejercer la alta inspección", "A las Diputaciones", "A los Ayuntamientos"],
+      "correct": 1,
+      "explanation": "Art. 31 LGS: las autoridades sanitarias competentes podrán realizar los exámenes e inspecciones periódicas que estimen oportunos; la alta inspección corresponde al Estado."
+    },
+    {
+      "id": "l14-069",
+      "q": "Las autorizaciones sanitarias para centros y establecimientos (art. 29 LGS):",
+      "options": ["No son necesarias", "Son otorgadas por la Administración sanitaria autonómica", "Las otorga el Estado", "Las otorga la OMS"],
+      "correct": 1,
+      "explanation": "Art. 29 LGS: los centros y establecimientos sanitarios, cualquiera que sea su nivel, categoría o titular, precisarán autorización administrativa previa para su instalación y funcionamiento, así como para cualquier modificación."
+    },
+    {
+      "id": "l14-070",
+      "q": "El Registro de Centros, Servicios y Establecimientos Sanitarios se contempla (art. 29.3 LGS) para:",
+      "options": ["Fines comerciales", "La centralización de la información sobre dispositivos sanitarios", "Los profesionales solo", "Inspecciones tributarias"],
+      "correct": 1,
+      "explanation": "Art. 29.3 LGS: se establecerá un registro de los centros, servicios y establecimientos sanitarios autorizados."
+    },
+    {
+      "id": "l14-071",
+      "q": "Según el art. 88 LGS, los servicios y recursos sanitarios privados podrán complementar al SNS (art. 88 LGS):",
+      "options": ["Siempre que sean gratuitos", "Mediante su incorporación funcional al SNS, articulados mediante convenios o conciertos", "Sin regulación", "Como sustitución"],
+      "correct": 1,
+      "explanation": "Arts. 88 y 90 LGS: el SNS puede articular la colaboración de la iniciativa privada mediante conciertos para la prestación de servicios."
+    },
+    {
+      "id": "l14-072",
+      "q": "La LGS recoge la figura del Plan de Salud (art. 71 y ss LGS) como:",
+      "options": ["Un documento facultativo", "Instrumento de coordinación general sanitaria que integra los criterios básicos de la política sanitaria", "Un acuerdo internacional", "Un convenio con empresas"],
+      "correct": 1,
+      "explanation": "Arts. 71-75 LGS: el Plan Integrado de Salud es el conjunto de los Planes de Salud del Estado, de las CCAA y de los conjuntos que integran el SNS, estableciendo la coordinación general."
+    },
+    {
+      "id": "l14-073",
+      "q": "Son órganos del Sistema Nacional de Salud del Estado (art. 51 LGS):",
+      "options": ["Solo el Ministerio", "El Consejo Interterritorial del SNS como órgano básico de coordinación", "El TC", "El CGPJ"],
+      "correct": 1,
+      "explanation": "Art. 47 LGS: el Consejo Interterritorial del SNS es el órgano coordinador entre las CCAA y el Estado."
+    },
+    {
+      "id": "l14-074",
+      "q": "La LGS reconoce la acción protectora de la salud en el medio (art. 18 LGS) que comprende:",
+      "options": ["Solo el control ambiental", "La promoción y mejora de los sistemas de saneamiento, abastecimiento de aguas, eliminación y tratamiento de residuos; el control sanitario de edificios y lugares de vivienda; el medio ambiente en general", "Solo los alimentos", "Nada"],
+      "correct": 1,
+      "explanation": "Art. 18.6 y 18.7 LGS: las AAPP sanitarias desarrollarán actuaciones sobre el control sanitario del medio ambiente (agua, aire, residuos, edificios y entornos) y la vigilancia y control sanitario de alimentos."
+    },
+    {
+      "id": "l14-075",
+      "q": "La asistencia a los enfermos mentales en la LGS se inspira en (art. 20 LGS):",
+      "options": ["El modelo asilar", "La plena integración de las actuaciones relativas a salud mental en el sistema sanitario general y la total equiparación del enfermo mental a las demás personas que requieran servicios sanitarios", "La exclusión social", "La privatización"],
+      "correct": 1,
+      "explanation": "Art. 20 LGS: sobre la base de la plena integración y de la total equiparación del enfermo mental a las demás personas que requieran servicios sanitarios y sociales."
+    },
+    {
+      "id": "l14-076",
+      "q": "Las acciones de salud laboral, prevención y medicina preventiva se realizarán en coordinación con (art. 21.2 LGS):",
+      "options": ["El Ministerio de Justicia", "La Inspección de Trabajo y Seguridad Social y organismos técnicos competentes", "El CGPJ", "Ninguno"],
+      "correct": 1,
+      "explanation": "Art. 21.2 LGS: en el ámbito de la salud laboral se coordinan las AAPP sanitarias con las competentes en materia laboral (Inspección de Trabajo, INSS, etc.)."
+    },
+    {
+      "id": "l14-077",
+      "q": "La formación de personal sanitario (art. 105 LGS) se basa en:",
+      "options": ["Solo formación universitaria", "Formación pregraduada, especializada y continuada, integrada con la actividad asistencial", "Cursos voluntarios", "Autoformación exclusiva"],
+      "correct": 1,
+      "explanation": "Art. 105 LGS: la formación del personal sanitario se articulará en los tres niveles (pregraduado, especializado y continuado) integrada con la actividad asistencial en los centros sanitarios."
+    },
+    {
+      "id": "l14-078",
+      "q": "La Ley General de Sanidad dedica su Título VII a (art. 84 y ss):",
+      "options": ["Productos farmacéuticos", "El personal del sistema sanitario y, más específicamente, al régimen de sus contratos, formación y otras cuestiones (personal estatutario, funcionario, laboral)", "Los hospitales", "La investigación"],
+      "correct": 1,
+      "explanation": "El Título VII de la LGS regula el personal al servicio del Sistema Nacional de Salud."
+    },
+    {
+      "id": "l14-079",
+      "q": "Según el art. 3.4 de la LGS (redacción vigente), las políticas, estrategias y programas de salud integrarán activamente:",
+      "options": ["La perspectiva privada", "En sus objetivos y actuaciones el principio de igualdad entre mujeres y hombres, evitando que las diferencias biológicas o sociales se traduzcan en desigualdades evitables en la salud", "La perspectiva económica", "Ninguna"],
+      "correct": 1,
+      "explanation": "Art. 3.4 LGS (modificado por la LO 3/2007): las políticas, estrategias y programas de salud integrarán activamente la perspectiva de género en sus objetivos y actuaciones."
+    },
+    {
+      "id": "l14-080",
+      "q": "La Ley 14/1986 fue objeto posteriormente de desarrollos y complementos, entre ellos:",
+      "options": ["La Ley 16/2003 de cohesión y calidad del SNS", "El Código Penal", "La LOPD", "La Ley de Contratos"],
+      "correct": 0,
+      "explanation": "La Ley 16/2003 de cohesión y calidad del SNS (junto con la Ley 41/2002 de autonomía del paciente, el RDL 16/2012, y otras) desarrolla y complementa el modelo general de la LGS."
+    }
+  ]
+}

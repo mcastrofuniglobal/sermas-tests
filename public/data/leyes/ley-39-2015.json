@@ -1,0 +1,569 @@
+{
+  "id": "ley-39-2015",
+  "title": "Ley 39/2015, Procedimiento Administrativo Común",
+  "category": "Leyes",
+  "source": "BOE-A-2015-10565 (texto consolidado)",
+  "lastUpdated": "2026-04-18",
+  "questions": [
+    {
+      "id": "l39-001",
+      "q": "La Ley 39/2015, de 1 de octubre, es:",
+      "options": ["De Régimen Jurídico del Sector Público", "Del Procedimiento Administrativo Común de las Administraciones Públicas", "General Tributaria", "De Contratos del Sector Público"],
+      "correct": 1,
+      "explanation": "La Ley 39/2015, de 1 de octubre, es la Ley del Procedimiento Administrativo Común de las Administraciones Públicas (LPAC)."
+    },
+    {
+      "id": "l39-002",
+      "q": "¿Cuántos títulos tiene la Ley 39/2015 (sin contar el Preliminar)?",
+      "options": ["Cinco", "Seis", "Siete", "Ocho"],
+      "correct": 1,
+      "explanation": "La LPAC tiene un Título Preliminar y 6 Títulos (I al VI)."
+    },
+    {
+      "id": "l39-003",
+      "q": "¿Cuántos artículos tiene la Ley 39/2015?",
+      "options": ["113", "123", "133", "143"],
+      "correct": 2,
+      "explanation": "La Ley 39/2015 consta de 133 artículos."
+    },
+    {
+      "id": "l39-004",
+      "q": "¿Cuál NO es una Administración Pública a efectos del art. 2 de la Ley 39/2015?",
+      "options": ["La Administración General del Estado", "Las Administraciones de las CCAA", "Las Entidades que integran la Administración Local", "Las empresas privadas contratistas de la Administración"],
+      "correct": 3,
+      "explanation": "Art. 2.3 LPAC: tienen la consideración de AAPP la AGE, las CCAA, las EELL y el sector público institucional con los matices del art. 2.2."
+    },
+    {
+      "id": "l39-005",
+      "q": "Según el art. 3 LPAC, tienen capacidad de obrar ante las AAPP:",
+      "options": ["Solo los mayores de edad", "Las personas físicas con capacidad de obrar conforme al CC y los menores para el ejercicio y defensa de derechos permitidos sin asistencia", "Solo las personas jurídicas", "Solo los ciudadanos españoles"],
+      "correct": 1,
+      "explanation": "Art. 3 LPAC: además de las personas con capacidad conforme a normas civiles, los menores para el ejercicio y defensa de derechos permitidos sin asistencia de quien ejerza la patria potestad, tutela o curatela (salvo incapacitados, según sentencia)."
+    },
+    {
+      "id": "l39-006",
+      "q": "Son interesados en el procedimiento administrativo (art. 4 LPAC):",
+      "options": ["Solo quienes lo promuevan como titulares de derechos", "Quienes lo promuevan; quienes tengan derechos que puedan resultar afectados; aquellos cuyos intereses legítimos puedan resultar afectados y se personen antes de resolución", "Solo las personas físicas", "Cualquier ciudadano"],
+      "correct": 1,
+      "explanation": "Art. 4.1 LPAC enumera tres categorías de interesados: los promotores titulares de derechos; los que sin haberlo iniciado tengan derechos que puedan resultar afectados; los de intereses legítimos individuales o colectivos que se personen antes de la resolución definitiva."
+    },
+    {
+      "id": "l39-007",
+      "q": "La representación ante las AAPP, según el art. 5 LPAC, deberá acreditarse:",
+      "options": ["Siempre por escritura pública", "Solo cuando se trate de personas jurídicas", "Para formular solicitudes, presentar declaraciones responsables o comunicaciones, interponer recursos, desistir de acciones y renunciar a derechos en nombre de otra persona", "No es necesario acreditarla nunca"],
+      "correct": 2,
+      "explanation": "Art. 5.3 LPAC: para formular solicitudes, presentar declaraciones responsables o comunicaciones, interponer recursos, desistir de acciones y renunciar a derechos en nombre de otra persona deberá acreditarse la representación."
+    },
+    {
+      "id": "l39-008",
+      "q": "Los interesados podrán identificarse electrónicamente ante las AAPP mediante:",
+      "options": ["Únicamente DNI electrónico", "Certificados cualificados de firma electrónica y sistemas aceptados por la AAPP (sello, firma, etc.)", "Solo con claves concertadas", "Solo con certificados del FNMT"],
+      "correct": 1,
+      "explanation": "Art. 9 LPAC: las AAPP admitirán los sistemas de firma electrónica cualificada y avanzada basados en certificados electrónicos cualificados, sistemas de sello electrónico cualificado y avanzado, y cualquier otro sistema que consideren válido."
+    },
+    {
+      "id": "l39-009",
+      "q": "Están obligados a relacionarse a través de medios electrónicos con las AAPP, según el art. 14 LPAC:",
+      "options": ["Todas las personas físicas", "Las personas jurídicas, entidades sin personalidad jurídica, quienes ejerzan una actividad profesional con colegiación obligatoria, sus representantes y empleados de AAPP", "Solo los funcionarios", "Solo las grandes empresas"],
+      "correct": 1,
+      "explanation": "Art. 14.2 LPAC relaciona los sujetos obligados: personas jurídicas; entidades sin personalidad; quienes ejerzan actividad profesional con colegiación obligatoria; quienes representen a un obligado; empleados de AAPP en los trámites con su administración."
+    },
+    {
+      "id": "l39-010",
+      "q": "Según el art. 15 LPAC, la lengua del procedimiento tramitado por la AGE será:",
+      "options": ["Exclusivamente castellano", "El castellano; en los tramitados por las AAPP de las CCAA y EELL podrá utilizarse también la lengua cooficial", "La que elija el funcionario", "La del ciudadano siempre"],
+      "correct": 1,
+      "explanation": "Art. 15.1 LPAC: la lengua de los procedimientos tramitados por la AGE será el castellano. En los tramitados por las AAPP de las CCAA y EELL se estará a lo dispuesto en la legislación autonómica correspondiente; los interesados podrán utilizar la lengua que sea cooficial en la CCAA donde radique la AAPP."
+    },
+    {
+      "id": "l39-011",
+      "q": "Según el art. 16 LPAC, cada Administración dispondrá de:",
+      "options": ["Un registro físico único", "Un Registro Electrónico General en el que se hará el correspondiente asiento de todo documento presentado o recibido", "Varios registros separados por materia", "Un registro centralizado en la AGE"],
+      "correct": 1,
+      "explanation": "Art. 16.1 LPAC: cada Administración dispondrá de un Registro Electrónico General."
+    },
+    {
+      "id": "l39-012",
+      "q": "Los documentos presentados por los interesados, según el art. 16.4 LPAC, podrán presentarse:",
+      "options": ["Solo en el registro del órgano competente", "Solo electrónicamente", "En el registro electrónico de la AAPP, en oficinas de Correos, representaciones diplomáticas, oficinas de asistencia en materia de registros, y demás establezca la norma", "En cualquier registro de cualquier país"],
+      "correct": 2,
+      "explanation": "Art. 16.4 LPAC: los documentos podrán presentarse en el registro electrónico de la administración a la que se dirijan; oficinas de Correos; representaciones diplomáticas u oficinas consulares de España; oficinas de asistencia en materia de registros; cualquier otro que establezcan las disposiciones vigentes."
+    },
+    {
+      "id": "l39-013",
+      "q": "Según el art. 17 LPAC, cada AAPP deberá mantener:",
+      "options": ["Un archivo en papel y electrónico", "Un archivo electrónico único de los documentos electrónicos correspondientes a procedimientos finalizados", "Los documentos 5 años", "Un archivo centralizado en el MINHAP"],
+      "correct": 1,
+      "explanation": "Art. 17.1 LPAC: cada Administración deberá mantener un archivo electrónico único de los documentos electrónicos que correspondan a procedimientos finalizados."
+    },
+    {
+      "id": "l39-014",
+      "q": "El plazo máximo general para resolver y notificar un procedimiento es, según el art. 21.2 LPAC:",
+      "options": ["3 meses salvo norma contraria", "No superior a 6 meses salvo que una norma con rango de ley establezca uno mayor o así venga previsto en el Derecho de la UE", "12 meses", "2 años"],
+      "correct": 1,
+      "explanation": "Art. 21.2 LPAC: el plazo máximo en el que debe notificarse la resolución expresa será el fijado por la norma reguladora del procedimiento. Este plazo no podrá exceder de 6 meses salvo que una norma con rango de ley establezca uno mayor o así venga previsto en el Derecho de la UE."
+    },
+    {
+      "id": "l39-015",
+      "q": "Cuando las normas reguladoras del procedimiento no fijen plazo máximo, el plazo será (art. 21.3 LPAC):",
+      "options": ["1 mes", "3 meses", "6 meses", "12 meses"],
+      "correct": 1,
+      "explanation": "Art. 21.3 LPAC: cuando las normas reguladoras de los procedimientos no fijen el plazo máximo, éste será de 3 meses."
+    },
+    {
+      "id": "l39-016",
+      "q": "En procedimientos iniciados a solicitud del interesado, el plazo para resolver se cuenta desde:",
+      "options": ["La fecha de la solicitud", "La fecha en que la solicitud haya tenido entrada en el registro electrónico de la Administración u Organismo competente para su tramitación", "La fecha de la notificación al interesado", "El día siguiente a la solicitud"],
+      "correct": 1,
+      "explanation": "Art. 21.3.b) LPAC: en los iniciados a solicitud del interesado, desde la fecha en que la solicitud haya tenido entrada en el registro electrónico de la Administración u Organismo competente para su tramitación."
+    },
+    {
+      "id": "l39-017",
+      "q": "En procedimientos iniciados de oficio, el plazo para resolver se cuenta desde:",
+      "options": ["La fecha de la solicitud", "La fecha del acuerdo de iniciación", "La fecha de la publicación en el BOE", "La fecha de la primera notificación"],
+      "correct": 1,
+      "explanation": "Art. 21.3.a) LPAC: en los procedimientos iniciados de oficio, desde la fecha del acuerdo de iniciación."
+    },
+    {
+      "id": "l39-018",
+      "q": "En procedimientos iniciados a solicitud del interesado, la regla general del silencio administrativo (art. 24 LPAC) es:",
+      "options": ["Negativo siempre", "Positivo (estimatorio), salvo excepciones", "Tácito sin efectos", "Depende de la discrecionalidad del órgano"],
+      "correct": 1,
+      "explanation": "Art. 24.1 LPAC: vencido el plazo máximo sin haberse notificado resolución expresa, se entiende estimada la solicitud por silencio administrativo, salvo excepciones (responsabilidad patrimonial, transferencia de facultades relativas al dominio público o servicio público, impugnación de actos, derecho de petición del art. 29 CE, o cuando una norma con rango de ley o Derecho UE establezcan lo contrario)."
+    },
+    {
+      "id": "l39-019",
+      "q": "En procedimientos de los que pueda derivar el reconocimiento o la constitución de derechos que se inicien de oficio, vencido el plazo máximo sin resolución expresa, el silencio administrativo será:",
+      "options": ["Estimatorio", "Desestimatorio: los interesados podrán entender desestimadas sus pretensiones", "Tácito positivo", "No se produce silencio"],
+      "correct": 1,
+      "explanation": "Art. 25.1.a) LPAC: en procedimientos iniciados de oficio de los que pudiera derivarse el reconocimiento o la constitución de derechos u otras situaciones favorables, los interesados podrán entender desestimadas sus pretensiones por silencio administrativo."
+    },
+    {
+      "id": "l39-020",
+      "q": "Cuando los plazos se señalen por días, en la Ley 39/2015 se entenderán (art. 30.2):",
+      "options": ["Días naturales incluyendo festivos", "Días hábiles, excluyéndose del cómputo los sábados, domingos y los declarados inhábiles", "Solo días laborables de lunes a viernes salvo festivos", "Días hábiles incluyendo sábados"],
+      "correct": 1,
+      "explanation": "Art. 30.2 LPAC: siempre que por Ley o en el Derecho de la UE no se exprese otro cómputo, cuando los plazos se señalen por días, se entiende que estos son hábiles, excluyéndose del cómputo los sábados, domingos y los declarados inhábiles."
+    },
+    {
+      "id": "l39-021",
+      "q": "Los plazos expresados en días se empezarán a contar desde (art. 30.3):",
+      "options": ["El mismo día de la notificación", "El día siguiente a aquel en que tenga lugar la notificación o publicación del acto", "El primer día hábil siguiente a la notificación", "El séptimo día natural tras la notificación"],
+      "correct": 1,
+      "explanation": "Art. 30.3 LPAC: los plazos expresados en días se contarán a partir del día siguiente a aquel en que tenga lugar la notificación o publicación del acto, o desde el siguiente a aquel en que se produzca la estimación o la desestimación por silencio administrativo."
+    },
+    {
+      "id": "l39-022",
+      "q": "Cuando un plazo se señale por meses o años, el cómputo será (art. 30.4):",
+      "options": ["De fecha a fecha, a contar desde el día siguiente a la notificación", "En días naturales", "Días hábiles equivalentes", "Desde el primer día del mes siguiente"],
+      "correct": 0,
+      "explanation": "Art. 30.4 LPAC: si el plazo se fija en meses o años, éstos se computarán a partir del día siguiente a aquel en que tenga lugar la notificación o publicación del acto. El plazo concluirá el mismo día en que se produjo la notificación/publicación en el mes o año de vencimiento. Si en el mes de vencimiento no hubiera día equivalente, se entenderá prorrogado hasta el último día del mes."
+    },
+    {
+      "id": "l39-023",
+      "q": "Cuando el último día del plazo sea inhábil, el plazo se entenderá (art. 30.5):",
+      "options": ["Prorrogado al primer día hábil siguiente", "Concluido ese mismo día", "Suspendido", "Ampliado 7 días"],
+      "correct": 0,
+      "explanation": "Art. 30.5 LPAC: cuando el último día del plazo sea inhábil, se entenderá prorrogado al primer día hábil siguiente."
+    },
+    {
+      "id": "l39-024",
+      "q": "La ampliación de plazos, salvo precepto en contrario, podrá acordarse (art. 32.1 LPAC):",
+      "options": ["Hasta el doble del plazo inicial", "No pudiendo exceder de la mitad del plazo inicial", "Solo por 15 días", "Hasta 1 mes"],
+      "correct": 1,
+      "explanation": "Art. 32.1 LPAC: la Administración podrá conceder, de oficio o a petición de los interesados, una ampliación de los plazos establecidos, si las circunstancias lo aconsejan y con ello no se perjudican derechos de terceros; la ampliación no podrá ser superior a la mitad de los plazos."
+    },
+    {
+      "id": "l39-025",
+      "q": "En la tramitación de urgencia (art. 33 LPAC):",
+      "options": ["Los plazos se duplican", "Los plazos se reducen a la mitad, salvo los relativos a la presentación de solicitudes y recursos", "Se suprimen los plazos", "Se mantiene el plazo ordinario"],
+      "correct": 1,
+      "explanation": "Art. 33.1 LPAC: cuando razones de interés público lo aconsejen, se podrá acordar, de oficio o a petición del interesado, la aplicación al procedimiento de la tramitación de urgencia, por la cual se reducirán a la mitad los plazos establecidos para el procedimiento ordinario, salvo los relativos a la presentación de solicitudes y recursos."
+    },
+    {
+      "id": "l39-026",
+      "q": "Los actos administrativos serán motivados, con sucinta referencia a hechos y fundamentos de derecho (art. 35 LPAC), en particular los que:",
+      "options": ["Favorezcan al interesado", "Limiten derechos subjetivos o intereses legítimos, resuelvan procedimientos de revisión, separen del criterio seguido en actuaciones precedentes o sean contrarios al informe vinculante", "Sean de trámite ordinario", "Sean orales"],
+      "correct": 1,
+      "explanation": "Art. 35.1 LPAC enumera los actos que deben motivarse: los que limiten derechos o intereses, los que resuelvan recursos, los que se separen del criterio seguido en actuaciones anteriores o del dictamen, los que se dicten en el ejercicio de potestades discrecionales, los que deban serlo conforme a disposiciones legales, etc."
+    },
+    {
+      "id": "l39-027",
+      "q": "Los actos administrativos se producirán por escrito, a través de medios electrónicos, salvo que su naturaleza exija otra forma más adecuada (art. 36 LPAC). ¿Qué admite la Ley?",
+      "options": ["Solo forma escrita", "Actos verbales cuando su naturaleza lo exija y acreditación por escrito del órgano inferior", "Únicamente forma electrónica", "Cualquier forma discrecional"],
+      "correct": 1,
+      "explanation": "Art. 36.2 LPAC: en los casos en que los órganos administrativos ejerzan su competencia de forma verbal, la constancia escrita del acto cuando sea necesaria se efectuará y firmará por el titular del órgano inferior o funcionario que la reciba oralmente."
+    },
+    {
+      "id": "l39-028",
+      "q": "Los actos administrativos son ejecutivos con arreglo a lo dispuesto en esta Ley (art. 38 LPAC). ¿Desde cuándo son válidos?",
+      "options": ["Desde su firma", "Desde la fecha en que se dicten, salvo que en ellos se disponga otra cosa (art. 39.1)", "Desde su publicación", "Desde la fecha de notificación al interesado siempre"],
+      "correct": 1,
+      "explanation": "Art. 39.1 LPAC: los actos de las AAPP sujetos al Derecho Administrativo se presumirán válidos y producirán efectos desde la fecha en que se dicten, salvo que en ellos se disponga otra cosa."
+    },
+    {
+      "id": "l39-029",
+      "q": "El órgano que dicte las resoluciones y actos administrativos los notificará a los interesados (art. 40 LPAC). Toda notificación deberá:",
+      "options": ["Contener solo el texto de la resolución", "Ser cursada en el plazo de 10 días desde la fecha en que se haya dictado el acto y contener el texto íntegro de la resolución, con indicación de si pone fin a la vía administrativa, recursos procedentes, órgano ante el que presentarse y plazo", "Realizarse en 30 días", "Hacerse solo por vía electrónica"],
+      "correct": 1,
+      "explanation": "Art. 40.2 LPAC: toda notificación deberá ser cursada en el plazo de 10 días a partir de la fecha en que el acto haya sido dictado, y deberá contener el texto íntegro de la resolución, con indicación de si pone fin o no a la vía administrativa, la expresión de los recursos procedentes, en su caso, en vía administrativa y judicial, el órgano ante el que hubieran de presentarse y el plazo para interponerlos."
+    },
+    {
+      "id": "l39-030",
+      "q": "Las notificaciones se practicarán preferentemente por medios electrónicos (art. 41 LPAC) y, en todo caso, cuando:",
+      "options": ["Lo solicite el interesado", "El interesado esté obligado a recibirlas por esta vía", "Lo decida el órgano", "Siempre que sea posible"],
+      "correct": 1,
+      "explanation": "Art. 41.1 LPAC: las notificaciones se practicarán preferentemente por medios electrónicos y, en todo caso, cuando el interesado resulte obligado a recibirlas por esta vía (art. 14.2)."
+    },
+    {
+      "id": "l39-031",
+      "q": "Cuando la notificación por medios electrónicos sea de carácter obligatorio, se entenderá rechazada cuando (art. 43.2 LPAC):",
+      "options": ["Hayan transcurrido 15 días naturales desde su puesta a disposición sin acceder al contenido", "Hayan transcurrido 10 días naturales desde la puesta a disposición de la notificación sin que se acceda a su contenido", "Hayan transcurrido 5 días hábiles", "Hayan transcurrido 30 días"],
+      "correct": 1,
+      "explanation": "Art. 43.2 LPAC: cuando la notificación por medios electrónicos sea de carácter obligatorio, o haya sido expresamente elegida, se entenderá rechazada cuando hayan transcurrido 10 días naturales desde la puesta a disposición sin que se acceda a su contenido."
+    },
+    {
+      "id": "l39-032",
+      "q": "Son nulos de pleno derecho los actos de las AAPP (art. 47 LPAC):",
+      "options": ["Que incurran en cualquier infracción del ordenamiento", "Que lesionen los derechos y libertades susceptibles de amparo constitucional, los dictados por órgano manifiestamente incompetente por razón de la materia o del territorio, de contenido imposible, constitutivos de infracción penal, los dictados prescindiendo totalmente del procedimiento, entre otros", "Solo los que infrinjan una Ley orgánica", "Los dictados sin audiencia del interesado"],
+      "correct": 1,
+      "explanation": "Art. 47.1 LPAC enumera las causas de nulidad de pleno derecho, incluyendo: lesionen derechos fundamentales susceptibles de amparo; dictados por órgano manifiestamente incompetente por razón de materia o territorio; contenido imposible; constitutivos de infracción penal; dictados prescindiendo total y absolutamente del procedimiento o de las normas esenciales para la formación de la voluntad de los órganos colegiados; actos expresos o presuntos contrarios al ordenamiento por los que se adquieran facultades careciendo de requisitos esenciales; y los que así lo establezca una disposición con rango de ley."
+    },
+    {
+      "id": "l39-033",
+      "q": "Los actos de la Administración son anulables (art. 48 LPAC) cuando:",
+      "options": ["Incurran en cualquier infracción del ordenamiento jurídico, incluso la desviación de poder", "Solo cuando incurran en causa de nulidad", "Solo cuando lo solicite el interesado", "Cuando se dicten fuera de plazo en todo caso"],
+      "correct": 0,
+      "explanation": "Art. 48.1 LPAC: son anulables los actos de la Administración que incurran en cualquier infracción del ordenamiento jurídico, incluso la desviación de poder."
+    },
+    {
+      "id": "l39-034",
+      "q": "El defecto de forma sólo determinará la anulabilidad cuando (art. 48.2 LPAC):",
+      "options": ["Siempre que exista", "El acto carezca de los requisitos formales indispensables para alcanzar su fin o dé lugar a la indefensión de los interesados", "Solo si lo alega el interesado", "Solo en procedimientos sancionadores"],
+      "correct": 1,
+      "explanation": "Art. 48.2 LPAC: el defecto de forma sólo determinará la anulabilidad cuando el acto carezca de los requisitos formales indispensables para alcanzar su fin o dé lugar a la indefensión de los interesados."
+    },
+    {
+      "id": "l39-035",
+      "q": "Los procedimientos administrativos podrán iniciarse (art. 54 LPAC):",
+      "options": ["Solo de oficio", "Solo a solicitud del interesado", "De oficio o a solicitud del interesado", "Por denuncia siempre"],
+      "correct": 2,
+      "explanation": "Art. 54 LPAC: los procedimientos podrán iniciarse de oficio o a solicitud del interesado."
+    },
+    {
+      "id": "l39-036",
+      "q": "La iniciación de oficio de un procedimiento puede producirse (art. 58 LPAC):",
+      "options": ["Por acuerdo del órgano competente, bien por propia iniciativa, orden superior, petición razonada de otros órganos o denuncia", "Solo por denuncia", "Solo por orden superior", "Solo a instancia de un ciudadano"],
+      "correct": 0,
+      "explanation": "Art. 58 LPAC: los procedimientos se iniciarán de oficio por acuerdo del órgano competente, bien por propia iniciativa, como consecuencia de orden superior, a petición razonada de otros órganos o por denuncia."
+    },
+    {
+      "id": "l39-037",
+      "q": "Si la solicitud de iniciación no reúne los requisitos, se requerirá al interesado para que (art. 68 LPAC):",
+      "options": ["Presente nueva solicitud", "Subsane la falta o acompañe los documentos preceptivos en un plazo de 10 días, con indicación de que, si así no lo hiciera, se le tendrá por desistido", "Subsane en 20 días", "Nada, se inadmite directamente"],
+      "correct": 1,
+      "explanation": "Art. 68.1 LPAC: se le requerirá para que, en un plazo de diez días, subsane la falta o acompañe los documentos preceptivos, con indicación de que, si así no lo hiciera, se le tendrá por desistido de su petición."
+    },
+    {
+      "id": "l39-038",
+      "q": "El trámite de audiencia se concederá al interesado por un plazo (art. 82 LPAC) no inferior a:",
+      "options": ["5 días ni superior a 10", "10 días ni superior a 15", "15 días ni superior a 20", "20 días ni superior a 30"],
+      "correct": 1,
+      "explanation": "Art. 82.2 LPAC: los interesados, en un plazo no inferior a 10 días ni superior a 15, podrán alegar y presentar los documentos y justificaciones que estimen pertinentes."
+    },
+    {
+      "id": "l39-039",
+      "q": "El período de prueba se acordará por el instructor por un plazo no superior a (art. 77 LPAC):",
+      "options": ["10 días ni inferior a 5", "30 días ni inferior a 10", "15 días ni inferior a 5", "60 días ni inferior a 20"],
+      "correct": 1,
+      "explanation": "Art. 77.2 LPAC: cuando la Administración no tenga por ciertos los hechos alegados por los interesados o la naturaleza del procedimiento lo exija, el instructor acordará la apertura de un período de prueba por un plazo no superior a 30 días ni inferior a 10."
+    },
+    {
+      "id": "l39-040",
+      "q": "Los informes serán (art. 80 LPAC):",
+      "options": ["Vinculantes siempre", "Facultativos y no vinculantes, salvo disposición expresa en contrario", "Preceptivos siempre", "Consultivos y vinculantes"],
+      "correct": 1,
+      "explanation": "Art. 80.1 LPAC: salvo disposición expresa en contrario, los informes serán facultativos y no vinculantes."
+    },
+    {
+      "id": "l39-041",
+      "q": "Pondrán fin al procedimiento (art. 84 LPAC):",
+      "options": ["Solo la resolución expresa", "La resolución, el desistimiento, la renuncia al derecho en que se funde la solicitud cuando tal renuncia no esté prohibida, la declaración de caducidad y el silencio administrativo", "Solo el silencio", "La mera voluntad del órgano"],
+      "correct": 1,
+      "explanation": "Art. 84.1 LPAC: pondrán fin al procedimiento la resolución, el desistimiento, la renuncia al derecho en que se funde la solicitud cuando tal renuncia no esté prohibida por el ordenamiento jurídico y la declaración de caducidad. También producirá la terminación la imposibilidad material de continuarlo por causas sobrevenidas."
+    },
+    {
+      "id": "l39-042",
+      "q": "La caducidad del procedimiento iniciado de oficio, susceptible de producir efectos desfavorables, se producirá transcurridos (art. 25 LPAC):",
+      "options": ["6 meses sin haberse dictado resolución", "3 meses desde su inicio sin haberse dictado resolución", "El plazo máximo sin haberse dictado y notificado resolución expresa", "12 meses desde su inicio"],
+      "correct": 2,
+      "explanation": "Art. 25.1.b) LPAC: en los procedimientos iniciados de oficio en que la Administración ejercite potestades sancionadoras o, en general, de intervención, susceptibles de producir efectos desfavorables o de gravamen, se producirá la caducidad transcurrido el plazo máximo sin haberse dictado y notificado resolución expresa."
+    },
+    {
+      "id": "l39-043",
+      "q": "En los procedimientos iniciados a solicitud del interesado, cuando se produzca la paralización por causa imputable al mismo, la Administración le advertirá y si transcurren tres meses, se producirá (art. 95 LPAC):",
+      "options": ["El archivo sin más trámite", "La caducidad del procedimiento, procediéndose al archivo", "El silencio positivo", "La resolución automática"],
+      "correct": 1,
+      "explanation": "Art. 95 LPAC: en los procedimientos iniciados a solicitud del interesado, cuando se produzca su paralización por causa imputable al mismo, la Administración le advertirá que, transcurridos 3 meses, se producirá la caducidad. Consumido el plazo sin que el particular requerido realice las actividades necesarias, se acordará el archivo de las actuaciones."
+    },
+    {
+      "id": "l39-044",
+      "q": "La tramitación simplificada (art. 96 LPAC) permite resolver el procedimiento en:",
+      "options": ["15 días", "30 días", "45 días", "60 días"],
+      "correct": 1,
+      "explanation": "Art. 96.6 LPAC: los procedimientos administrativos tramitados de manera simplificada deberán ser resueltos en 30 días, a contar desde el siguiente al que se notifique al interesado el acuerdo de tramitación simplificada."
+    },
+    {
+      "id": "l39-045",
+      "q": "Las AAPP, a través de sus órganos competentes (art. 98 LPAC), podrán proceder, previo apercibimiento, a la ejecución forzosa de los actos administrativos, salvo:",
+      "options": ["En procedimientos iniciados de oficio", "Cuando se suspenda la ejecución, si una norma lo exige, si la CE o la ley exigen intervención de los Tribunales", "Siempre son ejecutables", "Nunca son ejecutables sin juicio previo"],
+      "correct": 1,
+      "explanation": "Art. 98 LPAC: los actos de las AAPP son inmediatamente ejecutivos salvo que se produzca la suspensión, se trate de una resolución de un procedimiento de naturaleza sancionadora contra la que quepa algún recurso en vía administrativa, una disposición establezca lo contrario, o necesiten aprobación o autorización superior."
+    },
+    {
+      "id": "l39-046",
+      "q": "Los medios de ejecución forzosa (art. 100 LPAC) son:",
+      "options": ["Apremio, ejecución subsidiaria, multa coercitiva y compulsión sobre las personas", "Solo multa", "Solo ejecución subsidiaria", "Embargo y subasta"],
+      "correct": 0,
+      "explanation": "Art. 100.1 LPAC: la ejecución forzosa por las AAPP se efectuará, respetando siempre el principio de proporcionalidad, por los siguientes medios: apremio sobre el patrimonio; ejecución subsidiaria; multa coercitiva; compulsión sobre las personas."
+    },
+    {
+      "id": "l39-047",
+      "q": "Ponen fin a la vía administrativa (art. 114 LPAC):",
+      "options": ["Solo las resoluciones del Consejo de Ministros", "Resoluciones de recursos de alzada; de procedimientos de impugnación alternativos; resoluciones de órganos sin superior jerárquico salvo norma; acuerdos, pactos, convenios; resoluciones según precepto legal y acuerdos definitivos", "Cualquier resolución", "Solo las de los Ministros"],
+      "correct": 1,
+      "explanation": "Art. 114 LPAC: ponen fin a la vía administrativa las resoluciones de los recursos de alzada; las de los procedimientos alternativos; las dictadas por órganos que carezcan de superior jerárquico salvo que una Ley establezca lo contrario; los acuerdos, pactos, convenios o contratos con ese efecto; la resolución administrativa de procedimientos de responsabilidad patrimonial, cualquiera que fuese el tipo de relación; la resolución de recursos potestativos de reposición; y las demás resoluciones de órganos que una disposición legal o reglamentaria así lo establezca."
+    },
+    {
+      "id": "l39-048",
+      "q": "El recurso de alzada (art. 121 LPAC) podrá interponerse contra:",
+      "options": ["Cualquier acto administrativo", "Las resoluciones y actos de trámite cualificados que no pongan fin a la vía administrativa, ante el superior jerárquico del que los dictó", "Solo reglamentos", "Solo los actos que pongan fin a la vía administrativa"],
+      "correct": 1,
+      "explanation": "Art. 121.1 LPAC: las resoluciones y actos a que se refiere el art. 112.1, cuando no pongan fin a la vía administrativa, podrán ser recurridos en alzada ante el órgano superior jerárquico del que los dictó."
+    },
+    {
+      "id": "l39-049",
+      "q": "El plazo para interponer el recurso de alzada, si el acto es expreso (art. 122 LPAC), será de:",
+      "options": ["15 días", "1 mes, transcurrido el cual sin haberlo interpuesto, la resolución será firme", "2 meses", "3 meses"],
+      "correct": 1,
+      "explanation": "Art. 122.1 LPAC: el plazo para la interposición del recurso de alzada será de un mes, si el acto fuera expreso. Transcurrido dicho plazo sin haberse interpuesto, la resolución será firme a todos los efectos."
+    },
+    {
+      "id": "l39-050",
+      "q": "El plazo para resolver el recurso de alzada y notificarlo es (art. 122.2 LPAC):",
+      "options": ["1 mes", "2 meses", "3 meses. Transcurrido sin resolución, podrá entenderse desestimado", "6 meses"],
+      "correct": 2,
+      "explanation": "Art. 122.2 LPAC: el plazo máximo para dictar y notificar la resolución será de 3 meses. Transcurrido este plazo sin que recaiga resolución, se podrá entender desestimado el recurso, salvo excepciones."
+    },
+    {
+      "id": "l39-051",
+      "q": "El recurso potestativo de reposición (art. 123 LPAC) se interpone:",
+      "options": ["Ante el órgano superior jerárquico", "Ante el mismo órgano que hubiera dictado el acto recurrido, cuando pone fin a la vía administrativa", "Ante el Tribunal Constitucional", "Ante los tribunales ordinarios"],
+      "correct": 1,
+      "explanation": "Art. 123.1 LPAC: los actos administrativos que pongan fin a la vía administrativa podrán ser recurridos potestativamente en reposición ante el mismo órgano que los hubiera dictado, o ser impugnados directamente ante el orden jurisdiccional contencioso-administrativo."
+    },
+    {
+      "id": "l39-052",
+      "q": "El plazo para interponer el recurso de reposición, si el acto fuera expreso (art. 124 LPAC), es:",
+      "options": ["15 días", "1 mes", "2 meses", "3 meses"],
+      "correct": 1,
+      "explanation": "Art. 124.1 LPAC: el plazo para la interposición del recurso de reposición será de un mes, si el acto fuera expreso. Transcurrido dicho plazo, únicamente podrá interponerse recurso contencioso-administrativo."
+    },
+    {
+      "id": "l39-053",
+      "q": "El plazo máximo para dictar y notificar la resolución del recurso de reposición es (art. 124.2 LPAC):",
+      "options": ["15 días", "1 mes", "2 meses", "3 meses"],
+      "correct": 1,
+      "explanation": "Art. 124.2 LPAC: el plazo máximo para dictar y notificar la resolución del recurso será de un mes."
+    },
+    {
+      "id": "l39-054",
+      "q": "El recurso extraordinario de revisión (art. 125 LPAC) se interpone ante:",
+      "options": ["El TC", "El órgano superior", "El mismo órgano administrativo que dictó el acto firme en vía administrativa, cuando concurra alguna de las circunstancias", "El TS"],
+      "correct": 2,
+      "explanation": "Art. 125.1 LPAC: contra los actos firmes en vía administrativa podrá interponerse el recurso extraordinario de revisión ante el órgano administrativo que los dictó, que también será el competente para su resolución, cuando concurra alguna de las circunstancias tasadas."
+    },
+    {
+      "id": "l39-055",
+      "q": "Las causas del recurso extraordinario de revisión son (art. 125 LPAC):",
+      "options": ["Error en la tramitación", "Error de hecho manifiesto; aparición de documentos esenciales posteriores; que hayan influido documentos declarados falsos por sentencia firme; haberse dictado como consecuencia de prevaricación, cohecho, violencia o maquinación fraudulenta", "Cualquier causa", "Solo causa penal"],
+      "correct": 1,
+      "explanation": "Art. 125.1 LPAC: causas del extraordinario de revisión: error de hecho que resulte de los propios documentos del expediente; aparición de documentos de valor esencial ignorados o imposibles de aportar; influencia esencial de documentos o testimonios declarados falsos por sentencia judicial firme; que la resolución se dictara por prevaricación, cohecho, violencia, maquinación fraudulenta u otra conducta punible declarada por sentencia judicial firme."
+    },
+    {
+      "id": "l39-056",
+      "q": "Los plazos para interponer el recurso extraordinario de revisión (art. 125.2 LPAC) son:",
+      "options": ["Siempre 3 meses", "4 años desde la notificación si es por error de hecho; 3 meses desde el conocimiento de los documentos o sentencia firme en los demás casos", "1 año siempre", "6 meses siempre"],
+      "correct": 1,
+      "explanation": "Art. 125.2 LPAC: en el caso del art. 125.1.a) (error de hecho), se interpondrá en plazo de 4 años desde la notificación de la resolución impugnada. En los demás casos, en plazo de 3 meses desde el conocimiento de los documentos o desde la sentencia judicial firme."
+    },
+    {
+      "id": "l39-057",
+      "q": "El plazo máximo para resolver y notificar el recurso extraordinario de revisión es (art. 126.3 LPAC):",
+      "options": ["3 meses; silencio negativo", "6 meses; silencio negativo", "1 año", "2 años"],
+      "correct": 0,
+      "explanation": "Art. 126.3 LPAC: transcurrido el plazo de 3 meses desde la interposición sin haberse dictado y notificado la resolución, se entenderá desestimado, quedando expedita la vía jurisdiccional contencioso-administrativa."
+    },
+    {
+      "id": "l39-058",
+      "q": "La revisión de oficio de actos nulos (art. 106 LPAC) puede iniciarse:",
+      "options": ["Solo a instancia del interesado", "En cualquier momento por iniciativa propia o a solicitud del interesado, previo dictamen favorable del Consejo de Estado u órgano consultivo equivalente de la CCAA", "En plazo de 3 meses", "En plazo de 4 años"],
+      "correct": 1,
+      "explanation": "Art. 106.1 LPAC: las AAPP, en cualquier momento, por iniciativa propia o a solicitud del interesado, y previo dictamen favorable del Consejo de Estado u órgano consultivo equivalente, declararán de oficio la nulidad de los actos administrativos que hayan puesto fin a la vía administrativa o que no hayan sido recurridos en plazo, en los supuestos previstos en el art. 47.1."
+    },
+    {
+      "id": "l39-059",
+      "q": "La declaración de lesividad de actos anulables (art. 107 LPAC) debe formularse:",
+      "options": ["En plazo de 6 meses", "En el plazo de 4 años desde que se dictó el acto y exigirá la previa audiencia de cuantos aparezcan como interesados", "En cualquier momento", "Solo por el TC"],
+      "correct": 1,
+      "explanation": "Art. 107.2 LPAC: la declaración de lesividad no podrá adoptarse una vez transcurridos 4 años desde que se dictó el acto administrativo y exigirá la previa audiencia de cuantos aparezcan como interesados."
+    },
+    {
+      "id": "l39-060",
+      "q": "La revocación de actos de gravamen o desfavorables (art. 109 LPAC) puede hacerse:",
+      "options": ["Solo con aprobación judicial", "En cualquier momento, siempre que no constituya dispensa o exención no permitida por las leyes, ni sea contraria al principio de igualdad, al interés público o al ordenamiento jurídico", "Nunca", "Solo en el plazo de 1 año"],
+      "correct": 1,
+      "explanation": "Art. 109.1 LPAC: las AAPP podrán revocar, mientras no haya transcurrido el plazo de prescripción, sus actos de gravamen o desfavorables, siempre que tal revocación no constituya dispensa o exención no permitida por las leyes, ni sea contraria al principio de igualdad, al interés público o al ordenamiento jurídico."
+    },
+    {
+      "id": "l39-061",
+      "q": "La rectificación de errores materiales, de hecho o aritméticos (art. 109.2 LPAC):",
+      "options": ["Solo puede hacerse en vía judicial", "Puede efectuarse en cualquier momento por las AAPP, de oficio o a instancia de los interesados", "Requiere aprobación del Consejo de Estado", "Solo en el plazo de un año"],
+      "correct": 1,
+      "explanation": "Art. 109.2 LPAC: las AAPP podrán rectificar en cualquier momento, de oficio o a instancia de los interesados, los errores materiales, de hecho o aritméticos existentes en sus actos."
+    },
+    {
+      "id": "l39-062",
+      "q": "La potestad sancionadora en la Ley 39/2015 se regula:",
+      "options": ["Como un procedimiento autónomo", "Con especialidades dentro del procedimiento común (iniciación separada, presunción de inocencia, etc.)", "Solo por normativa autonómica", "No se regula"],
+      "correct": 1,
+      "explanation": "La Ley 39/2015 regula la potestad sancionadora como especialidades del procedimiento común (arts. 63, 64.2, 85, 90, 96.5). Los principios de la potestad sancionadora están en la Ley 40/2015."
+    },
+    {
+      "id": "l39-063",
+      "q": "En los procedimientos sancionadores, el pago voluntario antes de la resolución (art. 85 LPAC) implicará:",
+      "options": ["Doble sanción", "Una reducción de al menos el 20% del importe de la sanción propuesta", "Extinción", "Ninguna reducción"],
+      "correct": 1,
+      "explanation": "Art. 85.3 LPAC: cuando la sanción tenga únicamente carácter pecuniario, el órgano competente aplicará reducciones de, al menos, el 20% sobre el importe de la sanción propuesta en caso de pago voluntario y de reconocimiento de responsabilidad (acumulables ambas)."
+    },
+    {
+      "id": "l39-064",
+      "q": "Los procedimientos en los que se solicite la responsabilidad patrimonial prescriben (art. 67 LPAC):",
+      "options": ["A los 6 meses", "Al año de producido el hecho o manifestado el efecto lesivo", "A los 2 años", "A los 5 años"],
+      "correct": 1,
+      "explanation": "Art. 67.1 LPAC: el derecho a reclamar prescribe al año de producido el hecho o el acto que motive la indemnización o se manifieste su efecto lesivo. En caso de daños físicos o psíquicos, el plazo comenzará a computarse desde la curación o determinación del alcance de las secuelas."
+    },
+    {
+      "id": "l39-065",
+      "q": "En los procedimientos iniciados a solicitud del interesado para el ejercicio del derecho de petición del art. 29 CE, el silencio será (art. 24 LPAC):",
+      "options": ["Positivo", "Negativo", "No hay silencio", "Depende del órgano"],
+      "correct": 1,
+      "explanation": "Art. 24.1 LPAC: el silencio tendrá efecto desestimatorio, entre otros, en los procedimientos relativos al ejercicio del derecho de petición del art. 29 CE."
+    },
+    {
+      "id": "l39-066",
+      "q": "Las notificaciones se considerarán válidamente efectuadas (art. 43 LPAC) en el momento en que:",
+      "options": ["Se envían al buzón del ciudadano", "Se produzca el acceso a su contenido en caso de notificación electrónica", "El ciudadano acuse recibo", "Se imprima por la Administración"],
+      "correct": 1,
+      "explanation": "Art. 43.2 LPAC: las notificaciones por medios electrónicos se entenderán practicadas en el momento en que se produzca el acceso a su contenido."
+    },
+    {
+      "id": "l39-067",
+      "q": "El Punto de Acceso General electrónico de la Administración (art. 13.b LPAC) facilitará:",
+      "options": ["La contratación pública", "El acceso a los servicios electrónicos y a la información y comunicación con las AAPP", "La firma de convenios", "Únicamente la sede electrónica de la AGE"],
+      "correct": 1,
+      "explanation": "El PAG es una de las garantías del derecho a relacionarse electrónicamente con las AAPP y canal de comunicación."
+    },
+    {
+      "id": "l39-068",
+      "q": "Las disposiciones administrativas de carácter general entrarán en vigor (art. 23 LRJSP / art. 131 LPAC):",
+      "options": ["A los 20 días de su publicación en el BOE si no disponen otra cosa", "Inmediatamente", "Cuando lo decida el órgano proponente", "Tras su aprobación por el Consejo de Ministros"],
+      "correct": 0,
+      "explanation": "Art. 131 LPAC (remisión al art. 2.1 CC): las normas entrarán en vigor a los 20 días de su completa publicación en el diario oficial correspondiente, si en ellas no se dispone otra cosa."
+    },
+    {
+      "id": "l39-069",
+      "q": "La iniciativa legislativa y potestad reglamentaria en el Título VI de la LPAC (arts. 127-133) incluye:",
+      "options": ["Solo la iniciativa legislativa", "Principios de buena regulación, planificación, consultas públicas, y memoria del análisis de impacto normativo", "Únicamente potestad reglamentaria", "Ninguna referencia a la consulta pública"],
+      "correct": 1,
+      "explanation": "El Título VI regula principios de buena regulación (necesidad, eficacia, proporcionalidad, seguridad jurídica, transparencia y eficiencia), planificación normativa, participación de los ciudadanos mediante consulta pública previa y evaluación normativa."
+    },
+    {
+      "id": "l39-070",
+      "q": "Son días inhábiles a efectos de cómputo de plazos, según el art. 30.7 LPAC:",
+      "options": ["Solo los domingos", "Los sábados, domingos y festivos", "Los sábados, domingos y los declarados festivos en el calendario oficial", "Solo los festivos nacionales"],
+      "correct": 2,
+      "explanation": "Art. 30.7 LPAC: la AGE, CCAA y EELL, con sujeción al calendario laboral oficial, fijarán, en su respectivo ámbito, el calendario de días inhábiles a efectos de cómputo de plazos. En todo caso serán inhábiles los sábados, domingos y los declarados festivos."
+    },
+    {
+      "id": "l39-071",
+      "q": "Según el art. 21.4 LPAC, las AAPP deben publicar y mantener actualizadas en el portal web:",
+      "options": ["Solo las resoluciones", "La relación de procedimientos de su competencia, con indicación de plazos máximos y efectos del silencio", "Los convenios con terceros", "Los sueldos del personal"],
+      "correct": 1,
+      "explanation": "Art. 21.4 LPAC: las AAPP deben publicar y mantener actualizadas en el portal web, a efectos informativos, las relaciones de procedimientos de su competencia, con indicación de los plazos máximos de duración, así como de los efectos que produzca el silencio administrativo."
+    },
+    {
+      "id": "l39-072",
+      "q": "Las notificaciones en papel (art. 42 LPAC) a realizar en el domicilio del interesado deberán intentarse al menos:",
+      "options": ["Una vez", "Dos intentos, en días y horas diferentes", "Tres intentos consecutivos", "Un intento por semana durante un mes"],
+      "correct": 1,
+      "explanation": "Art. 42.2 LPAC: si nadie se hiciera cargo de la notificación, se hará constar esta circunstancia, con indicación del día y hora del intento, que se repetirá por una sola vez y en una hora distinta dentro de los tres días siguientes."
+    },
+    {
+      "id": "l39-073",
+      "q": "Si ha habido dos intentos infructuosos de notificación en papel (art. 44 LPAC):",
+      "options": ["Se considera notificado", "Se procederá a la publicación mediante anuncio en el BOE", "Se inicia la vía de apremio", "Se archiva el procedimiento"],
+      "correct": 1,
+      "explanation": "Art. 44 LPAC: cuando los interesados sean desconocidos, se ignore el lugar o medio de notificación, o bien, intentada esta, no se hubiese podido practicar, la notificación se hará por medio de un anuncio publicado en el BOE."
+    },
+    {
+      "id": "l39-074",
+      "q": "El órgano que ordene la publicación dispondrá que también se publique en (art. 45 LPAC):",
+      "options": ["Prensa privada", "El tablón de anuncios del ayuntamiento del último domicilio conocido, a efectos de publicación complementaria", "Redes sociales", "Nada más"],
+      "correct": 1,
+      "explanation": "Art. 45 LPAC regula los supuestos de publicación. Con la redacción vigente, la publicación en el BOE es la que surte efectos; la publicación en otros medios es complementaria."
+    },
+    {
+      "id": "l39-075",
+      "q": "Según el art. 29 LPAC, los términos y plazos establecidos en esta u otras leyes obligan a:",
+      "options": ["Solo a los interesados", "Las autoridades y personal al servicio de las AAPP competentes para la tramitación y a los interesados", "Solo a los funcionarios", "Es potestativo"],
+      "correct": 1,
+      "explanation": "Art. 29 LPAC: los términos y plazos establecidos obligan a las autoridades y personal al servicio de las Administraciones Públicas competentes para la tramitación de los asuntos, así como a los interesados en los mismos."
+    },
+    {
+      "id": "l39-076",
+      "q": "Cuando dos o más interesados actúen en un procedimiento con pretensiones similares y no hayan designado un representante, las actuaciones se entenderán (art. 7 LPAC):",
+      "options": ["Con todos individualmente", "Con el que firme en primer lugar en el escrito, salvo manifestación expresa en contrario", "Con el de mayor edad", "Con el designado por la Administración"],
+      "correct": 1,
+      "explanation": "Art. 7 LPAC: cuando en una solicitud, escrito o comunicación figuren varios interesados, las actuaciones a que den lugar se efectuarán con el representante o el interesado que expresamente hayan señalado, y en su defecto, con el que figure en primer lugar."
+    },
+    {
+      "id": "l39-077",
+      "q": "El desistimiento y la renuncia (art. 94 LPAC):",
+      "options": ["Solo el desistimiento es admitido", "Todo interesado podrá desistir de su solicitud o renunciar a sus derechos, cuando no esté prohibido por el ordenamiento", "Es imposible una vez iniciado el procedimiento", "Requieren aprobación judicial"],
+      "correct": 1,
+      "explanation": "Art. 94.1 LPAC: todo interesado podrá desistir de su solicitud o, cuando ello no esté prohibido por el ordenamiento jurídico, renunciar a sus derechos."
+    },
+    {
+      "id": "l39-078",
+      "q": "La Administración, según el art. 88 LPAC, no podrá abstenerse de resolver:",
+      "options": ["Nunca", "So pretexto de silencio, oscuridad o insuficiencia de los preceptos legales aplicables al caso", "En materia tributaria", "En procedimientos sancionadores"],
+      "correct": 1,
+      "explanation": "Art. 88.5 LPAC: en ningún caso podrá la Administración abstenerse de resolver so pretexto de silencio, oscuridad o insuficiencia de los preceptos legales aplicables al caso, aunque podrá resolver la inadmisión cuando concurran causas tasadas."
+    },
+    {
+      "id": "l39-079",
+      "q": "La resolución (art. 88 LPAC) decidirá:",
+      "options": ["Solo las cuestiones planteadas por los interesados", "Todas las cuestiones planteadas por los interesados y aquellas otras derivadas del procedimiento", "Solo lo alegado por la Administración", "Nada que no haya sido alegado"],
+      "correct": 1,
+      "explanation": "Art. 88.1 LPAC: la resolución que ponga fin al procedimiento decidirá todas las cuestiones planteadas por los interesados y aquellas otras derivadas del mismo. Cuando se trate de cuestiones conexas no planteadas por los interesados, el órgano competente podrá pronunciarse sobre las mismas, poniéndolo antes de manifiesto por un plazo no superior a 15 días, para que formulen las alegaciones que estimen pertinentes."
+    },
+    {
+      "id": "l39-080",
+      "q": "La Ley 39/2015 entró en vigor:",
+      "options": ["El 2 de octubre de 2015", "Al año de su publicación en el BOE (2 de octubre de 2016)", "El 1 de enero de 2016", "A los 20 días de su publicación"],
+      "correct": 1,
+      "explanation": "DF 7ª de la Ley 39/2015: la presente Ley entrará en vigor al año de su publicación en el BOE (publicada el 2 de octubre de 2015, entró en vigor el 2 de octubre de 2016)."
+    }
+  ]
+}

@@ -1,0 +1,429 @@
+{
+  "id": "ley-12-2001",
+  "title": "Ley 12/2001, de Ordenación Sanitaria de la Comunidad de Madrid",
+  "category": "Leyes",
+  "source": "BOCM-B-2001-306 (texto consolidado)",
+  "lastUpdated": "2026-04-18",
+  "questions": [
+    {
+      "id": "l12-001",
+      "q": "¿Cuál es la fecha de la Ley 12/2001 de Ordenación Sanitaria de la CAM?",
+      "options": ["21 de noviembre de 2001", "21 de diciembre de 2001", "26 de diciembre de 2001", "21 de diciembre de 2002"],
+      "correct": 1,
+      "explanation": "Ley 12/2001, de 21 de diciembre, de Ordenación Sanitaria de la Comunidad de Madrid (LOSCAM). Publicada en el BOCM el 26 de diciembre de 2001."
+    },
+    {
+      "id": "l12-002",
+      "q": "La Ley 12/2001 tiene por objeto (art. 1):",
+      "options": ["Regular el personal sanitario madrileño", "La ordenación del sistema sanitario de la CAM, regulando sus fines, principios rectores, organización, funcionamiento y financiación", "Modificar la Ley General de Sanidad", "Regular la farmacia"],
+      "correct": 1,
+      "explanation": "Art. 1 LOSCAM: la Ley tiene por objeto la ordenación del sistema sanitario de la Comunidad de Madrid, con el fin de dar cumplimiento al derecho a la protección de la salud reconocido en el art. 43 CE y en el Estatuto de Autonomía."
+    },
+    {
+      "id": "l12-003",
+      "q": "Son titulares del derecho a la protección de la salud en la CAM (art. 2 LOSCAM):",
+      "options": ["Solo los residentes", "Todos los ciudadanos españoles residentes en el territorio de la CAM, los extranjeros residentes y los españoles y extranjeros no residentes, en los términos previstos en la legislación básica y autonómica", "Solo los afiliados a la Seguridad Social", "Solo los mayores de edad"],
+      "correct": 1,
+      "explanation": "Art. 2 LOSCAM: son titulares del derecho los ciudadanos españoles y los extranjeros con residencia en el ámbito territorial de la Comunidad, sin perjuicio de lo previsto en la legislación básica del Estado para extranjeros no residentes y españoles no residentes."
+    },
+    {
+      "id": "l12-004",
+      "q": "Los principios rectores del sistema sanitario de la CAM (art. 3 LOSCAM) incluyen, entre otros:",
+      "options": ["Financiación privada", "Universalización, igualdad efectiva, equidad, solidaridad interterritorial, concepción integral, promoción, prevención, participación, coordinación, calidad y evaluación", "Centralización", "Exclusión"],
+      "correct": 1,
+      "explanation": "Art. 3 LOSCAM: los principios rectores incluyen universalidad, equidad, igualdad, solidaridad, concepción integral, promoción de salud, prevención, participación, coordinación, calidad, evaluación, humanización, integración, entre otros."
+    },
+    {
+      "id": "l12-005",
+      "q": "El Sistema Sanitario de la CAM (art. 4 LOSCAM) está integrado por:",
+      "options": ["Solo el SERMAS", "El conjunto de recursos, actividades, servicios y prestaciones sanitarias públicos o privados vinculados, que actúan de forma integrada y coordinada en el ámbito territorial de la CAM", "Solo los hospitales públicos", "Solo la atención primaria"],
+      "correct": 1,
+      "explanation": "Art. 4 LOSCAM: el Sistema Sanitario de la Comunidad está integrado por el conjunto de recursos, actividades, servicios y prestaciones sanitarias públicos o privados concertados, que actúan de forma integrada y coordinada."
+    },
+    {
+      "id": "l12-006",
+      "q": "¿Qué derechos se reconocen a los ciudadanos en el ámbito de la salud según la LOSCAM (art. 27 y ss)?",
+      "options": ["Solo los derechos económicos", "Dignidad, intimidad, información, confidencialidad, consentimiento informado, libre elección, segunda opinión, participación, y otros", "Solo el derecho a la atención", "No se reconocen"],
+      "correct": 1,
+      "explanation": "Los arts. 27 y siguientes LOSCAM enumeran los derechos de los ciudadanos respecto a la sanidad madrileña: respeto, intimidad, confidencialidad, información, consentimiento, libre elección, segunda opinión, participación, acceso al sistema, etc."
+    },
+    {
+      "id": "l12-007",
+      "q": "El derecho a la segunda opinión médica en la CAM (art. 28 LOSCAM):",
+      "options": ["No se reconoce", "Se reconoce en los términos que reglamentariamente se establezcan", "Solo es privado", "Solo para oncológicos"],
+      "correct": 1,
+      "explanation": "La LOSCAM reconoce el derecho a obtener una segunda opinión facultativa dentro del sistema sanitario público, desarrollado por reglamento (Decreto 51/2010 u otros de la CAM)."
+    },
+    {
+      "id": "l12-008",
+      "q": "El derecho a la libre elección de médico, centro y hospital (art. 30 LOSCAM):",
+      "options": ["No se reconoce", "Se reconoce en los términos reglamentariamente establecidos", "Solo en urgencias", "Limitado a primaria"],
+      "correct": 1,
+      "explanation": "Art. 30 LOSCAM reconoce el derecho a la libre elección de médico, pediatra, enfermero y centro en primaria, así como de hospital y médico especialista, en los términos que se establezcan."
+    },
+    {
+      "id": "l12-009",
+      "q": "Los deberes de los ciudadanos incluyen (art. 32 LOSCAM):",
+      "options": ["Solo pagar cuotas", "Uso adecuado de las prestaciones y servicios; respeto al personal; cumplimiento de prescripciones; cuidado de instalaciones y equipamiento", "Ningún deber", "Solo acudir a citas"],
+      "correct": 1,
+      "explanation": "Art. 32 LOSCAM enumera deberes como: cumplir las prescripciones generales sanitarias; uso adecuado de prestaciones y recursos; mantener el respeto al personal; cuidar de las instalaciones; cumplir los requisitos."
+    },
+    {
+      "id": "l12-010",
+      "q": "El Sistema Sanitario Público de la Comunidad de Madrid está integrado por (art. 61 LOSCAM):",
+      "options": ["Solo hospitales", "El conjunto de recursos, actividades, servicios y prestaciones sanitarias de titularidad pública, responsabilidad de la CAM", "Clínicas privadas", "Fundaciones"],
+      "correct": 1,
+      "explanation": "Art. 61 LOSCAM: el Sistema Sanitario Público de la Comunidad de Madrid está integrado por el conjunto de recursos, actividades, servicios y prestaciones sanitarias de titularidad pública, cuya gestión es responsabilidad de la Comunidad."
+    },
+    {
+      "id": "l12-011",
+      "q": "El Servicio Madrileño de Salud (SERMAS) se crea por la LOSCAM como (art. 62):",
+      "options": ["Una fundación privada", "Un Ente de Derecho Público con personalidad jurídica propia", "Una consejería", "Un organismo autónomo"],
+      "correct": 1,
+      "explanation": "Art. 62 LOSCAM: se crea el Servicio Madrileño de Salud, Ente de Derecho Público, dotado de personalidad jurídica propia y plena capacidad de obrar para el cumplimiento de sus fines."
+    },
+    {
+      "id": "l12-012",
+      "q": "El SERMAS se adscribe a:",
+      "options": ["La Presidencia de la CAM", "La Consejería competente en materia de Sanidad", "El Ministerio de Sanidad", "La Asamblea"],
+      "correct": 1,
+      "explanation": "Art. 62 LOSCAM: el SERMAS se adscribe a la Consejería competente en materia de Sanidad."
+    },
+    {
+      "id": "l12-013",
+      "q": "Los fines del SERMAS (art. 63 LOSCAM) son:",
+      "options": ["Solo gestionar hospitales", "La provisión sanitaria pública en la CAM y la gestión de los recursos, centros y servicios sanitarios transferidos", "Regular el personal solamente", "Financiación"],
+      "correct": 1,
+      "explanation": "Art. 63 LOSCAM: los fines del SERMAS son el desarrollo de las competencias atribuidas y la provisión de los servicios sanitarios públicos de la Comunidad de Madrid."
+    },
+    {
+      "id": "l12-014",
+      "q": "El personal del SERMAS (art. 64 LOSCAM) estará integrado por:",
+      "options": ["Solo laborales", "Personal estatutario, funcionario y laboral, en los términos previstos en la normativa", "Solo funcionarios", "Solo laborales y estatutarios"],
+      "correct": 1,
+      "explanation": "Art. 64 LOSCAM: el personal al servicio del SERMAS podrá ser estatutario, funcionario o laboral, conforme a la normativa aplicable."
+    },
+    {
+      "id": "l12-015",
+      "q": "Los órganos de gobierno del SERMAS son (art. 68 LOSCAM):",
+      "options": ["El Presidente", "El Consejo de Administración y el Director-Gerente (u otros que determine la normativa)", "El Rector", "La Junta General"],
+      "correct": 1,
+      "explanation": "Art. 68 LOSCAM establece como órganos del SERMAS al Consejo de Administración y el Director Gerente. Su composición y funciones se detallan en artículos siguientes y normas de desarrollo."
+    },
+    {
+      "id": "l12-016",
+      "q": "El Consejo de Administración del SERMAS (art. 69 LOSCAM) tiene, entre sus funciones:",
+      "options": ["Solo administrar el presupuesto", "Aprobar los planes, propuestas y líneas estratégicas; el proyecto de presupuesto; los contratos-programa, y elevar al titular de la Consejería los asuntos relevantes", "Nombrar al Presidente", "Ninguna"],
+      "correct": 1,
+      "explanation": "Art. 69 LOSCAM: el Consejo de Administración tiene competencias de aprobación de planes, estrategias, propuestas de presupuestos, contratos-programa y otros asuntos que le atribuya la normativa."
+    },
+    {
+      "id": "l12-017",
+      "q": "El Director-Gerente del SERMAS (art. 70 LOSCAM) será:",
+      "options": ["Elegido por el Consejo", "Nombrado por el Consejo de Gobierno de la CAM, a propuesta del titular de la Consejería competente en materia de Sanidad", "Funcionario electo", "Elegido por la Asamblea"],
+      "correct": 1,
+      "explanation": "Art. 70 LOSCAM: el Director-Gerente será nombrado por el Consejo de Gobierno de la Comunidad de Madrid, a propuesta del Consejero competente en materia de Sanidad."
+    },
+    {
+      "id": "l12-018",
+      "q": "Las funciones del Director-Gerente (art. 70 LOSCAM) son:",
+      "options": ["Solo representación", "La representación ordinaria del SERMAS, la dirección y gestión ordinaria, la propuesta de contratación y la jefatura superior del personal, entre otras", "Nombrar al personal de libre designación", "Ninguna"],
+      "correct": 1,
+      "explanation": "Art. 70 LOSCAM: el Director-Gerente ostenta la representación del SERMAS, dirige su gestión, propone contratación, ejerce jefatura superior del personal y las restantes funciones atribuidas."
+    },
+    {
+      "id": "l12-019",
+      "q": "La LOSCAM prevé la existencia de un órgano de asesoramiento y participación denominado (art. 48):",
+      "options": ["Consejo de Salud de la Comunidad de Madrid", "Consejo Interterritorial", "Junta Sanitaria", "Mesa Sectorial"],
+      "correct": 0,
+      "explanation": "Art. 48 LOSCAM crea el Consejo de Salud de la Comunidad de Madrid como órgano superior colegiado de carácter consultivo y de participación en el Sistema Sanitario."
+    },
+    {
+      "id": "l12-020",
+      "q": "¿Quién preside el Consejo de Salud de la CAM?",
+      "options": ["El Presidente de la CAM", "El Consejero competente en materia de sanidad", "El Director del SERMAS", "Un representante elegido"],
+      "correct": 1,
+      "explanation": "Art. 49 LOSCAM: el Consejo de Salud de la CAM está presidido por el titular de la Consejería competente en materia de Sanidad."
+    },
+    {
+      "id": "l12-021",
+      "q": "Las funciones del Consejo de Salud de la CAM incluyen (art. 50 LOSCAM):",
+      "options": ["Informar los Planes de Salud y programas sanitarios; proponer mejoras; emitir informes sobre la actividad del SERMAS y criterios de política sanitaria", "Nombrar directores", "Aprobar presupuestos", "Inspeccionar centros"],
+      "correct": 0,
+      "explanation": "Art. 50 LOSCAM: el Consejo de Salud tiene funciones consultivas y de propuesta sobre el Plan de Salud, programas, informes de actividad y política sanitaria."
+    },
+    {
+      "id": "l12-022",
+      "q": "El Plan de Salud de la Comunidad de Madrid (art. 44 LOSCAM) es:",
+      "options": ["Un documento facultativo", "El instrumento estratégico del Sistema Sanitario de la CAM en el que se recoge la planificación sanitaria con la priorización de los problemas de salud y los objetivos", "Un convenio", "Un reglamento"],
+      "correct": 1,
+      "explanation": "Art. 44 LOSCAM: el Plan de Salud de la CAM es el instrumento estratégico del Sistema Sanitario, en el que se recoge la planificación sanitaria del Sistema."
+    },
+    {
+      "id": "l12-023",
+      "q": "El Plan de Salud será aprobado por (art. 45 LOSCAM):",
+      "options": ["La Asamblea", "El Consejo de Gobierno de la CAM a propuesta del Consejero competente en materia de Sanidad", "El SERMAS", "El Consejo Interterritorial"],
+      "correct": 1,
+      "explanation": "Art. 45 LOSCAM: el Plan de Salud será aprobado por el Consejo de Gobierno de la Comunidad de Madrid, a propuesta del titular de la Consejería competente en materia de Sanidad, previo informe del Consejo de Salud."
+    },
+    {
+      "id": "l12-024",
+      "q": "¿Cuál es la vigencia del Plan de Salud de la CAM?",
+      "options": ["1 año", "La que establezca el propio Plan; habitualmente se aprueba con carácter plurianual", "10 años", "Indefinida"],
+      "correct": 1,
+      "explanation": "El Plan de Salud suele tener vigencia plurianual (los Planes de Salud de Madrid han tenido vigencias variables según su aprobación)."
+    },
+    {
+      "id": "l12-025",
+      "q": "La estructura territorial del Sistema Sanitario de la CAM se articulará en (art. 12 LOSCAM):",
+      "options": ["Provincias", "Áreas Sanitarias y Zonas Básicas de Salud", "Distritos", "Municipios"],
+      "correct": 1,
+      "explanation": "Art. 12 LOSCAM: la estructura territorial se organiza en Áreas Sanitarias y, dentro de éstas, en Zonas Básicas de Salud."
+    },
+    {
+      "id": "l12-026",
+      "q": "Las Áreas Sanitarias (art. 13 LOSCAM) son:",
+      "options": ["Unidades políticas", "Las estructuras territoriales del Sistema Sanitario Público integradas en él y responsables de la gestión unitaria de los centros y recursos dependientes del SERMAS", "Entidades privadas", "Áreas geográficas para el Censo"],
+      "correct": 1,
+      "explanation": "Art. 13 LOSCAM: las Áreas Sanitarias constituyen el marco territorial de gestión unitaria de los centros y servicios del sistema sanitario público, con responsabilidad sobre las prestaciones a la población de su demarcación."
+    },
+    {
+      "id": "l12-027",
+      "q": "Las Zonas Básicas de Salud (art. 14 LOSCAM) constituyen:",
+      "options": ["Subdivisiones territoriales del Área Sanitaria, marco para el desarrollo de la atención primaria de salud", "Divisiones de la administración general", "Parroquias sanitarias", "Secciones hospitalarias"],
+      "correct": 0,
+      "explanation": "Art. 14 LOSCAM: las Zonas Básicas de Salud son las subdivisiones territoriales del Área Sanitaria y constituyen el marco territorial para el desarrollo de la atención primaria."
+    },
+    {
+      "id": "l12-028",
+      "q": "La ordenación territorial en la CAM fue modificada sustancialmente por el Decreto 52/2010 que estableció:",
+      "options": ["Mantenimiento de 11 áreas", "Un Área Sanitaria Única en la CAM", "La supresión del SERMAS", "La privatización"],
+      "correct": 1,
+      "explanation": "El Decreto 52/2010 estableció el modelo de Área Única Sanitaria en la Comunidad de Madrid, con objeto de favorecer la libre elección de centro."
+    },
+    {
+      "id": "l12-029",
+      "q": "Los centros, servicios y establecimientos del Sistema Sanitario Público de la CAM (art. 16 LOSCAM) comprenden:",
+      "options": ["Solo hospitales", "Los de atención primaria, atención especializada, los sociosanitarios, los de salud pública y docencia, los de urgencias extrahospitalarias, y otros", "Solo primaria", "Solo especializada"],
+      "correct": 1,
+      "explanation": "Art. 16 LOSCAM enumera los centros, servicios y establecimientos del Sistema Sanitario Público: atención primaria; atención especializada; salud pública; centros sociosanitarios; urgencias extrahospitalarias; salud mental; docencia e investigación."
+    },
+    {
+      "id": "l12-030",
+      "q": "La atención primaria en la CAM (art. 17 LOSCAM) constituye el:",
+      "options": ["Segundo nivel asistencial", "Primer nivel de acceso del ciudadano a la asistencia sanitaria", "Nivel de referencia", "Nivel privado"],
+      "correct": 1,
+      "explanation": "Art. 17 LOSCAM: la atención primaria constituye el primer nivel de acceso de los ciudadanos a la asistencia sanitaria y garantiza su continuidad a lo largo de toda la vida."
+    },
+    {
+      "id": "l12-031",
+      "q": "Los centros de atención primaria (art. 18 LOSCAM) son:",
+      "options": ["Solo las farmacias", "Los Centros de Salud y los Consultorios Locales", "Los hospitales", "Solo urgencias"],
+      "correct": 1,
+      "explanation": "Art. 18 LOSCAM: los centros en los que se presta la atención primaria son los Centros de Salud y los Consultorios Locales."
+    },
+    {
+      "id": "l12-032",
+      "q": "Los Equipos de Atención Primaria (EAP) (art. 19 LOSCAM) están integrados por:",
+      "options": ["Solo médicos", "Los profesionales sanitarios y no sanitarios que prestan sus servicios en los Centros de Salud y Consultorios Locales", "Sanitarios de hospitales", "Administrativos exclusivamente"],
+      "correct": 1,
+      "explanation": "Art. 19 LOSCAM: los EAP son el conjunto de profesionales sanitarios y no sanitarios que trabajan en un centro de salud bajo la coordinación del responsable del equipo, desempeñando la atención primaria."
+    },
+    {
+      "id": "l12-033",
+      "q": "La atención especializada (art. 20 LOSCAM) se prestará:",
+      "options": ["Solo en consultas externas", "Mediante dispositivos ambulatorios (Centros de Especialidades, consultas externas de los hospitales) y hospitalarios", "Solo en régimen de ingreso", "Solo por iniciativa privada"],
+      "correct": 1,
+      "explanation": "Art. 20 LOSCAM: la atención especializada se prestará en los hospitales y en los Centros de Especialidades Periféricos, así como en otros centros autorizados."
+    },
+    {
+      "id": "l12-034",
+      "q": "El hospital (art. 21 LOSCAM) es:",
+      "options": ["Solo un centro de urgencias", "El centro asistencial donde se proporciona atención médica y de enfermería de carácter especializado que requiere hospitalización continuada o en régimen ambulatorio", "Solo para crónicos", "Para investigación"],
+      "correct": 1,
+      "explanation": "Art. 21 LOSCAM: el hospital es el centro asistencial donde se proporciona atención médica y de enfermería especializada en régimen continuado o ambulatorio."
+    },
+    {
+      "id": "l12-035",
+      "q": "La salud pública en la CAM (art. 23 LOSCAM) comprende:",
+      "options": ["Solo vacunas", "El conjunto de actividades orientadas a la protección y promoción de la salud de la colectividad, prevención y control de enfermedades y vigilancia epidemiológica", "La asistencia primaria", "Solo la farmacia"],
+      "correct": 1,
+      "explanation": "Art. 23 LOSCAM: las actividades de salud pública incluyen protección, promoción, prevención, vigilancia epidemiológica y otras actuaciones colectivas."
+    },
+    {
+      "id": "l12-036",
+      "q": "La Comunidad de Madrid (art. 74 LOSCAM) podrá crear Empresas Públicas y Fundaciones para la provisión de servicios sanitarios siempre que:",
+      "options": ["Lo decida el Director del SERMAS", "Sea autorizado mediante norma con rango de ley y respetando los principios del sistema", "Sean de capital privado", "En cualquier caso"],
+      "correct": 1,
+      "explanation": "Art. 74 LOSCAM: la CAM podrá establecer nuevas formas de gestión, creando entidades instrumentales, con respeto a los principios de sistema público y mediante las garantías normativas correspondientes."
+    },
+    {
+      "id": "l12-037",
+      "q": "La financiación del Sistema Sanitario Público de la CAM procede (art. 77 LOSCAM) de:",
+      "options": ["Solo cuotas privadas", "Los recursos públicos obtenidos a través del sistema general de financiación autonómica, tasas, precios públicos, ingresos por servicios, subvenciones y otros", "Donaciones", "Impuestos finalistas"],
+      "correct": 1,
+      "explanation": "Art. 77 LOSCAM: la financiación procede de los recursos transferidos por el Estado para la asistencia sanitaria, de los ingresos propios, tasas y precios públicos, y de cualquier otra fuente."
+    },
+    {
+      "id": "l12-038",
+      "q": "El régimen jurídico de los actos del SERMAS (art. 65 LOSCAM) se rige por:",
+      "options": ["Solo por derecho privado", "El Derecho Administrativo, sin perjuicio de la aplicación del Derecho privado en las materias propias del tráfico privado", "El derecho laboral", "El derecho mercantil"],
+      "correct": 1,
+      "explanation": "Art. 65 LOSCAM: los actos del SERMAS dictados en el ejercicio de potestades administrativas se regirán por el Derecho Administrativo. En las materias propias del tráfico privado podrá aplicarse el Derecho privado."
+    },
+    {
+      "id": "l12-039",
+      "q": "Los recursos en vía administrativa contra los actos del SERMAS (art. 66 LOSCAM) se interpondrán:",
+      "options": ["Ante el TSJM directamente", "Ante el titular de la Consejería competente en materia de Sanidad, cuando proceda recurso", "Ante el Consejo de Gobierno", "No cabe recurso"],
+      "correct": 1,
+      "explanation": "Art. 66 LOSCAM: agotan la vía administrativa los actos del Director-Gerente dictados en el ejercicio de potestades administrativas, contra los que cabe recurso potestativo de reposición o contencioso-administrativo. Los recursos se regulan conforme al régimen general."
+    },
+    {
+      "id": "l12-040",
+      "q": "La inspección sanitaria en la CAM (art. 79 LOSCAM):",
+      "options": ["Corresponde al Estado", "Será realizada por los órganos competentes de la Administración sanitaria de la CAM, con las competencias propias y la colaboración con otras AAPP", "La realizan las Diputaciones", "Solo las EELL"],
+      "correct": 1,
+      "explanation": "Art. 79 LOSCAM: la inspección sanitaria será ejercida por los órganos competentes de la Administración sanitaria de la Comunidad de Madrid."
+    },
+    {
+      "id": "l12-041",
+      "q": "El régimen sancionador de la LOSCAM (arts. 105 y ss):",
+      "options": ["Es inaplicable en la CAM", "Tipifica infracciones en materia sanitaria clasificándolas en leves, graves y muy graves, respetando la legislación básica del Estado (LGS)", "Solo sancionadoras penales", "No existe"],
+      "correct": 1,
+      "explanation": "Arts. 105 y siguientes LOSCAM: se tipifican infracciones en materia sanitaria, clasificándolas en leves, graves y muy graves, y se establecen las correspondientes sanciones, respetando la normativa básica del Estado."
+    },
+    {
+      "id": "l12-042",
+      "q": "Las sanciones por infracciones sanitarias (art. 108 LOSCAM) pueden consistir en (entre otras):",
+      "options": ["Solo apercibimientos", "Multas pecuniarias, graduadas según gravedad, y en su caso, inhabilitación o cierre", "Privación de libertad", "Solo retirada de licencia"],
+      "correct": 1,
+      "explanation": "Art. 108 LOSCAM: establece la graduación de las sanciones pecuniarias y la posibilidad de cierre de establecimientos o inhabilitación."
+    },
+    {
+      "id": "l12-043",
+      "q": "La responsabilidad patrimonial por los daños causados por el funcionamiento de los servicios sanitarios de la CAM (art. 78 LOSCAM) se ajusta a:",
+      "options": ["Las reglas especiales autonómicas", "La legislación general en materia de responsabilidad patrimonial de las AAPP", "El derecho privado", "No existe responsabilidad"],
+      "correct": 1,
+      "explanation": "Art. 78 LOSCAM: la responsabilidad patrimonial se ajusta a las disposiciones generales de la Ley 39/2015 y 40/2015 (antes Ley 30/1992) sobre responsabilidad patrimonial de las AAPP."
+    },
+    {
+      "id": "l12-044",
+      "q": "Los órganos del Sistema Sanitario Público de la CAM incluyen (art. 42 LOSCAM):",
+      "options": ["Solo los órganos del SERMAS", "La Consejería competente en materia de Sanidad, el SERMAS y los órganos colegiados de asesoramiento y participación", "El Estado", "Los Ayuntamientos"],
+      "correct": 1,
+      "explanation": "Art. 42 LOSCAM: la Consejería competente en materia de Sanidad y los órganos que la componen, el SERMAS y los órganos colegiados asesores y de participación, constituyen la estructura básica del sistema."
+    },
+    {
+      "id": "l12-045",
+      "q": "La Consejería competente en materia de Sanidad (art. 43 LOSCAM) ejerce:",
+      "options": ["Solo funciones consultivas", "La dirección superior, la planificación, la ordenación sanitaria, la autoridad sanitaria y la Alta Inspección sobre la asistencia concertada, entre otras funciones", "Funciones judiciales", "No tiene competencias"],
+      "correct": 1,
+      "explanation": "Art. 43 LOSCAM: la Consejería ejerce las funciones de dirección superior, planificación, ordenación, autoridad sanitaria y alta inspección."
+    },
+    {
+      "id": "l12-046",
+      "q": "Los hospitales de la CAM pueden tener diversas formas jurídicas, pudiendo ser (art. 22 LOSCAM):",
+      "options": ["Solo entidades de derecho público", "Hospitales gestionados directamente por el SERMAS, empresas públicas, fundaciones sanitarias, hospitales concertados y cualesquiera otras formas de gestión autorizadas", "Solo privados", "Solo universitarios"],
+      "correct": 1,
+      "explanation": "Art. 22 LOSCAM y ordenamiento concordante: los hospitales pueden ser de gestión directa por el SERMAS, a través de empresas públicas, fundaciones, concertados u otras modalidades previstas en la Ley 15/1997."
+    },
+    {
+      "id": "l12-047",
+      "q": "¿Qué norma estatal básica complementa la aplicación de la Ley 12/2001?",
+      "options": ["Solo la CE", "La Ley 14/1986 General de Sanidad y la Ley 16/2003 de cohesión y calidad del SNS", "El Código Civil", "La LOPD"],
+      "correct": 1,
+      "explanation": "La Ley 12/2001 se integra en el marco de la legislación básica estatal, fundamentalmente la LGS y la Ley 16/2003 de cohesión y calidad del SNS."
+    },
+    {
+      "id": "l12-048",
+      "q": "El SERMAS ejerce competencias en materia de:",
+      "options": ["Solo gestión de hospitales", "Provisión de la asistencia sanitaria, contratación, gestión del personal estatutario, compras centralizadas de bienes y servicios sanitarios, y programas asistenciales", "Salud pública exclusivamente", "Solo farmacia"],
+      "correct": 1,
+      "explanation": "Corresponden al SERMAS todas las funciones ejecutivas vinculadas a la prestación sanitaria: gestión asistencial, de personal, de contratación, logística y programas, entre otras."
+    },
+    {
+      "id": "l12-049",
+      "q": "La tarjeta sanitaria individual de la CAM (art. 35 LOSCAM) es:",
+      "options": ["Un documento opcional", "El documento acreditativo del derecho de los ciudadanos a las prestaciones sanitarias en la Comunidad de Madrid, elemento personal e intransferible", "Un carné comercial", "Una identificación laboral"],
+      "correct": 1,
+      "explanation": "Art. 35 LOSCAM: la tarjeta sanitaria individual acredita el derecho de su titular a la asistencia sanitaria y facilita el acceso a los centros y servicios del Sistema."
+    },
+    {
+      "id": "l12-050",
+      "q": "Los derechos específicos en relación con la historia clínica (art. 31 LOSCAM) incluyen:",
+      "options": ["Solo la consulta presencial", "El derecho de acceso a la información contenida, en los términos y con las garantías reglamentarias, respetando la confidencialidad y la normativa sobre protección de datos", "Su difusión pública", "Su destrucción"],
+      "correct": 1,
+      "explanation": "Art. 31 LOSCAM: los ciudadanos tienen derecho a acceder a la información contenida en su historia clínica conforme a la normativa aplicable (Ley 41/2002, LOPDGDD)."
+    },
+    {
+      "id": "l12-051",
+      "q": "Las Oficinas de Información y Atención al Paciente (art. 39 LOSCAM) tienen, entre sus funciones:",
+      "options": ["Solo sugerencias", "Información, orientación, tramitación de reclamaciones, sugerencias y agradecimientos", "Comerciales", "Asesoramiento jurídico"],
+      "correct": 1,
+      "explanation": "Art. 39 LOSCAM: las Oficinas de Información y Atención al Paciente ofrecen servicios de información, atención, tramitación de reclamaciones, sugerencias y agradecimientos."
+    },
+    {
+      "id": "l12-052",
+      "q": "Las Cartas de Servicios del Sistema Sanitario de la CAM (art. 40 LOSCAM) son:",
+      "options": ["Un convenio laboral", "Instrumentos que informan a los ciudadanos sobre los servicios que se prestan y los compromisos de calidad", "Un impreso fiscal", "Un documento interno"],
+      "correct": 1,
+      "explanation": "Art. 40 LOSCAM: las cartas de servicios son documentos públicos a través de los cuales se comunican a los ciudadanos los servicios sanitarios prestados y los compromisos asumidos en su desarrollo, así como los derechos y deberes."
+    },
+    {
+      "id": "l12-053",
+      "q": "Los Planes de Salud del Área Sanitaria (art. 47 LOSCAM) son:",
+      "options": ["Obligatorios para las EELL", "Instrumentos de planificación de cada área que concretan los objetivos y actuaciones del Plan de Salud de la CAM en su territorio", "Documentos personales", "Planes farmacéuticos"],
+      "correct": 1,
+      "explanation": "Art. 47 LOSCAM: los Planes de Salud de Área concretan, en su ámbito territorial, los objetivos del Plan de Salud de la CAM."
+    },
+    {
+      "id": "l12-054",
+      "q": "Las Fundaciones sanitarias de la CAM (art. 75 LOSCAM) son:",
+      "options": ["Entes privados", "Entidades sin ánimo de lucro, con personalidad jurídica propia, que podrán crearse para la mejor gestión de determinados centros o servicios", "Organismos estatales", "Meros conciertos"],
+      "correct": 1,
+      "explanation": "Art. 75 LOSCAM: la CAM puede crear fundaciones sanitarias en los términos que establezca la legislación general y las especialidades de la LOSCAM."
+    },
+    {
+      "id": "l12-055",
+      "q": "El derecho a recibir información sobre prestaciones, servicios y centros incluye (art. 29 LOSCAM):",
+      "options": ["Solo la información clínica", "La información sobre derechos, deberes, prestaciones, servicios, requisitos, tiempos de espera y procedimientos para acceder", "Información fiscal", "Solo información general"],
+      "correct": 1,
+      "explanation": "Art. 29 LOSCAM: los ciudadanos tienen derecho a recibir información sobre las prestaciones, servicios, requisitos de acceso, tiempos de espera, plazos y procedimientos aplicables."
+    },
+    {
+      "id": "l12-056",
+      "q": "La participación comunitaria (art. 41 LOSCAM) se articula mediante:",
+      "options": ["Sindicatos únicamente", "Los Consejos de Salud de Área y otros órganos de participación previstos reglamentariamente", "Asambleas vecinales", "No se regula"],
+      "correct": 1,
+      "explanation": "Art. 41 LOSCAM: la participación comunitaria se articula a través de los Consejos de Salud de Área y otros órganos que reglamentariamente se determinen."
+    },
+    {
+      "id": "l12-057",
+      "q": "El régimen de sustitución o suplencia del Director Gerente del SERMAS (art. 70 LOSCAM) se establece:",
+      "options": ["Por designación del Presidente", "Por la normativa reglamentaria que lo desarrolle", "Por cada Consejería", "No se prevé"],
+      "correct": 1,
+      "explanation": "Art. 70 LOSCAM: las suplencias y sustituciones del Director-Gerente se regulan por las disposiciones reglamentarias."
+    },
+    {
+      "id": "l12-058",
+      "q": "La reserva del derecho de libre elección (art. 30 LOSCAM) será efectiva en:",
+      "options": ["Solo hospitales privados", "Todos los centros del Sistema Sanitario Público, con los límites reglamentarios", "Solo en urgencias", "No se aplica"],
+      "correct": 1,
+      "explanation": "Art. 30 LOSCAM: la libre elección podrá ejercerse en los centros del Sistema Sanitario Público de la Comunidad, con los requisitos y limitaciones reglamentarias."
+    },
+    {
+      "id": "l12-059",
+      "q": "¿Qué consejería se encarga de la dirección de la política sanitaria en la CAM?",
+      "options": ["La de Economía", "La competente en materia de Sanidad (actualmente Consejería de Sanidad)", "Presidencia", "Educación"],
+      "correct": 1,
+      "explanation": "La Consejería competente en materia de Sanidad, cualquiera que sea su denominación concreta, dirige la política sanitaria de la CAM (art. 43 LOSCAM)."
+    },
+    {
+      "id": "l12-060",
+      "q": "La Ley 12/2001 es desarrollo, en lo que respecta al ordenamiento autonómico, del:",
+      "options": ["Mandato del art. 149 CE", "Mandato del art. 43 CE y del Estatuto de Autonomía de la Comunidad de Madrid", "Código Penal", "Convenio Europeo"],
+      "correct": 1,
+      "explanation": "La LOSCAM desarrolla, en el ámbito autonómico, el derecho a la protección de la salud del art. 43 CE y las competencias sanitarias del Estatuto de Autonomía de la Comunidad de Madrid."
+    }
+  ]
+}

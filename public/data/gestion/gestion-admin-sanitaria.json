@@ -1,0 +1,429 @@
+{
+  "id": "gestion-admin-sanitaria",
+  "title": "Gestión administrativa y sanitaria",
+  "category": "Gestión",
+  "source": "Temario SERMAS C2 — bloque de gestión administrativa y sanitaria",
+  "lastUpdated": "2026-04-18",
+  "questions": [
+    {
+      "id": "ges-001",
+      "q": "¿Cómo se denomina la cita que corresponde a la primera visita del paciente por un proceso determinado?",
+      "options": ["Cita sucesiva", "Cita programada", "Cita de primera consulta", "Cita preferente"],
+      "correct": 2,
+      "explanation": "La cita de primera consulta (o primera) es la que inicia un proceso asistencial; las sucesivas son las revisiones o seguimientos posteriores dentro del mismo proceso."
+    },
+    {
+      "id": "ges-002",
+      "q": "Un paciente acude sin cita y solicita ser atendido por un problema agudo ese mismo día. ¿Qué tipo de cita se le ofrece en Atención Primaria?",
+      "options": ["Cita programada a medio plazo", "Cita del día o forzada (urgente/sin demora)", "Cita sucesiva preferente", "Derivación inmediata al hospital"],
+      "correct": 1,
+      "explanation": "En Atención Primaria la demanda del día o cita sin demora se gestiona mediante agenda de urgencias o cita forzada del día, garantizando la atención del motivo agudo."
+    },
+    {
+      "id": "ges-003",
+      "q": "¿Qué sistema de información se utiliza en los hospitales del SERMAS como historia clínica electrónica corporativa?",
+      "options": ["AP-Madrid", "Cibeles", "HCIS (Historia Clínica Informatizada SERMAS)", "Diraya"],
+      "correct": 2,
+      "explanation": "HCIS es la historia clínica electrónica hospitalaria del SERMAS; AP-Madrid es el sistema de Atención Primaria; Diraya es el sistema del SAS andaluz."
+    },
+    {
+      "id": "ges-004",
+      "q": "AP-Madrid es el sistema corporativo del SERMAS destinado a:",
+      "options": ["Gestión económica", "Atención Primaria (historia clínica y agendas de centros de salud)", "Farmacia hospitalaria", "Recursos humanos"],
+      "correct": 1,
+      "explanation": "AP-Madrid es la aplicación de historia clínica y gestión asistencial de Atención Primaria del SERMAS, que integra agendas, prescripción y episodios."
+    },
+    {
+      "id": "ges-005",
+      "q": "Según el Real Decreto 605/2003, de garantías de atención en el SNS, ¿qué regula principalmente?",
+      "options": ["La financiación de los hospitales", "La formación especializada MIR", "La información estadística y garantías de tiempos máximos en lista de espera", "El régimen disciplinario del personal"],
+      "correct": 2,
+      "explanation": "El RD 605/2003 establece las medidas para el tratamiento homogéneo de la información sobre listas de espera en el SNS y fija criterios de garantías de plazos."
+    },
+    {
+      "id": "ges-006",
+      "q": "La lista de espera estructural incluye a los pacientes:",
+      "options": ["Cuya demora se debe a causas imputables al sistema sanitario", "Que han rechazado dos citas consecutivas", "En situación clínica transitoria no programable", "Que piden aplazar por motivos personales"],
+      "correct": 0,
+      "explanation": "La lista de espera estructural agrupa a los pacientes pendientes de atención cuya demora es atribuible a la organización del servicio; la transitoria y no programable responden a causas del paciente o a su situación clínica."
+    },
+    {
+      "id": "ges-007",
+      "q": "La lista de espera no programable se refiere a pacientes:",
+      "options": ["Que han pedido baja voluntaria", "Cuya intervención está en fase quirúrgica inmediata", "Ya intervenidos y pendientes de revisión", "En los que la intervención o consulta no puede programarse por su situación clínica o por rechazo temporal"],
+      "correct": 3,
+      "explanation": "La lista de espera no programable incluye pacientes en situación clínica que impide la programación (contraindicación médica, estudios pendientes) o en rechazo temporal justificado."
+    },
+    {
+      "id": "ges-008",
+      "q": "El Centro de Atención Personalizada (CAP) del SERMAS ofrece la cita previa en Atención Primaria a través del número:",
+      "options": ["112", "061", "900 8888 33", "010"],
+      "correct": 2,
+      "explanation": "El CAP (Centro de Atención Personalizada) de la Consejería de Sanidad atiende peticiones de cita y consultas de ciudadanos en el 900 8888 33."
+    },
+    {
+      "id": "ges-009",
+      "q": "¿Cuál de estos NO es un canal oficial de cita previa en el SERMAS?",
+      "options": ["Aplicación Tarjeta Sanitaria Virtual", "Portal web del SERMAS / Consejería de Sanidad", "Teléfono del CAP", "Envío postal a la Dirección Asistencial"],
+      "correct": 3,
+      "explanation": "Los canales habituales son el teléfono del CAP, la web de la Consejería, la app Tarjeta Sanitaria Virtual y la atención presencial en el centro; no existe un canal postal para la cita previa."
+    },
+    {
+      "id": "ges-010",
+      "q": "La derivación de un paciente de Atención Primaria a Atención Especializada se formaliza mediante:",
+      "options": ["Un parte de baja laboral", "Una hoja o parte de interconsulta (derivación)", "Un informe de alta hospitalaria", "Un consentimiento informado"],
+      "correct": 1,
+      "explanation": "La interconsulta (o parte de derivación) es el documento clínico-administrativo por el que el médico de familia remite al paciente a un especialista hospitalario."
+    },
+    {
+      "id": "ges-011",
+      "q": "Se considera cita preferente aquella que:",
+      "options": ["Es la primera del día", "Tiene precio reducido", "Se concede en plazo breve por indicación clínica sin alcanzar el carácter de urgente", "Se reserva para personal sanitario"],
+      "correct": 2,
+      "explanation": "La cita preferente se asigna cuando el médico considera que el paciente debe ser atendido en un plazo corto, sin ser una urgencia, por justificación clínica."
+    },
+    {
+      "id": "ges-012",
+      "q": "¿Cuál de las siguientes actuaciones corresponde al personal administrativo en la gestión de agendas?",
+      "options": ["Indicar tratamiento farmacológico", "Decidir el orden clínico de intervención quirúrgica", "Emitir partes de baja", "Abrir, cerrar y reprogramar huecos de agenda siguiendo instrucciones del responsable"],
+      "correct": 3,
+      "explanation": "La gestión operativa de agendas (apertura, cierre, reprogramación, citación) es competencia del personal administrativo/auxiliar; la priorización clínica corresponde al facultativo."
+    },
+    {
+      "id": "ges-013",
+      "q": "Cuando una agenda se cierra por ausencia del facultativo, ¿qué debe hacer prioritariamente el personal administrativo?",
+      "options": ["Cancelar sin más y comunicarlo por megafonía", "Reprogramar las citas afectadas y avisar a los pacientes", "Derivar a urgencias a todos los pacientes", "Archivar las citas"],
+      "correct": 1,
+      "explanation": "Ante cierre o anulación de agenda procede reprogramar las citas y comunicarlo a los pacientes por los canales disponibles (SMS, llamada), garantizando la continuidad asistencial."
+    },
+    {
+      "id": "ges-014",
+      "q": "El Servicio de Atención al Paciente (SAIP) del SERMAS tiene entre sus funciones:",
+      "options": ["Diagnosticar patologías", "Prescribir medicamentos", "Canalizar reclamaciones, sugerencias y agradecimientos de los usuarios", "Auditar cuentas"],
+      "correct": 2,
+      "explanation": "Los SAIP (u Oficinas de Atención al Paciente) informan, orientan y canalizan quejas, reclamaciones, sugerencias, agradecimientos e iniciativas de los usuarios del sistema sanitario."
+    },
+    {
+      "id": "ges-015",
+      "q": "Una comunicación en la que un ciudadano expresa su malestar por un trato recibido, solicitando respuesta formal, se considera:",
+      "options": ["Sugerencia", "Reclamación", "Iniciativa", "Agradecimiento"],
+      "correct": 1,
+      "explanation": "La reclamación es la manifestación de disconformidad con la que el ciudadano solicita respuesta expresa; la sugerencia propone mejoras; la iniciativa aporta ideas; el agradecimiento reconoce la actuación."
+    },
+    {
+      "id": "ges-016",
+      "q": "El plazo habitual de respuesta a una reclamación en el SERMAS es de:",
+      "options": ["7 días", "15 días", "30 días", "90 días"],
+      "correct": 2,
+      "explanation": "La normativa autonómica fija con carácter general un plazo de respuesta de 30 días a las reclamaciones presentadas en los servicios sanitarios, sin perjuicio de particularidades por tipo."
+    },
+    {
+      "id": "ges-017",
+      "q": "Las Cartas de Servicios son documentos que:",
+      "options": ["Son contratos mercantiles", "Recogen el inventario del centro", "Informan a los ciudadanos de los servicios prestados y los compromisos de calidad asumidos", "Sustituyen al consentimiento informado"],
+      "correct": 2,
+      "explanation": "Las Cartas de Servicios son instrumentos de información pública que declaran los servicios y los compromisos de calidad que la organización asume frente a los ciudadanos."
+    },
+    {
+      "id": "ges-018",
+      "q": "En la atención telefónica a un usuario, un principio básico es:",
+      "options": ["Tutear siempre para dar cercanía", "Identificarse, escuchar activamente y respetar la confidencialidad", "No registrar la llamada aunque haya queja", "Transferir la llamada sin identificar el motivo"],
+      "correct": 1,
+      "explanation": "La calidad en atención telefónica exige identificación del receptor, escucha activa, trato cortés, confidencialidad y trazabilidad de la demanda."
+    },
+    {
+      "id": "ges-019",
+      "q": "Si un paciente tiene dificultades de comprensión por barrera idiomática, lo correcto es:",
+      "options": ["Atender sólo a quien hable español", "Pedirle que vuelva otro día", "Solicitar mediación intercultural/traducción cuando exista, utilizar lenguaje claro y material gráfico", "Anular la cita"],
+      "correct": 2,
+      "explanation": "En casos de barrera idiomática debe recurrirse a los servicios de mediación/traducción disponibles, al acompañante si procede y al uso de lenguaje sencillo y apoyos visuales."
+    },
+    {
+      "id": "ges-020",
+      "q": "La Ley 41/2002 regula, entre otras materias:",
+      "options": ["La autonomía del paciente y los derechos y obligaciones en materia de información y documentación clínica", "El régimen jurídico del personal estatutario", "La gestión económico-financiera del SNS", "La formación MIR"],
+      "correct": 0,
+      "explanation": "La Ley 41/2002, de 14 de noviembre, es la Ley básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica."
+    },
+    {
+      "id": "ges-021",
+      "q": "En la CAM, los derechos e información del paciente están además regulados por:",
+      "options": ["Ley 12/2001 de Ordenación Sanitaria de la CAM", "Ley 14/1986 General de Sanidad", "Ley 39/2015", "Ley 16/2003"],
+      "correct": 0,
+      "explanation": "La Ley 12/2001, de Ordenación Sanitaria de la CAM, recoge derechos y deberes de los ciudadanos en el sistema sanitario madrileño, complementando la Ley 41/2002."
+    },
+    {
+      "id": "ges-022",
+      "q": "Según el art. 15 de la Ley 41/2002, la historia clínica debe incorporar, entre otros, al menos:",
+      "options": ["Sólo los informes de alta", "Sólo los datos de facturación", "Los datos del seguro privado del paciente", "Documentación relativa a hoja clínico-estadística, autorización de ingreso, informe de urgencia, anamnesis y exploración física, evolución, órdenes médicas, interconsulta, exploraciones complementarias, consentimiento informado, anestesia, quirófano, anatomía patológica, cuidados de enfermería, aplicación terapéutica, gráfico de constantes e informe clínico de alta"],
+      "correct": 3,
+      "explanation": "El art. 15.2 de la Ley 41/2002 enumera el contenido mínimo de la historia clínica hospitalaria, incluyendo los documentos citados."
+    },
+    {
+      "id": "ges-023",
+      "q": "El plazo mínimo de conservación de la historia clínica, según el art. 17 de la Ley 41/2002, es de:",
+      "options": ["2 años desde la última asistencia", "5 años desde la fecha del alta de cada proceso asistencial", "10 años desde el nacimiento", "Indefinidamente para todo documento"],
+      "correct": 1,
+      "explanation": "El art. 17.1 Ley 41/2002 establece la conservación mínima durante 5 años desde el alta de cada proceso asistencial, sin perjuicio de ampliaciones por las CCAA (en la CAM se amplía)."
+    },
+    {
+      "id": "ges-024",
+      "q": "En el sistema de archivo por dígito terminal, las historias se ordenan:",
+      "options": ["Por apellidos", "Por la fecha de ingreso", "Por los últimos dígitos del número de historia, que determinan el lugar del archivo", "Por servicio asistencial"],
+      "correct": 2,
+      "explanation": "El archivo por dígito terminal ordena los expedientes por los dos últimos dígitos del número de historia, lo que distribuye la carga de trabajo y minimiza errores."
+    },
+    {
+      "id": "ges-025",
+      "q": "¿Cuál de los siguientes NO es un sistema habitual de archivo de historias clínicas?",
+      "options": ["Alfabético", "Numérico correlativo", "Dígito terminal", "Por diagnóstico"],
+      "correct": 3,
+      "explanation": "Los sistemas habituales son alfabético, numérico correlativo y dígito terminal; el archivo por diagnóstico no es un sistema de ordenación física de historias clínicas."
+    },
+    {
+      "id": "ges-026",
+      "q": "El acceso a la historia clínica por el propio paciente está regulado en:",
+      "options": ["Art. 18 Ley 41/2002", "Art. 103 CE", "Art. 5 Ley 39/2015", "Art. 27 Ley 14/1986"],
+      "correct": 0,
+      "explanation": "El art. 18 de la Ley 41/2002 regula los derechos de acceso del paciente a su historia clínica y los límites del mismo."
+    },
+    {
+      "id": "ges-027",
+      "q": "El consentimiento informado, por regla general, se prestará por escrito cuando se trate de:",
+      "options": ["Intervenciones quirúrgicas, procedimientos diagnósticos y terapéuticos invasores y procedimientos con riesgos de notoria y previsible repercusión negativa", "Cualquier consulta externa", "Analíticas rutinarias", "Toma de constantes"],
+      "correct": 0,
+      "explanation": "El art. 8.2 de la Ley 41/2002 exige consentimiento por escrito en intervenciones quirúrgicas, procedimientos diagnósticos y terapéuticos invasores y aquellos con riesgos de repercusión notoria y previsible."
+    },
+    {
+      "id": "ges-028",
+      "q": "¿Cuál de las siguientes situaciones permite prescindir del consentimiento informado del paciente (art. 9 Ley 41/2002)?",
+      "options": ["Cuando el tratamiento es costoso", "Cuando el paciente solicita una segunda opinión", "Cuando exista riesgo para la salud pública o riesgo inmediato grave para la integridad del paciente y no sea posible recabar su autorización", "Cuando el familiar está en desacuerdo"],
+      "correct": 2,
+      "explanation": "El art. 9.2 Ley 41/2002 establece que se podrán llevar a cabo intervenciones clínicas sin necesidad de contar con el consentimiento ante riesgo para la salud pública y ante riesgo inmediato grave no demorable."
+    },
+    {
+      "id": "ges-029",
+      "q": "Las instrucciones previas (voluntades anticipadas), conforme al art. 11 de la Ley 41/2002, requieren que el otorgante sea:",
+      "options": ["Mayor de edad, capaz y libre, manifestándolo por escrito", "Mayor de 16 años siempre", "Familiar del paciente", "Personal sanitario"],
+      "correct": 0,
+      "explanation": "Según el art. 11 Ley 41/2002, podrá otorgar instrucciones previas toda persona mayor de edad, capaz y libre, de forma escrita, pudiendo designar representante."
+    },
+    {
+      "id": "ges-030",
+      "q": "En la Comunidad de Madrid las instrucciones previas se regulan específicamente en:",
+      "options": ["Ley 3/2005 de la CAM", "Ley 12/2001 de la CAM", "Decreto 49/1998", "Ley 41/2002"],
+      "correct": 0,
+      "explanation": "La Ley 3/2005, de 23 de mayo, de la Comunidad de Madrid regula el ejercicio del derecho a formular instrucciones previas y crea el Registro correspondiente."
+    },
+    {
+      "id": "ges-031",
+      "q": "El informe de alta hospitalaria, según la normativa vigente (Orden 6-9-1984 y actualizaciones), debe contener al menos:",
+      "options": ["Solo el diagnóstico principal", "Identificación del paciente y del centro, motivo de ingreso, resumen de antecedentes, exploración, pruebas, evolución, diagnóstico, tratamiento y recomendaciones al alta", "Datos bancarios del paciente", "Un simple resumen de enfermería"],
+      "correct": 1,
+      "explanation": "El informe de alta debe recoger los datos identificativos, motivo de ingreso, antecedentes relevantes, exploración, pruebas complementarias, evolución, diagnóstico, tratamiento y recomendaciones al alta."
+    },
+    {
+      "id": "ges-032",
+      "q": "El archivo de oficina, intermedio e histórico es una clasificación habitual de:",
+      "options": ["Los archivos clínicos por dígito terminal", "Los archivos de documentación administrativa según su ciclo vital", "Las cajas de farmacia", "Las bases de datos de RRHH"],
+      "correct": 1,
+      "explanation": "La archivística clasifica los archivos administrativos por su fase de gestión: de oficina (activos), intermedio (semiactivos) e histórico (de conservación permanente)."
+    },
+    {
+      "id": "ges-033",
+      "q": "El Registro Electrónico General, según el art. 16 de la Ley 39/2015, debe estar disponible:",
+      "options": ["Sólo en horario de oficina", "De 8 a 14 horas de lunes a viernes", "Sólo cuando se convoque", "Las 24 horas los 365 días del año"],
+      "correct": 3,
+      "explanation": "El art. 16 Ley 39/2015 establece que el registro electrónico permitirá la presentación de documentos todos los días del año durante las 24 horas."
+    },
+    {
+      "id": "ges-034",
+      "q": "Los datos de salud se consideran, conforme al art. 9 del RGPD:",
+      "options": ["Datos básicos", "Categoría especial de datos personales, con tratamiento prohibido salvo excepciones", "Datos públicos", "Datos mercantiles"],
+      "correct": 1,
+      "explanation": "El art. 9 RGPD (UE 2016/679) cataloga los datos de salud como categoría especial, cuyo tratamiento está prohibido salvo en los supuestos tasados (consentimiento explícito, asistencia sanitaria, interés público, etc.)."
+    },
+    {
+      "id": "ges-035",
+      "q": "Los derechos que el ciudadano puede ejercer ante el responsable de tratamiento en materia de protección de datos se conocen habitualmente como:",
+      "options": ["Derechos ARCO", "Derechos ARCO-POL (Acceso, Rectificación, Cancelación/Supresión, Oposición, Portabilidad, Olvido, Limitación)", "Derechos APELO", "Derechos del contribuyente"],
+      "correct": 1,
+      "explanation": "Tras el RGPD y la LOPDGDD, los derechos se amplían a Acceso, Rectificación, Supresión (cancelación/olvido), Oposición, Portabilidad y Limitación del tratamiento."
+    },
+    {
+      "id": "ges-036",
+      "q": "La normativa nacional que adapta el RGPD y regula la protección de datos y derechos digitales es:",
+      "options": ["Ley Orgánica 3/2018", "Ley Orgánica 15/1999", "Ley 34/2002", "Ley 11/2007"],
+      "correct": 0,
+      "explanation": "La LOPDGDD (LO 3/2018, de 5 de diciembre) adapta el ordenamiento español al RGPD y regula los derechos digitales; deroga la LO 15/1999."
+    },
+    {
+      "id": "ges-037",
+      "q": "¿Quién es el Delegado de Protección de Datos (DPD/DPO)?",
+      "options": ["Un cargo sindical", "Un inspector del INSS", "La figura obligatoria en determinadas entidades que supervisa el cumplimiento de la normativa de protección de datos", "Un auditor externo voluntario"],
+      "correct": 2,
+      "explanation": "El DPD/DPO es la figura prevista en los arts. 37-39 del RGPD y 34-37 de la LOPDGDD encargada de supervisar y asesorar sobre el cumplimiento normativo en materia de datos; su designación es obligatoria en entidades públicas."
+    },
+    {
+      "id": "ges-038",
+      "q": "El deber de secreto del personal al servicio del SNS respecto a los datos de los pacientes:",
+      "options": ["Cesa al terminar la relación laboral", "Permanece aun después de finalizada la relación de servicio o laboral", "Sólo afecta a personal facultativo", "No existe si hay interés informativo"],
+      "correct": 1,
+      "explanation": "Tanto el Estatuto Marco como la LOPDGDD y la Ley 41/2002 establecen que el deber de secreto subsiste incluso tras finalizar la relación laboral o de servicio."
+    },
+    {
+      "id": "ges-039",
+      "q": "La memoria RAM de un ordenador se caracteriza por:",
+      "options": ["Ser memoria volátil de acceso aleatorio, que pierde su contenido al apagar el equipo", "Almacenar permanentemente el sistema operativo", "Ser un periférico de salida", "Ser un disco duro de gran capacidad"],
+      "correct": 0,
+      "explanation": "La RAM (Random Access Memory) es memoria volátil que almacena temporalmente datos e instrucciones en uso; al apagar el equipo se pierde su contenido."
+    },
+    {
+      "id": "ges-040",
+      "q": "¿Cuál de los siguientes dispositivos es un periférico de entrada?",
+      "options": ["Impresora", "Altavoz", "Teclado", "Monitor"],
+      "correct": 2,
+      "explanation": "El teclado introduce datos en el sistema; la impresora, los altavoces y el monitor son dispositivos de salida."
+    },
+    {
+      "id": "ges-041",
+      "q": "En Microsoft Word (versión en español), la combinación de teclas Ctrl+G sirve para:",
+      "options": ["Copiar", "Guardar el documento", "Insertar una imagen", "Subrayar"],
+      "correct": 1,
+      "explanation": "En Word con interfaz en español, Ctrl+G guarda el documento; Ctrl+C copia, Ctrl+V pega y Ctrl+N aplica negrita."
+    },
+    {
+      "id": "ges-042",
+      "q": "La tecla F7 en Microsoft Word se utiliza habitualmente para:",
+      "options": ["Imprimir", "Guardar como", "Revisar la ortografía y gramática", "Cerrar el documento"],
+      "correct": 2,
+      "explanation": "F7 lanza la revisión ortográfica y gramatical en Microsoft Word."
+    },
+    {
+      "id": "ges-043",
+      "q": "En Excel, para sumar el rango A1 a A10 la fórmula correcta es:",
+      "options": ["=SUMAR(A1:A10)", "=SUMA(A1;A10)", "=SUMA(A1:A10)", "=TOTAL(A1-A10)"],
+      "correct": 2,
+      "explanation": "La función =SUMA(A1:A10) devuelve la suma de los valores del rango indicado; el operador ':' delimita el rango."
+    },
+    {
+      "id": "ges-044",
+      "q": "Una referencia absoluta en Excel se indica anteponiendo el símbolo '$' y permite que:",
+      "options": ["La celda no varíe al copiar la fórmula a otra ubicación", "Se multiplique por 100 automáticamente", "Se convierta en un hipervínculo", "La celda se bloquee ante otros usuarios"],
+      "correct": 0,
+      "explanation": "Una referencia absoluta ($A$1) mantiene fija la referencia a la celda al copiar la fórmula; las relativas se ajustan con el desplazamiento."
+    },
+    {
+      "id": "ges-045",
+      "q": "La función =SI(A1>=5;\"APTO\";\"NO APTO\") en Excel devolverá \"APTO\" cuando:",
+      "options": ["A1 contenga un texto cualquiera", "A1 esté vacía", "El valor de A1 sea igual o mayor que 5", "A1 contenga un error"],
+      "correct": 2,
+      "explanation": "La función =SI evalúa una condición y devuelve el valor si verdadero o falso; aquí devuelve APTO cuando A1 >= 5."
+    },
+    {
+      "id": "ges-046",
+      "q": "La función BUSCARV de Excel sirve para:",
+      "options": ["Buscar un valor en la primera columna de una tabla y devolver un valor de otra columna en la misma fila", "Contar celdas vacías", "Convertir fórmulas en valores", "Imprimir el rango seleccionado"],
+      "correct": 0,
+      "explanation": "=BUSCARV(valor;tabla;col;exacto) localiza 'valor' en la primera columna de 'tabla' y devuelve el contenido de la columna 'col' de la misma fila."
+    },
+    {
+      "id": "ges-047",
+      "q": "En un correo electrónico, el campo CCO se utiliza para:",
+      "options": ["Indicar el asunto", "Añadir destinatarios cuya dirección no es visible para el resto", "Adjuntar ficheros", "Marcar prioridad alta"],
+      "correct": 1,
+      "explanation": "CCO (Copia de Carbón Oculta) envía el correo a destinatarios cuyas direcciones no se muestran a los demás, preservando su confidencialidad."
+    },
+    {
+      "id": "ges-048",
+      "q": "Una práctica correcta de seguridad al abandonar temporalmente el puesto de trabajo es:",
+      "options": ["Apagar la impresora", "Dejar la sesión abierta para agilizar el trabajo", "Bloquear la sesión del equipo (Windows+L)", "Compartir la contraseña con un compañero"],
+      "correct": 2,
+      "explanation": "Bloquear la sesión (en Windows con la combinación Windows+L) impide accesos no autorizados durante la ausencia del usuario, cumpliendo la política de seguridad."
+    },
+    {
+      "id": "ges-049",
+      "q": "El phishing consiste en:",
+      "options": ["Compresión de archivos", "Suplantación de identidad por correo u otros medios para obtener credenciales o datos del usuario", "Copia de seguridad", "Cifrado del disco duro"],
+      "correct": 1,
+      "explanation": "El phishing es una técnica de ingeniería social que suplanta entidades legítimas (bancos, organismos) para obtener contraseñas, datos personales o realizar fraudes."
+    },
+    {
+      "id": "ges-050",
+      "q": "SaluDa es, en el entorno SERMAS/Consejería de Sanidad:",
+      "options": ["Un hospital", "Una aplicación de cita con médico privado", "La intranet corporativa del sistema sanitario madrileño", "Una base de datos de proveedores"],
+      "correct": 2,
+      "explanation": "SaluDa es la intranet corporativa del SERMAS, punto de acceso a recursos, aplicaciones, normativa interna y comunicación del personal."
+    },
+    {
+      "id": "ges-051",
+      "q": "La Tarjeta Sanitaria Virtual del SERMAS permite a los ciudadanos:",
+      "options": ["Únicamente ver su número de afiliación", "Acceder mediante el móvil a la tarjeta sanitaria, citas, medicación y otros servicios", "Hacer transferencias bancarias", "Solicitar la jubilación"],
+      "correct": 1,
+      "explanation": "La app Tarjeta Sanitaria Virtual ofrece, entre otros, la tarjeta digital, la gestión de citas, el acceso a la medicación activa y la consulta de informes."
+    },
+    {
+      "id": "ges-052",
+      "q": "Cl@ve es un sistema que:",
+      "options": ["Solo sirve para operaciones bancarias", "Es una contraseña de WiFi pública", "Permite la identificación y firma electrónica del ciudadano ante las Administraciones públicas", "Sustituye al DNI físico a todos los efectos"],
+      "correct": 2,
+      "explanation": "Cl@ve es el sistema de identificación y firma electrónica del ciudadano ante las AAPP, que incluye Cl@ve PIN y Cl@ve Permanente, además de admitir certificados electrónicos y DNIe."
+    },
+    {
+      "id": "ges-053",
+      "q": "El DNI electrónico (DNIe) incorpora:",
+      "options": ["Un chip con certificados de autenticación y firma electrónica", "Un código de barras de facturación", "Un microchip RFID de pago bancario", "Una huella sanitaria"],
+      "correct": 0,
+      "explanation": "El DNIe contiene un chip con certificados digitales de identidad y de firma, que permite autenticarse y firmar electrónicamente ante las AAPP."
+    },
+    {
+      "id": "ges-054",
+      "q": "La facturación a terceros en los centros del SERMAS se realiza, entre otros supuestos, en:",
+      "options": ["Asistencia a pacientes con tarjeta sanitaria estándar en consulta habitual", "Atención a menores tutelados", "Accidentes de tráfico cubiertos por seguro obligatorio, mutuas laborales y convenios internacionales", "Campañas de vacunación"],
+      "correct": 2,
+      "explanation": "Existe facturación a terceros cuando el coste de la asistencia debe repercutirse a entidades obligadas al pago: compañías de seguros (tráfico), mutuas colaboradoras (AT/EP), convenios internacionales y extranjeros sin cobertura."
+    },
+    {
+      "id": "ges-055",
+      "q": "La Tarjeta Sanitaria Europea (TSE) permite a su titular:",
+      "options": ["Acceder a asistencia privada en cualquier país", "Recibir asistencia sanitaria pública necesaria durante una estancia temporal en los Estados miembros del EEE y Suiza", "Cobrar pensiones en otros países", "Sustituir el pasaporte"],
+      "correct": 1,
+      "explanation": "La TSE acredita el derecho a recibir la atención sanitaria pública necesaria durante una estancia temporal en cualquier país de la Unión Europea, EEE, Suiza o Reino Unido (con matices)."
+    },
+    {
+      "id": "ges-056",
+      "q": "El reconocimiento del derecho a la asistencia sanitaria del SNS, con carácter general, se gestiona por:",
+      "options": ["El Ayuntamiento", "El INSS y, en su caso, la CCAA competente", "Hacienda", "La Universidad"],
+      "correct": 1,
+      "explanation": "El reconocimiento de la condición de asegurado/beneficiario del SNS corresponde al INSS (o ISM para personal del mar); las CCAA emiten la Tarjeta Sanitaria Individual tras este reconocimiento."
+    },
+    {
+      "id": "ges-057",
+      "q": "En el archivo alfabético, el criterio de ordenación principal es:",
+      "options": ["La fecha de nacimiento", "Los apellidos y nombre del paciente", "El número de tarjeta sanitaria", "El servicio de ingreso"],
+      "correct": 1,
+      "explanation": "El sistema alfabético ordena los expedientes por apellidos y nombre; es intuitivo pero presenta problemas en poblaciones con muchos homónimos."
+    },
+    {
+      "id": "ges-058",
+      "q": "Un paciente de 80 años con dificultades auditivas acude al mostrador. La actuación más adecuada del personal administrativo es:",
+      "options": ["Hablarle alto y rápido", "Atender sólo al acompañante", "Derivarle a un intérprete", "Hablar despacio, vocalizando, a una distancia adecuada, mirándole y, si es posible, facilitar información por escrito"],
+      "correct": 3,
+      "explanation": "Las recomendaciones de comunicación con personas mayores o con déficit auditivo incluyen hablar despacio, vocalizar, mantener contacto visual y complementar con apoyos escritos."
+    },
+    {
+      "id": "ges-059",
+      "q": "Una contraseña robusta debe:",
+      "options": ["Ser corta para recordarla fácilmente", "Combinar mayúsculas, minúsculas, números y símbolos, con suficiente longitud, sin datos personales evidentes", "Coincidir con el nombre de usuario", "Ser el DNI del usuario"],
+      "correct": 1,
+      "explanation": "Una contraseña segura es larga, combina distintos tipos de caracteres, no contiene datos personales ni palabras de diccionario y se cambia periódicamente."
+    },
+    {
+      "id": "ges-060",
+      "q": "La revocación del consentimiento informado por el paciente, según la Ley 41/2002:",
+      "options": ["Requiere autorización judicial", "Puede realizarse libremente en cualquier momento y debe constar por escrito", "Solo la puede realizar un familiar", "No está permitida una vez firmado"],
+      "correct": 1,
+      "explanation": "El art. 8.5 Ley 41/2002 permite al paciente revocar libremente por escrito su consentimiento en cualquier momento, debiendo dejarse constancia en la historia clínica."
+    }
+  ]
+}

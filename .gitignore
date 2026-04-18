@@ -1,0 +1,23 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*~
+
+# Vercel
+.vercel/
+
+# Logs
+*.log
+
+# Node (por si alguien instala serve u otras utilidades en local)
+node_modules/
+package-lock.json
+
+# Temp
+*.tmp
+*.bak

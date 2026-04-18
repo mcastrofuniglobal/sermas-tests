@@ -1,0 +1,289 @@
+{
+  "id": "lo-1-2004",
+  "title": "LO 1/2004, de Medidas de Protección Integral contra la Violencia de Género",
+  "category": "Leyes",
+  "source": "LO 1/2004, de 28 de diciembre (texto consolidado)",
+  "lastUpdated": "2026-04-18",
+  "questions": [
+    {
+      "id": "lo1-001",
+      "q": "¿Cuál es la fecha de la Ley Orgánica 1/2004, de Medidas de Protección Integral contra la Violencia de Género?",
+      "options": ["15 de noviembre de 2004", "28 de diciembre de 2004", "1 de enero de 2005", "22 de marzo de 2007"],
+      "correct": 1,
+      "explanation": "La Ley Orgánica 1/2004 fue aprobada el 28 de diciembre de 2004."
+    },
+    {
+      "id": "lo1-002",
+      "q": "Según el artículo 1 de la LO 1/2004, el objeto de la ley es actuar contra la violencia que, como manifestación de la discriminación, la situación de desigualdad y las relaciones de poder de los hombres sobre las mujeres, se ejerce sobre éstas por parte de:",
+      "options": ["Quienes sean o hayan sido sus cónyuges o estén o hayan estado ligados a ellas por relaciones similares de afectividad, aun sin convivencia", "Cualquier hombre con el que hayan tenido contacto", "Únicamente sus cónyuges actuales con convivencia", "Familiares hasta el segundo grado de consanguinidad"],
+      "correct": 0,
+      "explanation": "Art. 1.1 LO 1/2004: la violencia se ejerce por quienes sean o hayan sido sus cónyuges o de quienes estén o hayan estado ligados a ellas por relaciones similares de afectividad, aun sin convivencia."
+    },
+    {
+      "id": "lo1-003",
+      "q": "Según el artículo 1.3 de la LO 1/2004, la violencia de género comprende:",
+      "options": ["Sólo la violencia física", "Sólo la violencia física y psicológica", "Todo acto de violencia física y psicológica, incluidas las agresiones a la libertad sexual, las amenazas, las coacciones o la privación arbitraria de libertad", "Únicamente los delitos tipificados en el Código Penal"],
+      "correct": 2,
+      "explanation": "Art. 1.3 LO 1/2004: la violencia comprende todo acto de violencia física y psicológica, incluidas las agresiones a la libertad sexual, las amenazas, las coacciones o la privación arbitraria de libertad."
+    },
+    {
+      "id": "lo1-004",
+      "q": "¿Se exige convivencia para que un acto sea considerado violencia de género conforme a la LO 1/2004?",
+      "options": ["Sí, es requisito imprescindible", "Sólo en caso de parejas no casadas", "Sólo si hay hijos en común", "No, la ley expresamente indica 'aun sin convivencia'"],
+      "correct": 3,
+      "explanation": "Art. 1.1 LO 1/2004: la ley se aplica 'aun sin convivencia'. No se exige convivencia."
+    },
+    {
+      "id": "lo1-005",
+      "q": "Los principios rectores de la LO 1/2004 se recogen en:",
+      "options": ["Artículo 1", "Artículo 2", "Artículo 3", "Disposición adicional primera"],
+      "correct": 1,
+      "explanation": "El artículo 2 de la LO 1/2004 enumera los principios rectores del conjunto de medidas integrales."
+    },
+    {
+      "id": "lo1-006",
+      "q": "En el ámbito educativo, los principios y valores del sistema educativo en materia de violencia de género se regulan en:",
+      "options": ["Artículos 1-3", "Artículos 10-14", "Artículos 4-9", "Artículos 15-16"],
+      "correct": 2,
+      "explanation": "Los artículos 4 a 9 de la LO 1/2004 regulan las medidas en el ámbito educativo (principios, escolarización, formación del profesorado, consejos escolares e inspección)."
+    },
+    {
+      "id": "lo1-007",
+      "q": "La regulación de la publicidad y de los medios de comunicación en la LO 1/2004 se encuentra en:",
+      "options": ["Artículos 10-14", "Artículos 4-9", "Artículos 15-16", "Artículos 17-20"],
+      "correct": 0,
+      "explanation": "Los artículos 10 a 14 de la LO 1/2004 regulan la publicidad (ilícita) y los medios de comunicación, incluyendo los acuerdos de autorregulación y los medios públicos."
+    },
+    {
+      "id": "lo1-008",
+      "q": "Según la LO 1/2004, se considerará publicidad ilícita la que:",
+      "options": ["Utilice humor en cualquier forma", "Use un lenguaje vejatorio o discriminatorio hacia cualquier colectivo", "Incluya referencias al matrimonio", "Utilice la imagen de la mujer con carácter vejatorio o discriminatorio"],
+      "correct": 3,
+      "explanation": "Art. 10 LO 1/2004: se considerará ilícita la publicidad que utilice la imagen de la mujer con carácter vejatorio o discriminatorio."
+    },
+    {
+      "id": "lo1-009",
+      "q": "Las actuaciones del sistema sanitario frente a la violencia de género se regulan en los artículos:",
+      "options": ["10-14", "15-16", "17-20", "21-23"],
+      "correct": 1,
+      "explanation": "Los artículos 15 y 16 de la LO 1/2004 regulan las actuaciones en el ámbito sanitario y la Comisión contra la Violencia de Género del Consejo Interterritorial del SNS."
+    },
+    {
+      "id": "lo1-010",
+      "q": "¿Dónde se constituye la Comisión contra la Violencia de Género prevista en la LO 1/2004?",
+      "options": ["En el Ministerio de Sanidad", "En la Conferencia Sectorial de Igualdad", "En el Consejo Interterritorial del Sistema Nacional de Salud", "En la Fiscalía General del Estado"],
+      "correct": 2,
+      "explanation": "Art. 16 LO 1/2004: en el seno del Consejo Interterritorial del Sistema Nacional de Salud se constituirá una Comisión contra la Violencia de Género."
+    },
+    {
+      "id": "lo1-011",
+      "q": "El derecho a la información, a la asistencia social integral y a la asistencia jurídica gratuita para las mujeres víctimas se regula en los artículos:",
+      "options": ["14-16", "17-20", "21-23", "27-28"],
+      "correct": 1,
+      "explanation": "Los artículos 17 a 20 de la LO 1/2004 regulan el derecho a la información, a la asistencia social integral y a la asistencia jurídica gratuita."
+    },
+    {
+      "id": "lo1-012",
+      "q": "Los derechos laborales y de Seguridad Social de las trabajadoras víctimas de violencia de género se recogen en los artículos:",
+      "options": ["17-20", "24-26", "21-23", "27-28"],
+      "correct": 2,
+      "explanation": "Los artículos 21 a 23 de la LO 1/2004 regulan los derechos laborales y de Seguridad Social (reducción de jornada, movilidad, suspensión con reserva, extinción del contrato, etc.)."
+    },
+    {
+      "id": "lo1-013",
+      "q": "La trabajadora víctima de violencia de género que se vea obligada a abandonar su puesto de trabajo tendrá derecho a suspender la relación laboral con reserva del puesto. ¿Cuál es el plazo inicial de esa suspensión según el art. 21?",
+      "options": ["Seis meses", "Tres meses", "Nueve meses", "Doce meses"],
+      "correct": 0,
+      "explanation": "Art. 21 LO 1/2004 (en relación con el ET): la suspensión tendrá una duración inicial que no podrá exceder de seis meses, salvo prórroga judicial."
+    },
+    {
+      "id": "lo1-014",
+      "q": "¿Hasta qué plazo máximo puede prorrogarse judicialmente la suspensión de la relación laboral por violencia de género conforme al art. 21 LO 1/2004 y el ET?",
+      "options": ["Hasta 12 meses", "Hasta 18 meses", "Hasta 24 meses", "Hasta 36 meses"],
+      "correct": 1,
+      "explanation": "Art. 21 LO 1/2004 en relación con el ET: la suspensión puede prorrogarse por períodos de 3 meses hasta un máximo de 18 meses."
+    },
+    {
+      "id": "lo1-015",
+      "q": "Las ausencias o faltas de puntualidad al trabajo motivadas por la situación física o psicológica derivada de la violencia de género, conforme al art. 21 LO 1/2004:",
+      "options": ["Siempre serán consideradas injustificadas", "Darán lugar a despido disciplinario", "Se considerarán justificadas cuando así lo determinen los servicios sociales de atención o servicios de salud, sin perjuicio de su comunicación a la empresa a la mayor brevedad", "Deberán abonarse como horas extras"],
+      "correct": 2,
+      "explanation": "Art. 21.4 LO 1/2004: se consideran justificadas cuando así lo determinen los servicios sociales o de salud, con comunicación a la empresa a la mayor brevedad."
+    },
+    {
+      "id": "lo1-016",
+      "q": "Los derechos de las funcionarias públicas víctimas de violencia de género se regulan en los artículos:",
+      "options": ["17-20", "21-23", "27-28", "24-26"],
+      "correct": 3,
+      "explanation": "Los artículos 24 a 26 de la LO 1/2004 regulan los derechos de las funcionarias públicas víctimas de violencia de género."
+    },
+    {
+      "id": "lo1-017",
+      "q": "Las ayudas sociales económicas y los derechos relacionados con vivienda para mujeres víctimas se regulan en los artículos:",
+      "options": ["27-28", "17-20", "24-26", "33-34"],
+      "correct": 0,
+      "explanation": "Los artículos 27 y 28 de la LO 1/2004 regulan las ayudas sociales económicas y el acceso a vivienda y residencias públicas."
+    },
+    {
+      "id": "lo1-018",
+      "q": "La tutela institucional prevista en la LO 1/2004 (arts. 29-32) incluye, entre otros:",
+      "options": ["Únicamente el Observatorio Estatal", "La Delegación del Gobierno contra la Violencia de Género y el Observatorio Estatal de Violencia sobre la Mujer", "Sólo unidades policiales", "El Defensor del Pueblo especializado"],
+      "correct": 1,
+      "explanation": "Los arts. 29-32 de la LO 1/2004 crean la Delegación Especial del Gobierno contra la Violencia sobre la Mujer (hoy Delegación del Gobierno contra la Violencia de Género) y el Observatorio Estatal de Violencia sobre la Mujer."
+    },
+    {
+      "id": "lo1-019",
+      "q": "La Delegación Especial del Gobierno contra la Violencia sobre la Mujer (hoy Delegación del Gobierno contra la Violencia de Género) se creó por:",
+      "options": ["La Ley 1/1996 de Asistencia Jurídica Gratuita", "La Ley 27/2003 de Orden de Protección", "La LO 1/2004 de Medidas de Protección Integral contra la Violencia de Género", "La LO 3/2007 de Igualdad"],
+      "correct": 2,
+      "explanation": "Art. 29 LO 1/2004: crea la Delegación Especial del Gobierno contra la Violencia sobre la Mujer, adscrita actualmente al Ministerio de Igualdad."
+    },
+    {
+      "id": "lo1-020",
+      "q": "El Observatorio Estatal de Violencia sobre la Mujer se configura en la LO 1/2004 como:",
+      "options": ["Un juzgado especializado", "Una sección de la Fiscalía", "Un órgano colegiado adscrito a la Administración General del Estado al que corresponde, entre otras funciones, emitir un informe anual", "Un servicio autonómico"],
+      "correct": 2,
+      "explanation": "Art. 30 LO 1/2004: el Observatorio Estatal de Violencia sobre la Mujer es un órgano colegiado que elabora informes anuales, estudios y propuestas de actuación."
+    },
+    {
+      "id": "lo1-021",
+      "q": "Respecto a las Fuerzas y Cuerpos de Seguridad, el artículo 31 de la LO 1/2004 establece:",
+      "options": ["Unidades especializadas en la prevención de la violencia de género y en el control de la ejecución de las medidas judiciales adoptadas", "La creación de una policía estatal exclusiva", "Patrullas conjuntas internacionales", "La supresión de los grupos policiales locales"],
+      "correct": 0,
+      "explanation": "Art. 31 LO 1/2004: el Gobierno establecerá unidades especializadas dentro de las Fuerzas y Cuerpos de Seguridad del Estado."
+    },
+    {
+      "id": "lo1-022",
+      "q": "La tutela penal que reforma el CP (arts. 33-42 LO 1/2004) introdujo modificaciones, entre otros, en los delitos de:",
+      "options": ["Delitos societarios y de insolvencia", "Delitos contra la Hacienda Pública", "Lesiones (art. 148.4 CP), malos tratos (art. 153), amenazas leves (art. 171.4), coacciones (art. 172.2) y quebrantamiento (art. 468)", "Delitos electorales"],
+      "correct": 2,
+      "explanation": "La LO 1/2004 (arts. 33-42) reformó, entre otros, los arts. 148.4, 153, 171.4, 172.2 y 468 del Código Penal."
+    },
+    {
+      "id": "lo1-023",
+      "q": "Los Juzgados de Violencia sobre la Mujer (JVM) se crean por:",
+      "options": ["La Ley 27/2003 reguladora de la orden de protección", "La LO 6/1985 del Poder Judicial en su redacción originaria", "La LO 3/2007 de Igualdad", "La LO 1/2004 de Medidas de Protección Integral contra la Violencia de Género"],
+      "correct": 3,
+      "explanation": "La LO 1/2004 crea los Juzgados de Violencia sobre la Mujer (art. 43 y ss.) y modifica la LOPJ."
+    },
+    {
+      "id": "lo1-024",
+      "q": "¿Cuál es el ámbito territorial básico de los Juzgados de Violencia sobre la Mujer?",
+      "options": ["Nacional", "Autonómico", "De partido judicial", "Provincial en todo caso"],
+      "correct": 2,
+      "explanation": "Art. 43 LO 1/2004: los JVM tienen, con carácter general, ámbito de partido judicial y sede en su capital."
+    },
+    {
+      "id": "lo1-025",
+      "q": "Los Juzgados de Violencia sobre la Mujer tienen competencia:",
+      "options": ["Sólo penal", "Sólo civil", "Penal y civil, en los términos del art. 44 LO 1/2004", "Exclusivamente administrativa"],
+      "correct": 2,
+      "explanation": "Art. 44 LO 1/2004: los JVM conocen de materias penales y civiles relacionadas con la violencia de género."
+    },
+    {
+      "id": "lo1-026",
+      "q": "En el ámbito civil, los Juzgados de Violencia sobre la Mujer conocen, cuando concurran actos de violencia de género, de:",
+      "options": ["Procesos concursales", "Procesos de nulidad, separación y divorcio, relaciones paterno filiales, filiación, maternidad/paternidad y otros del art. 44 LO 1/2004", "Procedimientos contencioso-administrativos", "Procedimientos laborales"],
+      "correct": 1,
+      "explanation": "Art. 44 LO 1/2004: los JVM conocen de procesos civiles como nulidad, separación, divorcio, medidas sobre hijos, filiación, etc., cuando concurran actos de violencia de género."
+    },
+    {
+      "id": "lo1-027",
+      "q": "Conforme al art. 44 LO 1/2004, la competencia penal de los JVM incluye el conocimiento de delitos:",
+      "options": ["Contra el patrimonio exclusivamente", "Cometidos por funcionarios públicos en el ejercicio de su cargo", "Contra la Administración de Justicia", "Contra la vida, integridad física o moral, libertad sexual, amenazas, coacciones y cualquiera otros con violencia o intimidación cometidos sobre la esposa o mujer ligada por análoga relación de afectividad, aun sin convivencia"],
+      "correct": 3,
+      "explanation": "Art. 44 LO 1/2004: competencia penal sobre delitos contra la vida, integridad, libertad sexual, amenazas, coacciones y otros, cometidos sobre la mujer ligada al autor por la relación descrita por la ley."
+    },
+    {
+      "id": "lo1-028",
+      "q": "La figura del Fiscal contra la Violencia sobre la Mujer, como Fiscal de Sala delegada del Fiscal General, se prevé en:",
+      "options": ["La LO 1/2004 (art. 70)", "La LO 3/2007", "La Ley 50/1981 del Estatuto del Ministerio Fiscal en su redacción originaria", "La Ley de Enjuiciamiento Criminal"],
+      "correct": 0,
+      "explanation": "El art. 70 LO 1/2004 crea la figura del Fiscal contra la Violencia sobre la Mujer, Fiscal de Sala delegada del Fiscal General del Estado."
+    },
+    {
+      "id": "lo1-029",
+      "q": "La LO 1/2004 prevé que en cada Fiscalía exista:",
+      "options": ["Un solo fiscal de guardia de turno", "Una unidad policial adscrita", "Una Sección contra la Violencia sobre la Mujer, con un Delegado del Fiscal Jefe", "Un juzgado de familia asociado"],
+      "correct": 2,
+      "explanation": "Art. 71 LO 1/2004: en cada Fiscalía existirá una Sección contra la Violencia sobre la Mujer encargada del despacho de los asuntos de esta naturaleza."
+    },
+    {
+      "id": "lo1-030",
+      "q": "La orden de protección a las víctimas de violencia de género:",
+      "options": ["Es una resolución administrativa del Ministerio del Interior", "Es una resolución judicial que concentra medidas penales y civiles de protección", "Es una mera recomendación del fiscal", "Es un informe psicosocial"],
+      "correct": 1,
+      "explanation": "La orden de protección, regulada en la Ley 27/2003 y reforzada por la LO 1/2004, es una resolución judicial que incorpora medidas cautelares penales y civiles para la víctima."
+    },
+    {
+      "id": "lo1-031",
+      "q": "Entre las medidas judiciales de protección y seguridad de las víctimas (Título V LO 1/2004) se encuentran:",
+      "options": ["La imposición obligatoria de prisión permanente revisable", "La privación de nacionalidad", "La orden de alejamiento, la prohibición de comunicación, la suspensión del régimen de visitas, comunicación o estancia con los menores y la suspensión de la patria potestad o custodia", "La extradición automática"],
+      "correct": 2,
+      "explanation": "Arts. 64 a 67 LO 1/2004: el juez puede acordar, entre otras, la salida del domicilio, alejamiento, prohibición de comunicación, suspensión de patria potestad o custodia y suspensión del régimen de visitas."
+    },
+    {
+      "id": "lo1-032",
+      "q": "El art. 61.2 LO 1/2004 dispone que, en todos los procedimientos, el Juez deberá pronunciarse sobre las medidas cautelares y de aseguramiento:",
+      "options": ["Sólo si la víctima expresamente las solicita por escrito", "Sólo a petición del fiscal", "Únicamente en fase de sentencia", "De oficio o a instancia de las víctimas, de los hijos, de las personas que convivan con ellas, del Ministerio Fiscal o de la Administración de la que dependan los servicios de atención"],
+      "correct": 3,
+      "explanation": "Art. 61.2 LO 1/2004: el Juez competente deberá pronunciarse en todo caso sobre las medidas cautelares y de aseguramiento, de oficio o a instancia de las personas legitimadas."
+    },
+    {
+      "id": "lo1-033",
+      "q": "Como medida accesoria, el Juez puede acordar en los casos de violencia de género la suspensión del derecho a:",
+      "options": ["La tenencia, porte y uso de armas, conforme al art. 67 LO 1/2004", "La percepción de pensiones contributivas en todo caso", "Acceso al sistema sanitario", "Libre circulación por el territorio nacional sin excepción"],
+      "correct": 0,
+      "explanation": "Art. 67 LO 1/2004: el Juez podrá acordar la suspensión del derecho a la tenencia, porte y uso de armas, con obligación de depositarlas."
+    },
+    {
+      "id": "lo1-034",
+      "q": "El Ministerio competente al que se adscribe actualmente la Delegación del Gobierno contra la Violencia de Género es:",
+      "options": ["El Ministerio de Justicia", "El Ministerio del Interior", "El Ministerio de Igualdad", "El Ministerio de Sanidad"],
+      "correct": 2,
+      "explanation": "La Delegación del Gobierno contra la Violencia de Género (art. 29 LO 1/2004) está adscrita al Ministerio de Igualdad."
+    },
+    {
+      "id": "lo1-035",
+      "q": "La reforma del delito de quebrantamiento de condena, introducida por la LO 1/2004, afectó al artículo del CP:",
+      "options": ["Artículo 153", "Artículo 171.4", "Artículo 172.2", "Artículo 468"],
+      "correct": 3,
+      "explanation": "El art. 40 LO 1/2004 reformó el artículo 468 del Código Penal, relativo al quebrantamiento de condena."
+    },
+    {
+      "id": "lo1-036",
+      "q": "La LO 1/2004 reforma el tipo de lesiones agravadas por razón de violencia de género en el artículo:",
+      "options": ["148.4 CP", "149 CP", "150 CP", "147.2 CP"],
+      "correct": 0,
+      "explanation": "El art. 36 LO 1/2004 modifica el artículo 148 CP, introduciendo la circunstancia del apartado 4 (víctima que sea o haya sido esposa o mujer ligada al autor por análoga relación de afectividad)."
+    },
+    {
+      "id": "lo1-037",
+      "q": "La LO 1/2004 se estructura en un título preliminar y los siguientes títulos principales:",
+      "options": ["Tres títulos", "Cuatro títulos", "Cinco títulos", "Seis títulos"],
+      "correct": 2,
+      "explanation": "La LO 1/2004 se estructura en un Título Preliminar y cinco Títulos (I Sensibilización, prevención y detección; II Derechos de las víctimas; III Tutela institucional; IV Tutela penal; V Tutela judicial)."
+    },
+    {
+      "id": "lo1-038",
+      "q": "La formación de los profesionales que intervienen en situaciones de violencia de género, prevista en disposiciones adicionales de la LO 1/2004:",
+      "options": ["Afecta sólo al personal judicial", "Afecta exclusivamente a las fuerzas policiales", "No es obligatoria en ningún caso", "Se extiende a personal sanitario, educativo, de los servicios sociales, jurídicos, policial y judicial"],
+      "correct": 3,
+      "explanation": "Las disposiciones adicionales de la LO 1/2004 exigen planes de formación para profesionales sanitarios, educativos, de servicios sociales, jurídicos, fuerzas de seguridad y carrera judicial y fiscal."
+    },
+    {
+      "id": "lo1-039",
+      "q": "Respecto a los planes de colaboración, el art. 32 LO 1/2004 establece que:",
+      "options": ["Sólo corresponde al Estado aprobar planes unilaterales", "No existe obligación de planes entre administraciones", "Los poderes públicos elaborarán planes de colaboración que garanticen la ordenación de sus actuaciones en la prevención, asistencia y persecución de los actos de violencia de género, debiendo participar las administraciones sanitarias, Administración de Justicia, Fuerzas y Cuerpos de Seguridad y servicios sociales y organismos de igualdad", "Los planes son voluntarios y sólo municipales"],
+      "correct": 2,
+      "explanation": "Art. 32 LO 1/2004: los poderes públicos elaborarán planes de colaboración con participación de administraciones sanitarias, de Justicia, Fuerzas y Cuerpos de Seguridad, servicios sociales y organismos de igualdad."
+    },
+    {
+      "id": "lo1-040",
+      "q": "Las víctimas de violencia de género con insuficiencia de recursos tienen derecho a asistencia jurídica gratuita inmediata, incluyendo:",
+      "options": ["Defensa y representación gratuitas por abogado y procurador en todos los procesos y procedimientos administrativos que tengan causa directa o indirecta en la violencia padecida", "Sólo la asistencia letrada de oficio", "Únicamente la asistencia en el primer juicio", "Sólo asistencia en vía civil, no penal"],
+      "correct": 0,
+      "explanation": "Art. 20 LO 1/2004: las víctimas tienen derecho a defensa y representación gratuitas por abogado y procurador en todos los procesos y procedimientos administrativos relacionados con la violencia padecida."
+    }
+  ]
+}

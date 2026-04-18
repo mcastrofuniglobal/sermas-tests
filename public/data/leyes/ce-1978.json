@@ -1,0 +1,569 @@
+{
+  "id": "ce-1978",
+  "title": "Constitución Española de 1978",
+  "category": "Leyes",
+  "source": "BOE-A-1978-31229 (texto consolidado)",
+  "lastUpdated": "2026-04-18",
+  "questions": [
+    {
+      "id": "ce-001",
+      "q": "¿En qué fecha fue aprobada la Constitución Española en referéndum?",
+      "options": ["6 de noviembre de 1978", "6 de diciembre de 1978", "27 de diciembre de 1978", "29 de diciembre de 1978"],
+      "correct": 1,
+      "explanation": "Se aprobó en referéndum el 6 de diciembre de 1978; fue sancionada el 27 de diciembre y publicada en el BOE el 29 de diciembre de 1978."
+    },
+    {
+      "id": "ce-002",
+      "q": "¿Cuántos Títulos tiene la Constitución Española (sin contar el Preliminar)?",
+      "options": ["8", "9", "10", "11"],
+      "correct": 2,
+      "explanation": "La CE consta de un Título Preliminar y 10 Títulos numerados (del I al X)."
+    },
+    {
+      "id": "ce-003",
+      "q": "¿Cuántos artículos tiene la Constitución Española?",
+      "options": ["155", "165", "169", "175"],
+      "correct": 2,
+      "explanation": "La CE tiene 169 artículos, además de 4 disposiciones adicionales, 9 transitorias, 1 derogatoria y 1 final."
+    },
+    {
+      "id": "ce-004",
+      "q": "Según el art. 1.1 CE, España se constituye en un Estado...",
+      "options": ["democrático de Derecho", "social y democrático de Derecho", "social, democrático y federal", "autonómico de Derecho"],
+      "correct": 1,
+      "explanation": "El art. 1.1 CE define a España como un Estado social y democrático de Derecho."
+    },
+    {
+      "id": "ce-005",
+      "q": "La soberanía nacional, según el art. 1.2 CE, reside en...",
+      "options": ["las Cortes Generales", "el Rey", "el pueblo español", "la Nación española"],
+      "correct": 2,
+      "explanation": "Art. 1.2 CE: la soberanía nacional reside en el pueblo español, del que emanan los poderes del Estado."
+    },
+    {
+      "id": "ce-006",
+      "q": "La forma política del Estado español es:",
+      "options": ["República parlamentaria", "Monarquía constitucional", "Monarquía parlamentaria", "Estado federal"],
+      "correct": 2,
+      "explanation": "Art. 1.3 CE: la forma política del Estado español es la Monarquía parlamentaria."
+    },
+    {
+      "id": "ce-007",
+      "q": "¿Cuál es la lengua oficial del Estado según el art. 3 CE?",
+      "options": ["El español", "El castellano", "El castellano y las demás lenguas de las CCAA", "El español y las demás lenguas"],
+      "correct": 1,
+      "explanation": "Art. 3.1 CE: el castellano es la lengua española oficial del Estado; los españoles tienen el deber de conocerla y el derecho a usarla."
+    },
+    {
+      "id": "ce-008",
+      "q": "Las demás lenguas españolas serán oficiales en las respectivas CCAA...",
+      "options": ["por acuerdo del Gobierno", "por ley orgánica", "de acuerdo con sus Estatutos", "por referéndum"],
+      "correct": 2,
+      "explanation": "Art. 3.2 CE: las demás lenguas españolas serán también oficiales en las respectivas CCAA de acuerdo con sus Estatutos."
+    },
+    {
+      "id": "ce-009",
+      "q": "La bandera de España, según el art. 4.1 CE, se compone de:",
+      "options": ["Dos franjas horizontales", "Tres franjas verticales", "Tres franjas horizontales rojas y amarilla, siendo la amarilla de doble anchura", "Dos franjas rojas y una amarilla de igual anchura"],
+      "correct": 2,
+      "explanation": "Art. 4.1 CE: tres franjas horizontales, roja, amarilla y roja, siendo la amarilla de doble anchura que cada una de las rojas."
+    },
+    {
+      "id": "ce-010",
+      "q": "La capital del Estado, según el art. 5 CE, es:",
+      "options": ["Madrid", "La villa de Madrid", "La ciudad de Madrid", "Madrid Capital"],
+      "correct": 1,
+      "explanation": "Art. 5 CE: la capital del Estado es la villa de Madrid."
+    },
+    {
+      "id": "ce-011",
+      "q": "Los partidos políticos, según el art. 6 CE, expresan...",
+      "options": ["la voluntad popular", "el pluralismo político", "la democracia constitucional", "la soberanía nacional"],
+      "correct": 1,
+      "explanation": "Art. 6 CE: los partidos políticos expresan el pluralismo político; son instrumento fundamental para la participación política."
+    },
+    {
+      "id": "ce-012",
+      "q": "¿Qué artículo regula a los sindicatos de trabajadores y las asociaciones empresariales?",
+      "options": ["Art. 6 CE", "Art. 7 CE", "Art. 22 CE", "Art. 28 CE"],
+      "correct": 1,
+      "explanation": "Art. 7 CE establece que los sindicatos de trabajadores y las asociaciones empresariales contribuyen a la defensa y promoción de sus intereses."
+    },
+    {
+      "id": "ce-013",
+      "q": "Las Fuerzas Armadas están constituidas por:",
+      "options": ["Ejército de Tierra, Armada y Guardia Civil", "Ejército de Tierra, Armada y Ejército del Aire", "Ejército de Tierra, Marina y Fuerzas Aéreas", "Ejército, Armada y Policía"],
+      "correct": 1,
+      "explanation": "Art. 8.1 CE: las FFAA están constituidas por el Ejército de Tierra, la Armada y el Ejército del Aire."
+    },
+    {
+      "id": "ce-014",
+      "q": "Según el art. 9.1 CE, los ciudadanos y los poderes públicos están sujetos:",
+      "options": ["A la Constitución únicamente", "A la Constitución y al resto del ordenamiento jurídico", "Al Gobierno y al Parlamento", "A la ley y a las costumbres"],
+      "correct": 1,
+      "explanation": "Art. 9.1 CE: los ciudadanos y los poderes públicos están sujetos a la Constitución y al resto del ordenamiento jurídico."
+    },
+    {
+      "id": "ce-015",
+      "q": "La dignidad de la persona y los derechos inviolables que le son inherentes se reconocen en:",
+      "options": ["Art. 1 CE", "Art. 10 CE", "Art. 14 CE", "Art. 15 CE"],
+      "correct": 1,
+      "explanation": "Art. 10.1 CE: la dignidad de la persona, los derechos inviolables que le son inherentes, el libre desarrollo de la personalidad... son fundamento del orden político."
+    },
+    {
+      "id": "ce-016",
+      "q": "Según el art. 11.2 CE:",
+      "options": ["Los españoles pueden ser privados de su nacionalidad por sentencia judicial", "Ningún español de origen podrá ser privado de su nacionalidad", "La nacionalidad se adquiere por residencia de 10 años", "La doble nacionalidad está prohibida"],
+      "correct": 1,
+      "explanation": "Art. 11.2 CE: ningún español de origen podrá ser privado de su nacionalidad."
+    },
+    {
+      "id": "ce-017",
+      "q": "La mayoría de edad según el art. 12 CE se adquiere a los:",
+      "options": ["16 años", "17 años", "18 años", "21 años"],
+      "correct": 2,
+      "explanation": "Art. 12 CE: los españoles son mayores de edad a los dieciocho años."
+    },
+    {
+      "id": "ce-018",
+      "q": "La igualdad ante la ley y la prohibición de discriminación se recoge en:",
+      "options": ["Art. 10 CE", "Art. 13 CE", "Art. 14 CE", "Art. 16 CE"],
+      "correct": 2,
+      "explanation": "Art. 14 CE: los españoles son iguales ante la ley, sin que pueda prevalecer discriminación alguna por razón de nacimiento, raza, sexo, religión, opinión o cualquier otra condición o circunstancia."
+    },
+    {
+      "id": "ce-019",
+      "q": "El derecho a la vida y a la integridad física y moral se reconoce en:",
+      "options": ["Art. 14 CE", "Art. 15 CE", "Art. 17 CE", "Art. 18 CE"],
+      "correct": 1,
+      "explanation": "Art. 15 CE: todos tienen derecho a la vida y a la integridad física y moral, sin que, en ningún caso, puedan ser sometidos a tortura ni a penas o tratos inhumanos o degradantes."
+    },
+    {
+      "id": "ce-020",
+      "q": "Según el art. 15 CE, queda abolida la pena de muerte:",
+      "options": ["Sin excepciones", "Salvo lo que puedan disponer las leyes penales militares para tiempos de guerra", "Salvo en casos de terrorismo", "Salvo en tiempos de excepción"],
+      "correct": 1,
+      "explanation": "Art. 15 CE: queda abolida la pena de muerte, salvo lo que puedan disponer las leyes penales militares para tiempos de guerra."
+    },
+    {
+      "id": "ce-021",
+      "q": "La libertad ideológica, religiosa y de culto se reconoce en:",
+      "options": ["Art. 14 CE", "Art. 16 CE", "Art. 18 CE", "Art. 20 CE"],
+      "correct": 1,
+      "explanation": "Art. 16 CE: se garantiza la libertad ideológica, religiosa y de culto."
+    },
+    {
+      "id": "ce-022",
+      "q": "La detención preventiva no podrá durar más de:",
+      "options": ["24 horas", "48 horas", "72 horas", "96 horas"],
+      "correct": 2,
+      "explanation": "Art. 17.2 CE: la detención preventiva no podrá durar más del tiempo estrictamente necesario para las averiguaciones... en todo caso, en el plazo máximo de 72 horas, el detenido deberá ser puesto en libertad o a disposición judicial."
+    },
+    {
+      "id": "ce-023",
+      "q": "El derecho al honor, a la intimidad personal y familiar y a la propia imagen se reconoce en:",
+      "options": ["Art. 16 CE", "Art. 17 CE", "Art. 18 CE", "Art. 20 CE"],
+      "correct": 2,
+      "explanation": "Art. 18.1 CE garantiza el derecho al honor, a la intimidad personal y familiar y a la propia imagen."
+    },
+    {
+      "id": "ce-024",
+      "q": "El derecho a la educación se reconoce en:",
+      "options": ["Art. 20 CE", "Art. 27 CE", "Art. 43 CE", "Art. 44 CE"],
+      "correct": 1,
+      "explanation": "Art. 27 CE: todos tienen el derecho a la educación; la enseñanza básica es obligatoria y gratuita."
+    },
+    {
+      "id": "ce-025",
+      "q": "El derecho de reunión pacífica y sin armas se reconoce en el art.:",
+      "options": ["21 CE", "22 CE", "23 CE", "28 CE"],
+      "correct": 0,
+      "explanation": "Art. 21 CE: se reconoce el derecho de reunión pacífica y sin armas."
+    },
+    {
+      "id": "ce-026",
+      "q": "¿En qué artículo se reconoce el derecho de asociación?",
+      "options": ["Art. 21 CE", "Art. 22 CE", "Art. 23 CE", "Art. 28 CE"],
+      "correct": 1,
+      "explanation": "Art. 22 CE reconoce el derecho de asociación."
+    },
+    {
+      "id": "ce-027",
+      "q": "El derecho a la tutela judicial efectiva se recoge en:",
+      "options": ["Art. 14 CE", "Art. 17 CE", "Art. 24 CE", "Art. 25 CE"],
+      "correct": 2,
+      "explanation": "Art. 24 CE: todas las personas tienen derecho a obtener la tutela efectiva de los jueces y tribunales en el ejercicio de sus derechos e intereses legítimos."
+    },
+    {
+      "id": "ce-028",
+      "q": "El principio de legalidad penal (nadie puede ser condenado por acciones u omisiones que no constituyan delito o falta) está en:",
+      "options": ["Art. 24 CE", "Art. 25 CE", "Art. 26 CE", "Art. 27 CE"],
+      "correct": 1,
+      "explanation": "Art. 25.1 CE: nadie puede ser condenado o sancionado por acciones u omisiones que en el momento de producirse no constituyan delito, falta o infracción administrativa, según la legislación vigente."
+    },
+    {
+      "id": "ce-029",
+      "q": "El derecho de sindicación libre se reconoce en:",
+      "options": ["Art. 7 CE", "Art. 22 CE", "Art. 28 CE", "Art. 37 CE"],
+      "correct": 2,
+      "explanation": "Art. 28.1 CE: todos tienen derecho a sindicarse libremente."
+    },
+    {
+      "id": "ce-030",
+      "q": "El derecho de petición individual y colectiva se recoge en:",
+      "options": ["Art. 23 CE", "Art. 29 CE", "Art. 30 CE", "Art. 31 CE"],
+      "correct": 1,
+      "explanation": "Art. 29 CE: todos los españoles tendrán el derecho de petición individual y colectiva, por escrito."
+    },
+    {
+      "id": "ce-031",
+      "q": "El derecho a la protección de la salud se recoge en el art.:",
+      "options": ["41 CE", "43 CE", "45 CE", "49 CE"],
+      "correct": 1,
+      "explanation": "Art. 43 CE: se reconoce el derecho a la protección de la salud. Compete a los poderes públicos organizar y tutelar la salud pública a través de medidas preventivas y prestaciones y servicios necesarios."
+    },
+    {
+      "id": "ce-032",
+      "q": "El art. 43 CE se encuentra en:",
+      "options": ["El Capítulo II del Título I (Derechos y libertades)", "El Capítulo III del Título I (Principios rectores de la política social y económica)", "El Título II", "El Título Preliminar"],
+      "correct": 1,
+      "explanation": "El derecho a la salud es un principio rector (Capítulo III del Título I), no un derecho fundamental tutelable por recurso de amparo."
+    },
+    {
+      "id": "ce-033",
+      "q": "El mantenimiento de un régimen público de Seguridad Social para todos los ciudadanos se recoge en:",
+      "options": ["Art. 35 CE", "Art. 41 CE", "Art. 43 CE", "Art. 50 CE"],
+      "correct": 1,
+      "explanation": "Art. 41 CE: los poderes públicos mantendrán un régimen público de Seguridad Social para todos los ciudadanos."
+    },
+    {
+      "id": "ce-034",
+      "q": "¿Qué artículo reconoce el derecho a disfrutar de un medio ambiente adecuado?",
+      "options": ["Art. 43 CE", "Art. 45 CE", "Art. 47 CE", "Art. 48 CE"],
+      "correct": 1,
+      "explanation": "Art. 45 CE: todos tienen el derecho a disfrutar de un medio ambiente adecuado para el desarrollo de la persona, así como el deber de conservarlo."
+    },
+    {
+      "id": "ce-035",
+      "q": "El derecho a una vivienda digna y adecuada se recoge en:",
+      "options": ["Art. 40 CE", "Art. 47 CE", "Art. 50 CE", "Art. 51 CE"],
+      "correct": 1,
+      "explanation": "Art. 47 CE: todos los españoles tienen derecho a disfrutar de una vivienda digna y adecuada."
+    },
+    {
+      "id": "ce-036",
+      "q": "La defensa del Defensor del Pueblo como alto comisionado de las Cortes Generales para defender los derechos del Título I se recoge en:",
+      "options": ["Art. 14 CE", "Art. 54 CE", "Art. 70 CE", "Art. 103 CE"],
+      "correct": 1,
+      "explanation": "Art. 54 CE: una ley orgánica regulará la institución del Defensor del Pueblo, como alto comisionado de las Cortes Generales."
+    },
+    {
+      "id": "ce-037",
+      "q": "Los derechos y libertades reconocidos en el Capítulo II del Título I podrán suspenderse:",
+      "options": ["Nunca", "Cuando se acuerden los estados de excepción o de sitio, en los términos previstos en la CE", "Por decreto del Gobierno", "Por acuerdo del Tribunal Constitucional"],
+      "correct": 1,
+      "explanation": "Art. 55.1 CE: los derechos reconocidos en los artículos 17, 18.2 y 3, 19, 20.1.a) y d), 20.5, 21, 28.2 y 37.2 podrán ser suspendidos cuando se acuerde la declaración del estado de excepción o de sitio."
+    },
+    {
+      "id": "ce-038",
+      "q": "El Rey es:",
+      "options": ["El Jefe del Gobierno", "El Jefe del Estado", "El símbolo de su unidad y permanencia y Jefe del Estado", "El Presidente del Consejo de Estado"],
+      "correct": 2,
+      "explanation": "Art. 56.1 CE: el Rey es el Jefe del Estado, símbolo de su unidad y permanencia, arbitra y modera el funcionamiento regular de las instituciones."
+    },
+    {
+      "id": "ce-039",
+      "q": "La Corona de España es hereditaria en los sucesores de:",
+      "options": ["Alfonso XIII", "Felipe VI", "S.M. Don Juan Carlos I de Borbón", "Don Juan de Borbón"],
+      "correct": 2,
+      "explanation": "Art. 57.1 CE: la Corona de España es hereditaria en los sucesores de S.M. Don Juan Carlos I de Borbón, legítimo heredero de la dinastía histórica."
+    },
+    {
+      "id": "ce-040",
+      "q": "Los actos del Rey serán refrendados, en su caso, por:",
+      "options": ["El Presidente del Congreso", "El Presidente del Gobierno y, en su caso, por los Ministros competentes", "El Presidente del Tribunal Constitucional", "Solo por el Presidente del Gobierno"],
+      "correct": 1,
+      "explanation": "Art. 64.1 CE: los actos del Rey serán refrendados por el Presidente del Gobierno y, en su caso, por los Ministros competentes. La propuesta y nombramiento del Presidente del Gobierno, y la disolución, serán refrendados por el Presidente del Congreso."
+    },
+    {
+      "id": "ce-041",
+      "q": "Las Cortes Generales están formadas por:",
+      "options": ["Congreso de los Diputados y Asamblea", "Congreso de los Diputados y Senado", "Cámara Alta y Cámara Baja", "Asamblea Nacional y Senado"],
+      "correct": 1,
+      "explanation": "Art. 66.1 CE: las Cortes Generales representan al pueblo español y están formadas por el Congreso de los Diputados y el Senado."
+    },
+    {
+      "id": "ce-042",
+      "q": "El Congreso de los Diputados se compone, según el art. 68.1 CE, de:",
+      "options": ["Un mínimo de 200 y un máximo de 300", "Un mínimo de 300 y un máximo de 400", "Un mínimo de 350 y un máximo de 450", "Exactamente 350"],
+      "correct": 1,
+      "explanation": "Art. 68.1 CE: el Congreso se compone de un mínimo de 300 y un máximo de 400 Diputados, elegidos por sufragio universal, libre, igual, directo y secreto."
+    },
+    {
+      "id": "ce-043",
+      "q": "El Senado es, según el art. 69.1 CE, la cámara de:",
+      "options": ["Representación popular", "Representación territorial", "Representación política", "Representación sindical"],
+      "correct": 1,
+      "explanation": "Art. 69.1 CE: el Senado es la Cámara de representación territorial."
+    },
+    {
+      "id": "ce-044",
+      "q": "En cada provincia se elegirán, según el art. 69.2 CE:",
+      "options": ["3 Senadores", "4 Senadores", "5 Senadores", "6 Senadores"],
+      "correct": 1,
+      "explanation": "Art. 69.2 CE: en cada provincia se elegirán cuatro Senadores por sufragio universal, libre, igual, directo y secreto."
+    },
+    {
+      "id": "ce-045",
+      "q": "La duración del mandato de Diputados y Senadores es, salvo disolución anticipada, de:",
+      "options": ["3 años", "4 años", "5 años", "6 años"],
+      "correct": 1,
+      "explanation": "Art. 68.4 y 69.6 CE: el mandato de los Diputados y Senadores termina cuatro años después de su elección o el día de la disolución de la Cámara."
+    },
+    {
+      "id": "ce-046",
+      "q": "Son leyes orgánicas, según el art. 81 CE, las relativas a:",
+      "options": ["Los Presupuestos Generales del Estado", "Los tratados internacionales", "El desarrollo de los derechos fundamentales y libertades públicas, Estatutos de Autonomía, régimen electoral general...", "La regulación fiscal"],
+      "correct": 2,
+      "explanation": "Art. 81.1 CE: son leyes orgánicas las relativas al desarrollo de los derechos fundamentales y libertades públicas, las que aprueben los Estatutos de Autonomía y el régimen electoral general y las demás previstas en la CE."
+    },
+    {
+      "id": "ce-047",
+      "q": "La aprobación, modificación o derogación de leyes orgánicas exige:",
+      "options": ["Mayoría simple del Congreso", "Mayoría absoluta del Congreso en una votación final sobre el conjunto del proyecto", "Mayoría de 3/5 del Congreso", "Mayoría de 2/3 de las Cortes"],
+      "correct": 1,
+      "explanation": "Art. 81.2 CE: la aprobación, modificación o derogación de las leyes orgánicas exigirá mayoría absoluta del Congreso, en una votación final sobre el conjunto del proyecto."
+    },
+    {
+      "id": "ce-048",
+      "q": "El Gobierno dirige la política interior y exterior, la Administración civil y militar y la defensa del Estado. Esto se recoge en:",
+      "options": ["Art. 66 CE", "Art. 97 CE", "Art. 103 CE", "Art. 116 CE"],
+      "correct": 1,
+      "explanation": "Art. 97 CE: el Gobierno dirige la política interior y exterior, la Administración civil y militar y la defensa del Estado. Ejerce la función ejecutiva y la potestad reglamentaria."
+    },
+    {
+      "id": "ce-049",
+      "q": "El Gobierno se compone, según el art. 98 CE, de:",
+      "options": ["Presidente y Ministros", "Presidente, Vicepresidentes y Ministros", "Presidente, Vicepresidentes, en su caso, los Ministros y los demás miembros que establezca la ley", "Presidente, Ministros y Secretarios de Estado"],
+      "correct": 2,
+      "explanation": "Art. 98.1 CE: el Gobierno se compone del Presidente, de los Vicepresidentes, en su caso, de los Ministros y de los demás miembros que establezca la ley."
+    },
+    {
+      "id": "ce-050",
+      "q": "En la investidura del Presidente del Gobierno, en primera votación se requiere:",
+      "options": ["Mayoría simple", "Mayoría absoluta", "Mayoría de 3/5", "Unanimidad"],
+      "correct": 1,
+      "explanation": "Art. 99.3 CE: si el Congreso, por el voto de la mayoría absoluta de sus miembros, otorgare su confianza a dicho candidato, el Rey le nombrará Presidente. Si no alcanza mayoría absoluta, a las 48 horas se procederá a nueva votación y la confianza se entenderá otorgada por mayoría simple."
+    },
+    {
+      "id": "ce-051",
+      "q": "La moción de censura al Presidente del Gobierno, según el art. 113 CE:",
+      "options": ["Debe ser propuesta por 1/5 de los Diputados", "Debe ser propuesta al menos por 1/10 de los Diputados y habrá de incluir un candidato a la Presidencia", "La puede proponer cualquier Diputado", "Requiere mayoría de 2/3"],
+      "correct": 1,
+      "explanation": "Art. 113.2 CE: la moción de censura deberá ser propuesta al menos por la décima parte de los Diputados y habrá de incluir un candidato a la Presidencia del Gobierno (moción constructiva). Se aprueba por mayoría absoluta."
+    },
+    {
+      "id": "ce-052",
+      "q": "La cuestión de confianza, según el art. 112 CE, se entenderá otorgada:",
+      "options": ["Cuando vote a favor la mayoría absoluta", "Cuando vote a favor la mayoría simple de los Diputados", "Cuando voten a favor 3/5", "Solo si lo aprueba también el Senado"],
+      "correct": 1,
+      "explanation": "Art. 112 CE: la confianza se entenderá otorgada cuando vote a favor la mayoría simple de los Diputados."
+    },
+    {
+      "id": "ce-053",
+      "q": "El estado de alarma será declarado por:",
+      "options": ["Las Cortes Generales", "El Rey", "El Gobierno, mediante decreto acordado en Consejo de Ministros por un plazo máximo de 15 días", "El Tribunal Constitucional"],
+      "correct": 2,
+      "explanation": "Art. 116.2 CE: el estado de alarma será declarado por el Gobierno, mediante decreto acordado en Consejo de Ministros, por un plazo máximo de 15 días, dando cuenta al Congreso. Solo podrá prorrogarse con autorización expresa del Congreso."
+    },
+    {
+      "id": "ce-054",
+      "q": "El estado de sitio será declarado por:",
+      "options": ["El Gobierno", "El Rey a propuesta del Gobierno", "La mayoría absoluta del Congreso de los Diputados, a propuesta exclusiva del Gobierno", "Las Cortes Generales en sesión conjunta"],
+      "correct": 2,
+      "explanation": "Art. 116.4 CE: el estado de sitio será declarado por la mayoría absoluta del Congreso de los Diputados, a propuesta exclusiva del Gobierno. El Congreso determinará su ámbito, duración y condiciones."
+    },
+    {
+      "id": "ce-055",
+      "q": "El Poder Judicial emana:",
+      "options": ["Del Rey", "Del Gobierno", "Del pueblo y se administra en nombre del Rey por Jueces y Magistrados", "De las Cortes Generales"],
+      "correct": 2,
+      "explanation": "Art. 117.1 CE: la justicia emana del pueblo y se administra en nombre del Rey por Jueces y Magistrados integrantes del Poder Judicial, independientes, inamovibles, responsables y sometidos únicamente al imperio de la ley."
+    },
+    {
+      "id": "ce-056",
+      "q": "El Consejo General del Poder Judicial está compuesto por:",
+      "options": ["El Presidente del TS y 12 vocales", "El Presidente del TS y 20 vocales nombrados por el Rey, por un período de 5 años", "20 vocales elegidos por el Congreso", "El Presidente del Gobierno y 20 magistrados"],
+      "correct": 1,
+      "explanation": "Art. 122.3 CE: el CGPJ estará integrado por el Presidente del TS, que lo presidirá, y por 20 vocales nombrados por el Rey por un período de 5 años."
+    },
+    {
+      "id": "ce-057",
+      "q": "El Ministerio Fiscal, según el art. 124 CE, tiene por misión:",
+      "options": ["Juzgar y hacer ejecutar lo juzgado", "Promover la acción de la justicia en defensa de la legalidad, de los derechos de los ciudadanos y del interés público", "Dirigir la Administración de Justicia", "Representar al Estado en juicio"],
+      "correct": 1,
+      "explanation": "Art. 124.1 CE: el Ministerio Fiscal tiene por misión promover la acción de la justicia en defensa de la legalidad, de los derechos de los ciudadanos y del interés público tutelado por la ley."
+    },
+    {
+      "id": "ce-058",
+      "q": "El Fiscal General del Estado será nombrado por:",
+      "options": ["Las Cortes Generales", "El Rey a propuesta del Gobierno, oído el CGPJ", "El CGPJ", "El Presidente del Gobierno"],
+      "correct": 1,
+      "explanation": "Art. 124.4 CE: el Fiscal General del Estado será nombrado por el Rey, a propuesta del Gobierno, oído el Consejo General del Poder Judicial."
+    },
+    {
+      "id": "ce-059",
+      "q": "El Tribunal de Cuentas es el supremo órgano fiscalizador de las cuentas y de la gestión económica del Estado y depende directamente de:",
+      "options": ["El Gobierno", "Las Cortes Generales", "El Tribunal Constitucional", "El CGPJ"],
+      "correct": 1,
+      "explanation": "Art. 136.1 CE: el Tribunal de Cuentas es el supremo órgano fiscalizador... Dependerá directamente de las Cortes Generales y ejercerá sus funciones por delegación de ellas."
+    },
+    {
+      "id": "ce-060",
+      "q": "El Estado se organiza territorialmente, según el art. 137 CE, en:",
+      "options": ["Provincias y CCAA", "Municipios, provincias y CCAA", "Municipios y CCAA", "Provincias únicamente"],
+      "correct": 1,
+      "explanation": "Art. 137 CE: el Estado se organiza territorialmente en municipios, en provincias y en las Comunidades Autónomas que se constituyan. Todas estas entidades gozan de autonomía para la gestión de sus respectivos intereses."
+    },
+    {
+      "id": "ce-061",
+      "q": "El gobierno y administración de los municipios corresponde a:",
+      "options": ["Los Alcaldes exclusivamente", "Los Ayuntamientos, integrados por Alcaldes y Concejales", "Las Diputaciones Provinciales", "Las Juntas Vecinales"],
+      "correct": 1,
+      "explanation": "Art. 140 CE: su gobierno y administración corresponde a sus respectivos Ayuntamientos, integrados por los Alcaldes y los Concejales, elegidos por sufragio universal."
+    },
+    {
+      "id": "ce-062",
+      "q": "Los Estatutos de Autonomía son:",
+      "options": ["Leyes ordinarias autonómicas", "La norma institucional básica de cada CCAA y el Estado los reconocerá y amparará como parte integrante de su ordenamiento jurídico", "Decretos del Gobierno central", "Leyes orgánicas estatales solamente"],
+      "correct": 1,
+      "explanation": "Art. 147.1 CE: los Estatutos serán la norma institucional básica de cada CCAA y el Estado los reconocerá y amparará como parte integrante de su ordenamiento jurídico."
+    },
+    {
+      "id": "ce-063",
+      "q": "Las competencias que pueden asumir las CCAA se recogen en:",
+      "options": ["Art. 137 CE", "Art. 148 CE", "Art. 149 CE", "Art. 150 CE"],
+      "correct": 1,
+      "explanation": "Art. 148 CE enumera las materias sobre las que las CCAA podrán asumir competencias."
+    },
+    {
+      "id": "ce-064",
+      "q": "Las competencias exclusivas del Estado se enumeran en:",
+      "options": ["Art. 148 CE", "Art. 149 CE", "Art. 150 CE", "Art. 151 CE"],
+      "correct": 1,
+      "explanation": "Art. 149.1 CE contiene la lista de competencias exclusivas del Estado."
+    },
+    {
+      "id": "ce-065",
+      "q": "La sanidad exterior, bases y coordinación general de la sanidad, legislación sobre productos farmacéuticos es competencia exclusiva del Estado según:",
+      "options": ["Art. 148.1.21ª CE", "Art. 149.1.16ª CE", "Art. 149.1.17ª CE", "Art. 150 CE"],
+      "correct": 1,
+      "explanation": "Art. 149.1.16ª CE: el Estado tiene competencia exclusiva sobre sanidad exterior; bases y coordinación general de la sanidad; legislación sobre productos farmacéuticos."
+    },
+    {
+      "id": "ce-066",
+      "q": "El Tribunal Constitucional se compone de:",
+      "options": ["9 miembros", "12 miembros", "15 miembros", "20 miembros"],
+      "correct": 1,
+      "explanation": "Art. 159.1 CE: el TC se compone de 12 miembros nombrados por el Rey; de ellos, cuatro a propuesta del Congreso por mayoría de 3/5, cuatro a propuesta del Senado, dos a propuesta del Gobierno y dos a propuesta del CGPJ."
+    },
+    {
+      "id": "ce-067",
+      "q": "La duración del mandato de los miembros del TC es:",
+      "options": ["5 años, renovándose por mitades", "9 años, renovándose por terceras partes cada 3", "12 años, renovables", "Vitalicia"],
+      "correct": 1,
+      "explanation": "Art. 159.3 CE: los miembros del TC serán designados por un período de 9 años y se renovarán por terceras partes cada 3 años."
+    },
+    {
+      "id": "ce-068",
+      "q": "El recurso de amparo ante el Tribunal Constitucional puede interponerse contra la violación de:",
+      "options": ["Cualquier derecho reconocido en la CE", "Los derechos reconocidos en los arts. 14 a 29 y el derecho a la objeción de conciencia del art. 30", "Los principios rectores del Capítulo III del Título I", "Derechos económicos y sociales"],
+      "correct": 1,
+      "explanation": "Art. 53.2 CE: cualquier ciudadano podrá recabar la tutela de las libertades y derechos reconocidos en el art. 14 y la Sección 1ª del Capítulo II (arts. 15 a 29) ante los Tribunales ordinarios y, en su caso, a través del recurso de amparo ante el TC. El amparo también se aplica al art. 30.2 (objeción de conciencia)."
+    },
+    {
+      "id": "ce-069",
+      "q": "Las sentencias del TC tienen:",
+      "options": ["Valor de recomendación", "Valor de cosa juzgada desde su publicación en el BOE y no cabe recurso", "Valor declarativo no vinculante", "Carácter consultivo"],
+      "correct": 1,
+      "explanation": "Art. 164.1 CE: las sentencias del TC se publicarán en el BOE y tienen el valor de cosa juzgada a partir del día siguiente de su publicación y no cabe recurso alguno contra ellas."
+    },
+    {
+      "id": "ce-070",
+      "q": "La iniciativa de reforma constitucional corresponde a:",
+      "options": ["Solo al Gobierno", "Al Gobierno y al Congreso", "A los mismos órganos que tienen iniciativa legislativa (art. 87), salvo la iniciativa popular", "Solo a las Cortes Generales"],
+      "correct": 2,
+      "explanation": "Art. 166 CE: la iniciativa de reforma constitucional se ejercerá en los términos previstos en los apartados 1 y 2 del art. 87 (Gobierno, Congreso, Senado, Asambleas de CCAA), excluyéndose la iniciativa popular."
+    },
+    {
+      "id": "ce-071",
+      "q": "La reforma ordinaria de la CE requiere:",
+      "options": ["Mayoría absoluta en ambas cámaras", "Mayoría de 3/5 de cada cámara y, en ciertos casos, referéndum", "Mayoría simple", "Unanimidad"],
+      "correct": 1,
+      "explanation": "Art. 167 CE: los proyectos de reforma constitucional deberán ser aprobados por una mayoría de 3/5 de cada una de las Cámaras. La reforma será sometida a referéndum si lo solicita, dentro de 15 días tras la aprobación, una décima parte de los miembros de cualquiera de las Cámaras."
+    },
+    {
+      "id": "ce-072",
+      "q": "La reforma agravada (Título preliminar, Cap. II Sección 1ª del Título I, o Título II) requiere:",
+      "options": ["Mayoría de 3/5", "Mayoría de 2/3 de cada Cámara, disolución de las Cortes, ratificación por las nuevas Cortes con 2/3 y referéndum", "Mayoría absoluta y referéndum", "Acuerdo del Tribunal Constitucional"],
+      "correct": 1,
+      "explanation": "Art. 168 CE: cuando se propusiere la revisión total de la CE o una parcial que afecte al Título preliminar, al Capítulo II Sección 1ª del Título I, o al Título II, se requiere mayoría de 2/3 de cada Cámara, disolución inmediata, nuevas Cortes que ratifiquen y estudien el nuevo texto, aprobación por 2/3, y referéndum."
+    },
+    {
+      "id": "ce-073",
+      "q": "El art. 103 CE establece que la Administración Pública sirve con objetividad a los intereses generales y actúa de acuerdo con los principios de:",
+      "options": ["Legalidad y jerarquía", "Eficacia, jerarquía, descentralización, desconcentración y coordinación, con sometimiento pleno a la ley y al Derecho", "Transparencia y neutralidad", "Eficiencia y participación"],
+      "correct": 1,
+      "explanation": "Art. 103.1 CE: la Administración Pública sirve con objetividad los intereses generales y actúa de acuerdo con los principios de eficacia, jerarquía, descentralización, desconcentración y coordinación, con sometimiento pleno a la ley y al Derecho."
+    },
+    {
+      "id": "ce-074",
+      "q": "El acceso a la función pública se realizará:",
+      "options": ["Por designación del Gobierno", "De acuerdo con los principios de mérito y capacidad", "Por concurso cerrado", "Por oposición obligatoria siempre"],
+      "correct": 1,
+      "explanation": "Art. 103.3 CE: la ley regulará... el acceso a la función pública de acuerdo con los principios de mérito y capacidad."
+    },
+    {
+      "id": "ce-075",
+      "q": "Los ciudadanos tienen derecho a participar en los asuntos públicos, directamente o por representantes libremente elegidos, según:",
+      "options": ["Art. 13 CE", "Art. 22 CE", "Art. 23 CE", "Art. 29 CE"],
+      "correct": 2,
+      "explanation": "Art. 23.1 CE: los ciudadanos tienen el derecho a participar en los asuntos públicos, directamente o por medio de representantes, libremente elegidos en elecciones periódicas por sufragio universal."
+    },
+    {
+      "id": "ce-076",
+      "q": "La protección de la familia, de los hijos y de las madres se reconoce en el art.:",
+      "options": ["32 CE", "39 CE", "41 CE", "49 CE"],
+      "correct": 1,
+      "explanation": "Art. 39 CE: los poderes públicos aseguran la protección social, económica y jurídica de la familia."
+    },
+    {
+      "id": "ce-077",
+      "q": "La atención a los disminuidos físicos, sensoriales y psíquicos (hoy personas con discapacidad) se recoge en el art.:",
+      "options": ["43 CE", "47 CE", "49 CE", "50 CE"],
+      "correct": 2,
+      "explanation": "Art. 49 CE: los poderes públicos realizarán una política de previsión, tratamiento, rehabilitación e integración de las personas con discapacidad, amparándoles para el disfrute de los derechos del Título I."
+    },
+    {
+      "id": "ce-078",
+      "q": "La protección de la salud de los consumidores y usuarios se recoge en el art.:",
+      "options": ["43 CE", "49 CE", "51 CE", "53 CE"],
+      "correct": 2,
+      "explanation": "Art. 51.1 CE: los poderes públicos garantizarán la defensa de los consumidores y usuarios, protegiendo, mediante procedimientos eficaces, la seguridad, la salud y los legítimos intereses económicos de los mismos."
+    },
+    {
+      "id": "ce-079",
+      "q": "Los tratados internacionales válidamente celebrados, una vez publicados oficialmente en España, forman parte del ordenamiento interno. Esto está en:",
+      "options": ["Art. 93 CE", "Art. 94 CE", "Art. 96 CE", "Art. 97 CE"],
+      "correct": 2,
+      "explanation": "Art. 96.1 CE: los tratados internacionales válidamente celebrados, una vez publicados oficialmente en España, formarán parte del ordenamiento interno. Sus disposiciones solo podrán ser derogadas, modificadas o suspendidas en la forma prevista en los propios tratados o de acuerdo con las normas generales del Derecho internacional."
+    },
+    {
+      "id": "ce-080",
+      "q": "Según el art. 53.1 CE, los derechos del Capítulo II del Título I vinculan a:",
+      "options": ["Solo a los ciudadanos", "Solo a los poderes públicos", "Todos los poderes públicos", "A la Administración Pública exclusivamente"],
+      "correct": 2,
+      "explanation": "Art. 53.1 CE: los derechos y libertades reconocidos en el Capítulo II del presente Título vinculan a todos los poderes públicos. Solo por ley, que respete su contenido esencial, podrá regularse su ejercicio."
+    }
+  ]
+}

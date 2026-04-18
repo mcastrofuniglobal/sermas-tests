@@ -1,0 +1,153 @@
+{
+  "project": "Tests SERMAS Grupo C2",
+  "version": "0.1.0",
+  "lastUpdated": "2026-04-18",
+  "repoUrl": "",
+  "tests": [
+    {
+      "id": "ce-1978",
+      "title": "Constitución Española de 1978",
+      "category": "Leyes",
+      "path": "leyes/ce-1978.json",
+      "questionCount": 80
+    },
+    {
+      "id": "estatuto-cam",
+      "title": "Estatuto de Autonomía de la Comunidad de Madrid",
+      "category": "Leyes",
+      "path": "leyes/estatuto-cam.json",
+      "questionCount": 40
+    },
+    {
+      "id": "ley-gobierno-cam",
+      "title": "Ley 1/1983 de Gobierno y Administración de la CAM",
+      "category": "Leyes",
+      "path": "leyes/ley-gobierno-cam.json",
+      "questionCount": 40
+    },
+    {
+      "id": "ley-39-2015",
+      "title": "Ley 39/2015, Procedimiento Administrativo Común",
+      "category": "Leyes",
+      "path": "leyes/ley-39-2015.json",
+      "questionCount": 80
+    },
+    {
+      "id": "ley-14-1986",
+      "title": "Ley 14/1986, General de Sanidad",
+      "category": "Leyes",
+      "path": "leyes/ley-14-1986.json",
+      "questionCount": 80
+    },
+    {
+      "id": "ley-12-2001",
+      "title": "Ley 12/2001, Ordenación Sanitaria de la CAM",
+      "category": "Leyes",
+      "path": "leyes/ley-12-2001.json",
+      "questionCount": 60
+    },
+    {
+      "id": "ley-16-2003",
+      "title": "Ley 16/2003, Cohesión y Calidad del SNS",
+      "category": "Leyes",
+      "path": "leyes/ley-16-2003.json",
+      "questionCount": 50
+    },
+    {
+      "id": "lo-1-2004",
+      "title": "LO 1/2004, Violencia de Género",
+      "category": "Leyes",
+      "path": "leyes/lo-1-2004.json",
+      "questionCount": 40
+    },
+    {
+      "id": "gestion-admin-sanitaria",
+      "title": "Gestión administrativa y sanitaria",
+      "category": "Gestión",
+      "path": "gestion/gestion-admin-sanitaria.json",
+      "questionCount": 60
+    },
+    {
+      "id": "bloque-constitucional",
+      "title": "Bloque I — Constitución y Derecho Administrativo",
+      "category": "Bloques",
+      "type": "aggregator",
+      "sources": ["ce-1978", "estatuto-cam", "ley-gobierno-cam", "ley-39-2015"],
+      "questionCount": 100,
+      "weights": {
+        "ce-1978": 35,
+        "estatuto-cam": 15,
+        "ley-gobierno-cam": 15,
+        "ley-39-2015": 35
+      }
+    },
+    {
+      "id": "bloque-sanitaria",
+      "title": "Bloque II — Legislación Sanitaria",
+      "category": "Bloques",
+      "type": "aggregator",
+      "sources": ["ley-14-1986", "ley-12-2001", "ley-16-2003", "lo-1-2004"],
+      "questionCount": 100,
+      "weights": {
+        "ley-14-1986": 35,
+        "ley-12-2001": 30,
+        "ley-16-2003": 20,
+        "lo-1-2004": 15
+      }
+    },
+    {
+      "id": "bloque-gestion",
+      "title": "Bloque III — Gestión administrativa y sanitaria",
+      "category": "Bloques",
+      "type": "aggregator",
+      "sources": ["gestion-admin-sanitaria"],
+      "questionCount": 60
+    },
+    {
+      "id": "simulacro-1",
+      "title": "Simulacro General 1",
+      "category": "Simulacros",
+      "type": "aggregator",
+      "sources": [
+        "ce-1978", "estatuto-cam", "ley-gobierno-cam", "ley-39-2015",
+        "ley-14-1986", "ley-12-2001", "ley-16-2003", "lo-1-2004",
+        "gestion-admin-sanitaria"
+      ],
+      "questionCount": 100,
+      "weights": {
+        "ce-1978": 15,
+        "estatuto-cam": 5,
+        "ley-gobierno-cam": 5,
+        "ley-39-2015": 20,
+        "ley-14-1986": 15,
+        "ley-12-2001": 15,
+        "ley-16-2003": 8,
+        "lo-1-2004": 5,
+        "gestion-admin-sanitaria": 12
+      }
+    },
+    {
+      "id": "simulacro-2",
+      "title": "Simulacro General 2",
+      "category": "Simulacros",
+      "type": "aggregator",
+      "sources": [
+        "ce-1978", "estatuto-cam", "ley-gobierno-cam", "ley-39-2015",
+        "ley-14-1986", "ley-12-2001", "ley-16-2003", "lo-1-2004",
+        "gestion-admin-sanitaria"
+      ],
+      "questionCount": 100,
+      "weights": {
+        "ce-1978": 15,
+        "estatuto-cam": 5,
+        "ley-gobierno-cam": 5,
+        "ley-39-2015": 20,
+        "ley-14-1986": 15,
+        "ley-12-2001": 15,
+        "ley-16-2003": 8,
+        "lo-1-2004": 5,
+        "gestion-admin-sanitaria": 12
+      }
+    }
+  ]
+}

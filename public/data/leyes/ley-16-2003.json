@@ -1,0 +1,359 @@
+{
+  "id": "ley-16-2003",
+  "title": "Ley 16/2003, de Cohesión y Calidad del Sistema Nacional de Salud",
+  "category": "Leyes",
+  "source": "Ley 16/2003, de 28 de mayo (texto consolidado)",
+  "lastUpdated": "2026-04-18",
+  "questions": [
+    {
+      "id": "l16-001",
+      "q": "¿Cuál es la fecha de la Ley 16/2003, de Cohesión y Calidad del Sistema Nacional de Salud?",
+      "options": ["25 de abril de 2003", "28 de mayo de 2003", "14 de junio de 2003", "29 de mayo de 2003"],
+      "correct": 1,
+      "explanation": "La norma es la Ley 16/2003, de 28 de mayo, de Cohesión y Calidad del Sistema Nacional de Salud (BOE de 29 de mayo de 2003)."
+    },
+    {
+      "id": "l16-002",
+      "q": "El objeto de la Ley 16/2003 (art. 1) es:",
+      "options": ["Regular la profesión sanitaria", "Regular la Seguridad Social", "Establecer el marco legal para las acciones de coordinación y cooperación de las Administraciones públicas sanitarias para garantizar la equidad, calidad y participación social en el SNS", "Crear el Sistema Nacional de Salud"],
+      "correct": 2,
+      "explanation": "Art. 1 Ley 16/2003: establece el marco legal para las acciones de coordinación y cooperación de las Administraciones públicas sanitarias, en el ejercicio de sus respectivas competencias, de modo que se garantice la equidad, calidad y participación social en el SNS."
+    },
+    {
+      "id": "l16-003",
+      "q": "¿Cuál de los siguientes NO es un principio informador expresamente recogido en el art. 2 de la Ley 16/2003?",
+      "options": ["La prestación de servicios a los usuarios del SNS en condiciones de igualdad efectiva y calidad", "El aseguramiento universal y público por parte del Estado", "La coordinación y la cooperación de las Administraciones públicas sanitarias", "La libre elección universal de profesional en todo el territorio nacional"],
+      "correct": 3,
+      "explanation": "El art. 2 enumera, entre otros, la prestación en condiciones de igualdad efectiva y calidad, el aseguramiento universal y público y la cooperación interadministrativa. La libre elección universal de profesional en todo el territorio no figura como principio informador."
+    },
+    {
+      "id": "l16-004",
+      "q": "Según el art. 3 de la Ley 16/2003 (tras el RDL 7/2018), ¿quiénes son titulares del derecho a la protección de la salud y a la atención sanitaria?",
+      "options": ["Todas las personas con nacionalidad española y personas extranjeras con residencia legal en España", "Solo los afiliados a la Seguridad Social", "Solo los españoles mayores de edad", "Únicamente los trabajadores por cuenta ajena"],
+      "correct": 0,
+      "explanation": "Art. 3 Ley 16/2003, tras la modificación del RDL 7/2018: son titulares del derecho todas las personas con nacionalidad española y las personas extranjeras que tengan establecida su residencia en el territorio español."
+    },
+    {
+      "id": "l16-005",
+      "q": "El Real Decreto-ley 16/2012 introdujo en la Ley 16/2003 la figura de:",
+      "options": ["La tarjeta sanitaria europea", "El copago hospitalario obligatorio", "La condición de asegurado y beneficiario como requisito para acceder a las prestaciones del SNS", "La troncalidad formativa"],
+      "correct": 2,
+      "explanation": "El RDL 16/2012 modificó el art. 3 vinculando el acceso a las prestaciones del SNS a la condición de asegurado o beneficiario. El RDL 7/2018 restableció posteriormente el acceso universal."
+    },
+    {
+      "id": "l16-006",
+      "q": "De acuerdo con la Ley 16/2003, las prestaciones sanitarias del catálogo se harán efectivas mediante:",
+      "options": ["La cartera común de servicios del SNS y la cartera de servicios complementaria de las comunidades autónomas", "Los conciertos con entidades privadas", "Los convenios con mutuas de accidentes de trabajo", "Los contratos de gestión del INSALUD"],
+      "correct": 0,
+      "explanation": "Art. 7 Ley 16/2003: el catálogo de prestaciones del SNS se hará efectivo mediante la cartera común de servicios del SNS y la cartera de servicios complementaria de las CCAA."
+    },
+    {
+      "id": "l16-007",
+      "q": "La cartera común de servicios del SNS se articula en (art. 8):",
+      "options": ["Básica, intermedia y premium", "Estatal, autonómica y local", "Urgente, ordinaria y programada", "Básica de servicios asistenciales, suplementaria y de servicios accesorios"],
+      "correct": 3,
+      "explanation": "Art. 8 Ley 16/2003 (tras RDL 16/2012): la cartera común se articula en cartera común básica de servicios asistenciales, cartera común suplementaria y cartera común de servicios accesorios."
+    },
+    {
+      "id": "l16-008",
+      "q": "¿Qué prestaciones integran la cartera común BÁSICA de servicios asistenciales?",
+      "options": ["Las que se financian íntegramente con fondos públicos", "Las que requieren aportación del usuario", "Solo las farmacéuticas", "Las que cada CCAA decida financiar"],
+      "correct": 0,
+      "explanation": "Art. 8 bis Ley 16/2003: la cartera común básica comprende todas las actividades asistenciales de prevención, diagnóstico, tratamiento y rehabilitación cubiertas de forma completa por financiación pública."
+    },
+    {
+      "id": "l16-009",
+      "q": "La cartera común SUPLEMENTARIA del SNS incluye, entre otras, prestaciones que llevan aportación del usuario como:",
+      "options": ["La atención primaria ordinaria", "Las urgencias hospitalarias", "La prestación farmacéutica, ortoprotésica, productos dietéticos y el transporte sanitario no urgente", "Las vacunaciones del calendario"],
+      "correct": 2,
+      "explanation": "Art. 8 ter Ley 16/2003: la cartera común suplementaria incluye la prestación farmacéutica, la ortoprotésica, los productos dietéticos y el transporte sanitario no urgente, sujetas a aportación del usuario."
+    },
+    {
+      "id": "l16-010",
+      "q": "Las comunidades autónomas podrán aprobar sus propias carteras de servicios, que:",
+      "options": ["Incluirán, como mínimo, la cartera común de servicios del SNS", "Pueden excluir prestaciones de la cartera común", "Deben aprobarse por Real Decreto del Gobierno", "Solo podrán existir en el País Vasco y Navarra"],
+      "correct": 0,
+      "explanation": "Art. 8 quater Ley 16/2003: las CCAA, en el ámbito de sus competencias, podrán aprobar sus respectivas carteras de servicios, que incluirán, cuando menos, la cartera común del SNS."
+    },
+    {
+      "id": "l16-011",
+      "q": "¿Qué prestación del SNS comprende el conjunto de iniciativas organizadas por las Administraciones públicas para preservar, proteger y promover la salud de la población?",
+      "options": ["Atención primaria", "Atención especializada", "Salud pública", "Atención sociosanitaria"],
+      "correct": 2,
+      "explanation": "Art. 11 Ley 16/2003: la prestación de salud pública es el conjunto de iniciativas organizadas por las Administraciones públicas para preservar, proteger y promover la salud de la población."
+    },
+    {
+      "id": "l16-012",
+      "q": "Según el art. 12 de la Ley 16/2003, la atención primaria es el nivel básico e inicial de atención que garantiza:",
+      "options": ["La globalidad y continuidad de la atención a lo largo de toda la vida del paciente", "Solo la asistencia curativa", "Únicamente la prevención", "La atención domiciliaria exclusivamente"],
+      "correct": 0,
+      "explanation": "Art. 12 Ley 16/2003: la atención primaria es el nivel básico e inicial de atención, que garantiza la globalidad y continuidad de la atención a lo largo de toda la vida del paciente, actuando como gestor y coordinador de casos."
+    },
+    {
+      "id": "l16-013",
+      "q": "La atención especializada, según el art. 13, se presta tanto:",
+      "options": ["Solo en consultas externas", "Solo en hospitalización", "En consultas externas, hospital de día, hospitalización y asistencia domiciliaria", "Exclusivamente en urgencias hospitalarias"],
+      "correct": 2,
+      "explanation": "Art. 13 Ley 16/2003: la atención especializada comprende las actividades asistenciales, diagnósticas, terapéuticas y de rehabilitación y cuidados, así como las de promoción de la salud, educación sanitaria y prevención, en régimen de consultas externas, hospital de día, hospitalización y asistencia domiciliaria."
+    },
+    {
+      "id": "l16-014",
+      "q": "La atención de urgencia en el SNS (art. 15) se presta:",
+      "options": ["Exclusivamente en hospitales", "Solo de lunes a viernes", "Solo en fines de semana y festivos", "Las 24 horas del día y durante todos los días del año"],
+      "correct": 3,
+      "explanation": "Art. 15 Ley 16/2003: la atención de urgencia se presta durante las 24 horas del día, mediante la atención médica y de enfermería, en aquellos casos en que la necesidad de asistencia sanitaria sea inmediata."
+    },
+    {
+      "id": "l16-015",
+      "q": "La prestación farmacéutica del SNS (art. 16) comprende:",
+      "options": ["Solo los medicamentos de dispensación hospitalaria", "Solo las fórmulas magistrales", "Únicamente los medicamentos genéricos", "Los medicamentos y productos sanitarios y el conjunto de actuaciones encaminadas a que los pacientes los reciban de forma adecuada a sus necesidades clínicas"],
+      "correct": 3,
+      "explanation": "Art. 16 Ley 16/2003: la prestación farmacéutica comprende los medicamentos y productos sanitarios y el conjunto de actuaciones encaminadas a que los pacientes los reciban y utilicen de forma adecuada a sus necesidades clínicas."
+    },
+    {
+      "id": "l16-016",
+      "q": "La prestación ortoprotésica (art. 17) consiste en:",
+      "options": ["La dispensación de medicamentos", "Solo la cirugía plástica", "La utilización de productos sanitarios (implantables, prótesis externas, sillas de ruedas, ortesis, etc.) destinados a sustituir o complementar una función corporal", "Los tratamientos de fisioterapia"],
+      "correct": 2,
+      "explanation": "Art. 17 Ley 16/2003: la prestación ortoprotésica consiste en la utilización de productos sanitarios, implantables o no, cuya finalidad es sustituir total o parcialmente una estructura corporal o su función, o modificar, corregir o facilitar su aspecto."
+    },
+    {
+      "id": "l16-017",
+      "q": "La prestación de productos dietéticos (art. 18) comprende:",
+      "options": ["La dispensación de tratamientos dietoterápicos complejos y de nutrición enteral domiciliaria", "La alimentación general de todos los usuarios", "Solo los suplementos vitamínicos", "Las dietas hospitalarias"],
+      "correct": 0,
+      "explanation": "Art. 18 Ley 16/2003: la prestación con productos dietéticos comprende la dispensación de los tratamientos dietoterápicos a las personas que padezcan determinados trastornos metabólicos congénitos, la nutrición enteral domiciliaria y otros supuestos."
+    },
+    {
+      "id": "l16-018",
+      "q": "El transporte sanitario (art. 19) consistirá en el desplazamiento de enfermos por causas exclusivamente clínicas, y:",
+      "options": ["Siempre con aportación del usuario", "Solo en ambulancias de urgencia", "Solo para trasplantes", "Será accesible a las personas con discapacidad"],
+      "correct": 3,
+      "explanation": "Art. 19 Ley 16/2003: el transporte sanitario, que necesariamente habrá de ser accesible a las personas con discapacidad, consistirá en el desplazamiento de enfermos por causas exclusivamente clínicas, cuya situación les impida desplazarse en los medios ordinarios de transporte."
+    },
+    {
+      "id": "l16-019",
+      "q": "¿Qué órgano del SNS es el encargado de la actualización de la cartera común de servicios?",
+      "options": ["Cada comunidad autónoma de forma independiente", "El Ministerio de Sanidad, previo acuerdo del Consejo Interterritorial del SNS", "La Agencia Española de Medicamentos", "El Congreso de los Diputados"],
+      "correct": 1,
+      "explanation": "Art. 21 Ley 16/2003: la concreción y actualización de la cartera común del SNS se aprobará mediante Orden del Ministerio competente, previo acuerdo del Consejo Interterritorial del SNS."
+    },
+    {
+      "id": "l16-020",
+      "q": "Las prestaciones sanitarias del SNS se financian con cargo a:",
+      "options": ["Cotizaciones a la Seguridad Social exclusivamente", "Cuotas de los usuarios", "Los Presupuestos Generales del Estado y los presupuestos de las CCAA con cargo a los recursos del sistema de financiación autonómica", "Aportaciones voluntarias"],
+      "correct": 2,
+      "explanation": "Art. 10 Ley 16/2003: las prestaciones no contempladas en el apartado anterior y que sean a cargo del SNS se financian con cargo a dotaciones presupuestarias estatales y autonómicas a través del sistema de financiación autonómica."
+    },
+    {
+      "id": "l16-021",
+      "q": "La tarjeta sanitaria individual (art. 57) es emitida por:",
+      "options": ["El Ministerio de Sanidad", "La Seguridad Social", "Cada comunidad autónoma y servicio de salud", "El Instituto Nacional de Estadística"],
+      "correct": 2,
+      "explanation": "Art. 57 Ley 16/2003: las Administraciones sanitarias autonómicas emitirán la tarjeta sanitaria individual con los requisitos básicos comunes y acorde con los criterios establecidos por el Consejo Interterritorial del SNS."
+    },
+    {
+      "id": "l16-022",
+      "q": "Los dispositivos que emitan las CCAA deberán incluir, de manera normalizada, una serie de datos básicos. ¿Cuál de estos es un dato básico común de la tarjeta sanitaria?",
+      "options": ["El salario del titular", "El número de la Seguridad Social del cónyuge", "El historial clínico completo", "El código de identificación personal asignado por su Administración sanitaria"],
+      "correct": 3,
+      "explanation": "Art. 57 Ley 16/2003: los dispositivos de las tarjetas incluirán, de manera normalizada, el código de identificación personal asignado por la respectiva Administración sanitaria, entre otros datos básicos comunes."
+    },
+    {
+      "id": "l16-023",
+      "q": "Conforme a la Ley 16/2003, la formación de los profesionales sanitarios (art. 34) está orientada a:",
+      "options": ["Solo la formación pregrado", "Únicamente la investigación", "Solo la formación continuada", "Las necesidades del sistema sanitario y de la sociedad, en términos de la promoción y desarrollo de las competencias profesionales"],
+      "correct": 3,
+      "explanation": "Art. 34 Ley 16/2003: la formación de los profesionales sanitarios del SNS estará orientada, mediante la enseñanza universitaria, la formación especializada y la continuada, al desarrollo de las competencias necesarias para las necesidades del sistema sanitario y de la sociedad."
+    },
+    {
+      "id": "l16-024",
+      "q": "La formación sanitaria especializada en España se realiza principalmente mediante el sistema de:",
+      "options": ["Oposición libre", "Residencia en centros acreditados (MIR, EIR, PIR, FIR, etc.)", "Cursos a distancia", "Máster universitario"],
+      "correct": 1,
+      "explanation": "Arts. 35-36 Ley 16/2003: la formación especializada es una formación reglada y de carácter oficial que se obtiene a través del sistema de residencia en centros y unidades docentes acreditados (MIR, EIR, PIR, FIR, QIR, BIR, RFIR)."
+    },
+    {
+      "id": "l16-025",
+      "q": "El órgano asesor del Ministerio de Sanidad y del de Educación en materia de formación sanitaria especializada, para cada especialidad, es:",
+      "options": ["El Consejo Interterritorial del SNS", "La Comisión Nacional de la especialidad correspondiente", "La Organización Médica Colegial", "El Instituto de Salud Carlos III"],
+      "correct": 1,
+      "explanation": "Art. 38 Ley 16/2003: la Comisión Nacional de la especialidad es el órgano asesor de los Ministerios competentes en la formación especializada de su respectiva especialidad, entre otras funciones."
+    },
+    {
+      "id": "l16-026",
+      "q": "La formación continuada de los profesionales sanitarios (art. 33 Ley 44/2003 y art. 34 Ley 16/2003) es:",
+      "options": ["Voluntaria y sin efectos profesionales", "Solo para médicos", "El proceso de enseñanza-aprendizaje activo y permanente al que tienen derecho y obligación los profesionales sanitarios, iniciado al finalizar los estudios de pregrado o especializada", "Un mero curso universitario"],
+      "correct": 2,
+      "explanation": "Art. 33 Ley 44/2003 y art. 34 Ley 16/2003: la formación continuada es el proceso activo y permanente de actualización de conocimientos, habilidades y actitudes de los profesionales a lo largo de su vida profesional."
+    },
+    {
+      "id": "l16-027",
+      "q": "Entre los objetivos de la política de investigación en salud recogidos en la Ley 16/2003 (arts. 44 y ss.) figura:",
+      "options": ["Financiar exclusivamente hospitales privados", "Limitar la investigación al ámbito universitario", "Fomentar la investigación, promover la innovación y la transferencia tecnológica, así como la coordinación entre los sectores público y privado", "Prohibir la investigación con fondos europeos"],
+      "correct": 2,
+      "explanation": "Arts. 44-51 Ley 16/2003: establecen el fomento de la investigación, la innovación, la transferencia tecnológica y la coordinación público-privada como objetivos de la I+D+i en salud."
+    },
+    {
+      "id": "l16-028",
+      "q": "El Instituto de Salud Carlos III, conforme a la Ley 16/2003 (art. 48), se configura como:",
+      "options": ["Una empresa pública", "Un colegio profesional", "Una mutualidad de funcionarios", "El órgano de apoyo científico-técnico del SNS y la Administración del Estado en el ámbito de la investigación biomédica y salud pública"],
+      "correct": 3,
+      "explanation": "Art. 48 Ley 16/2003: el Instituto de Salud Carlos III es el órgano de apoyo científico-técnico del SNS y de la Administración del Estado, con atribuciones en investigación biomédica, salud pública y epidemiología."
+    },
+    {
+      "id": "l16-029",
+      "q": "La Red de comunicaciones del SNS (art. 56) tiene como objetivo:",
+      "options": ["Emitir la tarjeta sanitaria", "Sustituir a los centros de salud", "Registrar las incidencias laborales", "Garantizar el intercambio seguro de información entre los servicios de salud del SNS y facilitar la interoperabilidad"],
+      "correct": 3,
+      "explanation": "Art. 56 Ley 16/2003: el Ministerio de Sanidad establecerá una red de comunicaciones que facilite el intercambio de información y la comunicación entre los servicios de salud del SNS."
+    },
+    {
+      "id": "l16-030",
+      "q": "Según el art. 53 de la Ley 16/2003, el sistema de información del SNS contendrá información sobre, entre otros aspectos:",
+      "options": ["Solo datos económicos", "Solo cifras de gestión", "Prestaciones y cartera de servicios, población protegida, recursos humanos y materiales, actividad desarrollada y resultados obtenidos, y expectativas y opinión de los ciudadanos", "Solo información epidemiológica"],
+      "correct": 2,
+      "explanation": "Art. 53.2 Ley 16/2003: el sistema de información recogerá, entre otros, datos sobre prestaciones y cartera de servicios, población protegida, recursos humanos y materiales, actividad desarrollada, farmacia, resultados obtenidos, calidad y expectativas de los ciudadanos."
+    },
+    {
+      "id": "l16-031",
+      "q": "Las infraestructuras para la calidad del SNS se sustentan, entre otros, en:",
+      "options": ["Normas de calidad y seguridad, indicadores, guías de práctica clínica y asistenciales y el registro de buenas prácticas y de acontecimientos adversos", "Normas de calidad de la ONU", "Solo los certificados ISO", "Únicamente las auditorías internas"],
+      "correct": 0,
+      "explanation": "Art. 59 Ley 16/2003: las infraestructuras para la calidad del SNS están conformadas por normas de calidad y seguridad, indicadores, guías de práctica clínica y asistenciales, el registro de buenas prácticas y el registro de acontecimientos adversos."
+    },
+    {
+      "id": "l16-032",
+      "q": "La Agencia de Calidad del SNS (art. 60) es:",
+      "options": ["Un colegio profesional", "Una entidad privada", "Un tribunal sanitario", "El órgano encargado de elaborar y mantener los elementos de infraestructura de la calidad e impulsar las estrategias de calidad del SNS"],
+      "correct": 3,
+      "explanation": "Art. 60 Ley 16/2003: la Agencia de Calidad del SNS es el órgano encargado de elaborar y mantener los elementos de infraestructura de la calidad, así como difundirlos, impulsarlos y mantenerlos actualizados."
+    },
+    {
+      "id": "l16-033",
+      "q": "Los planes integrales de salud del SNS (art. 64):",
+      "options": ["Son elaborados por cada provincia", "Se refieren exclusivamente a enfermedades raras", "Corresponden a los colegios profesionales", "Establecen los criterios sobre la forma de organizar los servicios para atender las patologías más prevalentes, prestando especial atención a las crónicas"],
+      "correct": 3,
+      "explanation": "Art. 64 Ley 16/2003: el Ministerio de Sanidad y los órganos competentes de las CCAA, a través del Consejo Interterritorial, elaborarán planes integrales de salud sobre las patologías más prevalentes, relevantes o con especiales consecuencias."
+    },
+    {
+      "id": "l16-034",
+      "q": "El Consejo Interterritorial del Sistema Nacional de Salud (art. 69) es:",
+      "options": ["Un órgano asesor del Gobierno en materia de sanidad privada", "Un tribunal de conflictos sanitarios", "El órgano permanente de coordinación, cooperación, comunicación e información de los servicios de salud entre ellos y con la Administración del Estado", "Un sindicato profesional"],
+      "correct": 2,
+      "explanation": "Art. 69 Ley 16/2003: el CISNS es el órgano permanente de coordinación, cooperación, comunicación e información de los servicios de salud entre ellos y con la Administración del Estado, para promover la cohesión del SNS."
+    },
+    {
+      "id": "l16-035",
+      "q": "La composición del Consejo Interterritorial del SNS (art. 71) es:",
+      "options": ["Por los presidentes autonómicos", "Por los directores generales del Ministerio", "Por los decanos de las facultades de medicina", "Por el Ministro de Sanidad, que lo preside, y por los consejeros competentes en materia de sanidad de las CCAA"],
+      "correct": 3,
+      "explanation": "Art. 71 Ley 16/2003: el CISNS está constituido por el Ministro de Sanidad, que ostentará su presidencia, y por los consejeros competentes en materia de sanidad de las comunidades autónomas."
+    },
+    {
+      "id": "l16-036",
+      "q": "Los acuerdos del Consejo Interterritorial del SNS se plasmarán a través de:",
+      "options": ["Votación por mayoría absoluta", "Recomendaciones que se aprobarán, en su caso, por consenso", "Ordenes ministeriales", "Dictámenes jurídicos"],
+      "correct": 1,
+      "explanation": "Art. 73 Ley 16/2003: los acuerdos del Consejo se plasmarán a través de recomendaciones que se aprobarán, en su caso, por consenso."
+    },
+    {
+      "id": "l16-037",
+      "q": "¿Cuál de estos órganos NO es una comisión del Consejo Interterritorial del SNS según la Ley 16/2003?",
+      "options": ["La Comisión Delegada", "La Comisión de Prestaciones, Aseguramiento y Financiación", "La Comisión de Recursos Humanos", "La Comisión Nacional de Especialidades Sanitarias (depende del Ministerio de Sanidad y del de Universidades)"],
+      "correct": 3,
+      "explanation": "El art. 74 Ley 16/2003 prevé como órgano de apoyo del CISNS la Comisión Delegada y distintas comisiones técnicas (Prestaciones, Salud Pública, Recursos Humanos, Farmacia, etc.). Las Comisiones Nacionales de Especialidades dependen de los Ministerios de Sanidad y de Universidades."
+    },
+    {
+      "id": "l16-038",
+      "q": "La Alta Inspección (art. 76 Ley 16/2003) corresponde a:",
+      "options": ["Cada comunidad autónoma", "La Administración General del Estado", "Los colegios profesionales", "El Defensor del Pueblo"],
+      "correct": 1,
+      "explanation": "Art. 76 Ley 16/2003: la Alta Inspección corresponde a la Administración General del Estado como función de garantía y verificación del cumplimiento de las competencias estatales y de los derechos y garantías de los ciudadanos en el conjunto del SNS."
+    },
+    {
+      "id": "l16-039",
+      "q": "Entre las funciones de la Alta Inspección (art. 76) se encuentra:",
+      "options": ["Gestionar los hospitales", "Organizar la formación MIR", "Fijar las tarifas hospitalarias", "Supervisar el destino de los fondos estatales transferidos y verificar la adecuación entre los planes y programas sanitarios y las bases estatales"],
+      "correct": 3,
+      "explanation": "Art. 76 Ley 16/2003: corresponde a la Alta Inspección, entre otras funciones, supervisar la adecuación entre los planes y programas sanitarios de las CCAA y los objetivos de carácter general y verificar el destino de los fondos transferidos."
+    },
+    {
+      "id": "l16-040",
+      "q": "La Agencia Española de Medicamentos y Productos Sanitarios (AEMPS) es:",
+      "options": ["Una fundación privada", "Un organismo autonómico", "Parte de la Organización Mundial de la Salud", "Una agencia estatal adscrita al Ministerio de Sanidad con competencias en evaluación, autorización, registro y vigilancia de medicamentos y productos sanitarios"],
+      "correct": 3,
+      "explanation": "La AEMPS, regulada en el art. 59 bis (y normativa específica), es el organismo estatal responsable de la autorización, registro, vigilancia e inspección de medicamentos y productos sanitarios."
+    },
+    {
+      "id": "l16-041",
+      "q": "La Organización Nacional de Trasplantes (ONT), en el marco del SNS:",
+      "options": ["Es una empresa concesionaria", "Depende de una CCAA concreta", "Es un organismo coordinador encargado del desarrollo de las funciones relacionadas con la obtención y utilización clínica de órganos, tejidos y células", "Es una fundación privada"],
+      "correct": 2,
+      "explanation": "La ONT es el organismo del Ministerio de Sanidad coordinador nacional para la donación y el trasplante de órganos, tejidos y células. Se integra entre los entes especializados del SNS reconocidos por la Ley 16/2003."
+    },
+    {
+      "id": "l16-042",
+      "q": "La participación ciudadana en el SNS, según la Ley 16/2003, se articula, entre otras vías, a través de:",
+      "options": ["Referéndum obligatorio", "El Comité Consultivo y el Foro Abierto de Salud del CISNS", "Las elecciones municipales", "Los consejos de administración hospitalarios"],
+      "correct": 1,
+      "explanation": "Art. 67 Ley 16/2003: la participación social se articula, entre otras vías, a través del Comité Consultivo del CISNS y del Foro Abierto de Salud, que permiten la participación de organizaciones empresariales, sindicales y de usuarios."
+    },
+    {
+      "id": "l16-043",
+      "q": "El Comité Consultivo del Consejo Interterritorial del SNS está integrado por representantes de:",
+      "options": ["Solo las comunidades autónomas", "Solo partidos políticos", "Solo colegios profesionales", "La Administración del Estado, las CCAA, la Administración local y las organizaciones empresariales y sindicales más representativas"],
+      "correct": 3,
+      "explanation": "Art. 67 Ley 16/2003: el Comité Consultivo del CISNS está integrado por representantes de la Administración del Estado, las CCAA, las organizaciones empresariales y sindicales más representativas y la Administración local."
+    },
+    {
+      "id": "l16-044",
+      "q": "La financiación pública de los medicamentos y productos sanitarios se decide por:",
+      "options": ["El Ministerio de Sanidad, previo informe del Consejo Interterritorial del SNS, conforme a criterios de utilidad terapéutica, coste-efectividad, etc.", "Cada comunidad autónoma de forma aislada", "Los laboratorios farmacéuticos", "Las farmacias comunitarias"],
+      "correct": 0,
+      "explanation": "La Ley 16/2003 (art. 89 bis y concordantes con el Texto Refundido de la Ley de Garantías) atribuye al Ministerio de Sanidad la decisión sobre inclusión de medicamentos en la prestación farmacéutica, atendiendo a criterios de utilidad terapéutica, seguridad y coste-efectividad, previa consulta al CISNS."
+    },
+    {
+      "id": "l16-045",
+      "q": "La prestación farmacéutica con receta, en cuanto a la aportación del usuario tras el RDL 16/2012:",
+      "options": ["Es gratuita para todos los usuarios", "Se establece por tramos en función de la renta y condición de pensionista o activo", "Es siempre del 40%", "Se paga íntegramente por el usuario"],
+      "correct": 1,
+      "explanation": "El art. 94 bis Ley 29/2006, introducido por el RDL 16/2012 al que se remite la Ley 16/2003, estableció un sistema de aportación proporcional a la renta y distinto para activos y pensionistas."
+    },
+    {
+      "id": "l16-046",
+      "q": "¿Qué norma restableció la universalidad del derecho a la protección de la salud modificando la Ley 16/2003?",
+      "options": ["El RDL 16/2012", "La Ley 33/2011, General de Salud Pública", "El RDL 7/2018, de 27 de julio, sobre el acceso universal al SNS", "La Ley 44/2003 de ordenación de profesiones sanitarias"],
+      "correct": 2,
+      "explanation": "El RDL 7/2018, de 27 de julio, sobre el acceso universal al Sistema Nacional de Salud, modificó el art. 3 y concordantes de la Ley 16/2003 restableciendo la universalidad del derecho."
+    },
+    {
+      "id": "l16-047",
+      "q": "Las guías de práctica clínica y guías de práctica asistencial (art. 59) tienen como finalidad:",
+      "options": ["Ser de cumplimiento obligatorio y vinculante bajo sanción penal", "Regular las licencias de los centros", "Definir los precios de los medicamentos", "Servir de referencia para establecer pautas de atención a los pacientes y favorecer la mejora de la efectividad, eficiencia y seguridad de las decisiones clínicas"],
+      "correct": 3,
+      "explanation": "Art. 59.1 Ley 16/2003: las guías de práctica clínica y asistencial son descripciones recomendadas para establecer pautas de atención a los pacientes que favorezcan la mejora de la efectividad, eficiencia y seguridad de las decisiones clínicas."
+    },
+    {
+      "id": "l16-048",
+      "q": "Señale la afirmación CORRECTA respecto de la relación entre la Ley 16/2003 y la Ley 14/1986:",
+      "options": ["La Ley 16/2003 deroga íntegramente la Ley General de Sanidad", "La Ley 16/2003 complementa la Ley 14/1986 regulando la cohesión y calidad del SNS, manteniéndose esta última vigente en lo que no se oponga", "La Ley 14/1986 deroga a la Ley 16/2003", "Ambas leyes regulan exactamente las mismas materias"],
+      "correct": 1,
+      "explanation": "La Ley 16/2003 se dicta en el marco constitucional y de la Ley General de Sanidad, a la que complementa, regulando específicamente la cohesión y calidad del SNS. La LGS sigue vigente en lo no derogado ni modificado."
+    },
+    {
+      "id": "l16-049",
+      "q": "Con arreglo al art. 22 de la Ley 16/2003, las garantías de accesibilidad, movilidad, tiempo, seguridad, calidad, información y servicio comprenden:",
+      "options": ["Solo a los pacientes de su CCAA de residencia", "A todos los usuarios del SNS con independencia de su CCAA de residencia, siempre que exista indicación clínica y prescripción facultativa", "Solo a los españoles mayores de 65 años", "Solo a los afiliados al régimen general de la Seguridad Social"],
+      "correct": 1,
+      "explanation": "Arts. 22-29 Ley 16/2003: establecen las garantías de accesibilidad, movilidad, información, tiempo, seguridad, calidad y servicios comunes a todos los usuarios del SNS, con independencia de la CCAA en que residan."
+    },
+    {
+      "id": "l16-050",
+      "q": "La Escuela Nacional de Sanidad, en el marco de la Ley 16/2003 y sus disposiciones, es:",
+      "options": ["Un centro privado de formación", "Una universidad pública", "Un órgano del Instituto de Salud Carlos III dedicado a la formación de directivos y profesionales de la salud pública y de los servicios sanitarios", "Un colegio profesional"],
+      "correct": 2,
+      "explanation": "La Escuela Nacional de Sanidad es una unidad del Instituto de Salud Carlos III (art. 48 Ley 16/2003) dedicada a la formación especializada y continuada de directivos, gestores y profesionales de la salud pública y los servicios sanitarios."
+    }
+  ]
+}

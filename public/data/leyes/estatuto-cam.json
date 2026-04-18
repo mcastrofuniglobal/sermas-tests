@@ -1,0 +1,289 @@
+{
+  "id": "estatuto-cam",
+  "title": "Estatuto de Autonomía de la Comunidad de Madrid",
+  "category": "Leyes",
+  "source": "LO 3/1983 de 25 de febrero, modificada por LO 10/1994 y LO 5/1998 (texto consolidado)",
+  "lastUpdated": "2026-04-18",
+  "questions": [
+    {
+      "id": "est-001",
+      "q": "¿Mediante qué norma se aprobó el Estatuto de Autonomía de la Comunidad de Madrid?",
+      "options": ["Ley Orgánica 3/1983, de 25 de febrero", "Ley Orgánica 5/1982, de 1 de julio", "Ley Orgánica 4/1983, de 25 de febrero", "Ley 3/1983, de 25 de febrero"],
+      "correct": 0,
+      "explanation": "El Estatuto de Autonomía de la Comunidad de Madrid fue aprobado por la Ley Orgánica 3/1983, de 25 de febrero, posteriormente modificada por la LO 10/1994 y la LO 5/1998."
+    },
+    {
+      "id": "est-002",
+      "q": "Según el artículo 1 del Estatuto, Madrid se constituye en Comunidad Autónoma en virtud de:",
+      "options": ["El derecho a la autonomía del art. 143 CE", "La vía del art. 151 CE", "El interés nacional previsto en el art. 144.a) de la Constitución", "Un pacto histórico con el Estado"],
+      "correct": 2,
+      "explanation": "Art. 1 del Estatuto: Madrid accede al autogobierno por la vía del art. 144.a) de la Constitución, al tratarse de un territorio cuyo ámbito territorial no supera el de una provincia y cuya autonomía se justifica por motivos de interés nacional."
+    },
+    {
+      "id": "est-003",
+      "q": "El territorio de la Comunidad de Madrid es (art. 2):",
+      "options": ["El correspondiente al antiguo reino de Toledo", "El determinado por Ley de la Asamblea", "El comprendido dentro de los límites administrativos de la actual provincia de Madrid", "El establecido por el Gobierno de la Nación"],
+      "correct": 2,
+      "explanation": "Art. 2 del Estatuto: el territorio de la Comunidad de Madrid es el correspondiente al de los municipios comprendidos dentro de los límites administrativos de la actual provincia de Madrid, configurándose como comunidad uniprovincial."
+    },
+    {
+      "id": "est-004",
+      "q": "¿Qué día se celebra la fiesta de la Comunidad de Madrid?",
+      "options": ["1 de mayo", "2 de mayo", "15 de mayo", "12 de octubre"],
+      "correct": 1,
+      "explanation": "Art. 7.3 del Estatuto: el día de la Comunidad de Madrid es el 2 de mayo, en conmemoración del levantamiento del pueblo madrileño frente a la ocupación napoleónica en 1808."
+    },
+    {
+      "id": "est-005",
+      "q": "La bandera de la Comunidad de Madrid es:",
+      "options": ["Roja carmesí con el escudo del Reino de Castilla en el centro", "Blanca con siete estrellas rojas", "Azul con las siete estrellas de la Osa Mayor", "Roja carmesí con siete estrellas blancas de cinco puntas"],
+      "correct": 3,
+      "explanation": "Art. 4.1 del Estatuto: la bandera de la Comunidad de Madrid es roja carmesí, con siete estrellas en blanco, de cinco puntas, colocadas cuatro y tres en el centro de la misma."
+    },
+    {
+      "id": "est-006",
+      "q": "¿Cuál es la capital de la Comunidad de Madrid y sede de sus instituciones, conforme al art. 5 del Estatuto?",
+      "options": ["La villa de Madrid", "Alcalá de Henares", "La determinada por Ley de la Asamblea", "Aranjuez"],
+      "correct": 0,
+      "explanation": "Art. 5 del Estatuto: la sede de las instituciones de la Comunidad de Madrid es la villa de Madrid, si bien la Asamblea, el Gobierno y otros órganos podrán celebrar reuniones en cualquier lugar del territorio."
+    },
+    {
+      "id": "est-007",
+      "q": "Los poderes de la Comunidad de Madrid emanan de (art. 6):",
+      "options": ["La Asamblea de Madrid", "La Constitución y el pueblo, a través del presente Estatuto", "El Rey, como Jefe del Estado", "Las Cortes Generales"],
+      "correct": 1,
+      "explanation": "Art. 6 del Estatuto: los poderes de la Comunidad de Madrid emanan de la Constitución y del pueblo, en los términos establecidos en el Estatuto de Autonomía."
+    },
+    {
+      "id": "est-008",
+      "q": "Según el Estatuto, son instituciones de la Comunidad de Madrid:",
+      "options": ["Asamblea de Madrid, Presidente de la Comunidad y Gobierno", "Asamblea, Presidente y Consejeros", "Presidente, Gobierno y TSJM", "Asamblea, Diputación Permanente y Consejo Consultivo"],
+      "correct": 0,
+      "explanation": "Art. 8 del Estatuto: la Comunidad ejerce sus poderes a través de la Asamblea de Madrid, el Presidente de la Comunidad y el Gobierno o Consejo de Gobierno."
+    },
+    {
+      "id": "est-009",
+      "q": "¿Cómo es elegida la Asamblea de Madrid?",
+      "options": ["Por sufragio universal, libre, igual, directo y secreto, mediante sistema proporcional", "Por sufragio indirecto a través de compromisarios", "Por sistema mayoritario en cada municipio", "Por designación de los grupos parlamentarios de las Cortes"],
+      "correct": 0,
+      "explanation": "Art. 10.2 del Estatuto: los diputados de la Asamblea son elegidos por sufragio universal, libre, igual, directo y secreto, atendiendo a criterios de representación proporcional."
+    },
+    {
+      "id": "est-010",
+      "q": "El número de diputados de la Asamblea de Madrid se fija en proporción:",
+      "options": ["A 1 diputado por cada 100.000 habitantes", "A un mínimo de 150 diputados fijos", "A 1 diputado por cada municipio", "A 1 diputado por cada 50.000 habitantes o fracción superior a 25.000"],
+      "correct": 3,
+      "explanation": "Art. 10.2 del Estatuto: la Asamblea se compone de un diputado por cada 50.000 habitantes o fracción superior a 25.000, de acuerdo con los datos actualizados del censo de población."
+    },
+    {
+      "id": "est-011",
+      "q": "La circunscripción electoral para la elección de la Asamblea de Madrid es:",
+      "options": ["El municipio", "El partido judicial", "La Comunidad de Madrid en su conjunto (circunscripción única)", "La comarca"],
+      "correct": 2,
+      "explanation": "Art. 10.3 del Estatuto: la circunscripción electoral, a efectos de la elección de diputados de la Asamblea, es la Comunidad de Madrid en su conjunto, constituyendo una única circunscripción electoral."
+    },
+    {
+      "id": "est-012",
+      "q": "¿Cuál es la barrera electoral para obtener representación en la Asamblea de Madrid?",
+      "options": ["El 3% de los votos válidos emitidos", "El 5% de los votos válidos emitidos", "El 4% de los votos válidos emitidos", "No existe barrera electoral"],
+      "correct": 1,
+      "explanation": "Art. 10.6 del Estatuto: no serán tenidas en cuenta aquellas candidaturas que no hubieran obtenido, al menos, el 5% de los votos válidamente emitidos en la circunscripción."
+    },
+    {
+      "id": "est-013",
+      "q": "La duración del mandato de la Asamblea de Madrid es de:",
+      "options": ["Cinco años", "Seis años", "Cuatro años", "La que determine la Ley electoral"],
+      "correct": 2,
+      "explanation": "Art. 10.4 del Estatuto: el mandato de los diputados de la Asamblea termina cuatro años después de su elección o el día de la disolución anticipada de la Cámara."
+    },
+    {
+      "id": "est-014",
+      "q": "Los diputados de la Asamblea de Madrid gozarán, aún después de haber cesado en su mandato:",
+      "options": ["De inviolabilidad por las opiniones manifestadas en actos parlamentarios", "De inmunidad absoluta frente a cualquier procedimiento", "Solo de aforamiento penal", "De ninguna prerrogativa tras el cese"],
+      "correct": 0,
+      "explanation": "Art. 11.1 del Estatuto: los diputados de la Asamblea gozarán, aún después de haber cesado en su mandato, de inviolabilidad por las opiniones manifestadas en actos parlamentarios y por los votos emitidos en el ejercicio de su cargo."
+    },
+    {
+      "id": "est-015",
+      "q": "Durante su mandato, los diputados de la Asamblea de Madrid no podrán ser detenidos ni retenidos por actos delictivos cometidos en el territorio de la Comunidad, sino:",
+      "options": ["En caso de flagrante delito", "Solo con autorización del Presidente de la Comunidad", "Solo durante los períodos de sesiones", "Sin excepción alguna"],
+      "correct": 0,
+      "explanation": "Art. 11.2 del Estatuto: los diputados no podrán ser detenidos ni retenidos por los actos delictivos cometidos en el territorio de la Comunidad, sino en caso de flagrante delito, correspondiendo decidir sobre su inculpación, prisión, procesamiento y juicio al Tribunal Superior de Justicia de Madrid."
+    },
+    {
+      "id": "est-016",
+      "q": "El Presidente de la Asamblea de Madrid es elegido:",
+      "options": ["Por el Rey, a propuesta del Presidente de la Comunidad", "Por la Mesa de Edad", "Por los propios diputados de la Asamblea", "Por el Gobierno de la Comunidad"],
+      "correct": 2,
+      "explanation": "Art. 12 del Estatuto: el Presidente de la Asamblea es elegido por ésta de entre sus miembros, siendo el órgano que preside la Cámara y la representa."
+    },
+    {
+      "id": "est-017",
+      "q": "¿Qué órgano de la Asamblea de Madrid asume sus funciones entre legislaturas o durante los períodos en que aquélla no se halle reunida?",
+      "options": ["El Pleno", "La Mesa", "La Junta de Portavoces", "La Diputación Permanente"],
+      "correct": 3,
+      "explanation": "Art. 14 del Estatuto: la Diputación Permanente es el órgano de la Asamblea que garantiza la continuidad de sus funciones durante los períodos en que no esté reunida, entre legislaturas o tras su disolución."
+    },
+    {
+      "id": "est-018",
+      "q": "¿Cuál de las siguientes NO es una función de la Asamblea de Madrid?",
+      "options": ["Aprobar los Presupuestos de la Comunidad", "Ejercer la potestad legislativa", "Controlar la acción del Gobierno", "Nombrar a los magistrados del TSJM"],
+      "correct": 3,
+      "explanation": "Art. 16 del Estatuto: corresponde a la Asamblea la potestad legislativa, la aprobación de presupuestos y el control del Gobierno. El nombramiento de los magistrados del TSJM corresponde al CGPJ, no a la Asamblea."
+    },
+    {
+      "id": "est-019",
+      "q": "El Presidente de la Comunidad de Madrid es elegido:",
+      "options": ["Por el Rey directamente", "Por el Gobierno de la Nación", "Por la Asamblea de entre sus miembros y nombrado por el Rey", "Por los ciudadanos madrileños en elecciones directas"],
+      "correct": 2,
+      "explanation": "Art. 17 del Estatuto: el Presidente de la Comunidad es elegido por la Asamblea de Madrid de entre sus miembros y nombrado por el Rey. Le corresponde la suprema representación de la Comunidad y la ordinaria del Estado en la misma."
+    },
+    {
+      "id": "est-020",
+      "q": "El Presidente de la Comunidad de Madrid ostenta la representación:",
+      "options": ["Solo de la Comunidad de Madrid", "Solo ordinaria del Estado en la Comunidad", "Suprema de la Comunidad y ordinaria del Estado en la misma", "De la Asamblea ante el Gobierno central"],
+      "correct": 2,
+      "explanation": "Art. 18 del Estatuto: al Presidente de la Comunidad le corresponde la suprema representación de la Comunidad de Madrid y la ordinaria del Estado en la misma, además de presidir el Consejo de Gobierno."
+    },
+    {
+      "id": "est-021",
+      "q": "El Consejo de Gobierno de la Comunidad de Madrid está integrado por:",
+      "options": ["Solo el Presidente y los Consejeros", "El Presidente, el Presidente de la Asamblea y los Consejeros", "El Presidente, el/los Vicepresidente/s en su caso y los Consejeros", "El Presidente y el Consejo Consultivo"],
+      "correct": 2,
+      "explanation": "Art. 21 del Estatuto: el Consejo de Gobierno está integrado por el Presidente, el Vicepresidente o Vicepresidentes, en su caso, y los Consejeros, ejerciendo funciones ejecutivas y administrativas."
+    },
+    {
+      "id": "est-022",
+      "q": "La responsabilidad política del Gobierno ante la Asamblea es:",
+      "options": ["Individual para cada Consejero", "Solidaria, sin perjuicio de la responsabilidad directa de cada Consejero por su gestión", "Únicamente del Presidente", "Inexistente al ser un órgano técnico"],
+      "correct": 1,
+      "explanation": "Art. 22 del Estatuto: el Gobierno responde políticamente ante la Asamblea de forma solidaria, sin perjuicio de la responsabilidad directa de cada uno de sus miembros por su gestión."
+    },
+    {
+      "id": "est-023",
+      "q": "La cuestión de confianza planteada por el Presidente de la Comunidad se entenderá otorgada cuando vote a favor:",
+      "options": ["La mayoría absoluta de la Asamblea", "Los dos tercios de la Asamblea", "Las tres quintas partes de la Asamblea", "La mayoría simple de los diputados"],
+      "correct": 3,
+      "explanation": "Art. 22 del Estatuto: el Presidente, previa deliberación del Consejo de Gobierno, puede plantear ante la Asamblea la cuestión de confianza sobre su programa o una declaración de política general, entendiéndose otorgada cuando obtenga mayoría simple de los votos emitidos."
+    },
+    {
+      "id": "est-024",
+      "q": "La moción de censura contra el Presidente de la Comunidad debe:",
+      "options": ["Ser propuesta por al menos un 15% de los diputados, incluir candidato alternativo y aprobarse por mayoría absoluta", "Ser presentada por cualquier grupo parlamentario sin candidato", "Aprobarse por mayoría simple de los presentes", "Requerir mayoría de dos tercios de la Asamblea"],
+      "correct": 0,
+      "explanation": "Art. 22 del Estatuto: la moción de censura es de carácter constructivo, debe incluir candidato a la Presidencia, ser propuesta por al menos el 15% de los diputados y exige mayoría absoluta para su aprobación."
+    },
+    {
+      "id": "est-025",
+      "q": "¿Cuál de las siguientes es una competencia exclusiva de la Comunidad de Madrid?",
+      "options": ["Legislación laboral", "Organización, régimen y funcionamiento de sus instituciones de autogobierno", "Legislación mercantil", "Relaciones internacionales"],
+      "correct": 1,
+      "explanation": "Art. 26 del Estatuto: entre las competencias exclusivas de la Comunidad figura la organización, régimen y funcionamiento de sus instituciones de autogobierno. La legislación laboral, mercantil y las relaciones internacionales son competencia exclusiva del Estado."
+    },
+    {
+      "id": "est-026",
+      "q": "En materia de sanidad e higiene, la Comunidad de Madrid tiene competencia:",
+      "options": ["De desarrollo legislativo y ejecución de la legislación básica del Estado", "Exclusiva y plena", "De mera ejecución de la legislación estatal", "Compartida con las entidades locales exclusivamente"],
+      "correct": 0,
+      "explanation": "Art. 27 del Estatuto: corresponde a la Comunidad, en el marco de la legislación básica del Estado y, en su caso, en los términos que la misma establezca, el desarrollo legislativo y la ejecución en materia de sanidad e higiene."
+    },
+    {
+      "id": "est-027",
+      "q": "¿Cuál de las siguientes materias es competencia de la Comunidad de Madrid solo como mera ejecución de la legislación estatal?",
+      "options": ["Urbanismo", "Cultura", "Gestión de la asistencia sanitaria de la Seguridad Social (productos farmacéuticos y legislación laboral en los términos del art. 28)", "Artesanía"],
+      "correct": 2,
+      "explanation": "Art. 28 del Estatuto: corresponde a la Comunidad de Madrid la ejecución de la legislación del Estado en materias como legislación laboral, productos farmacéuticos, propiedad intelectual e industrial, entre otras."
+    },
+    {
+      "id": "est-028",
+      "q": "El Tribunal Superior de Justicia de Madrid:",
+      "options": ["Es un órgano dependiente del Gobierno de la Comunidad", "Culmina la organización judicial en el ámbito territorial de la Comunidad de Madrid", "Es idéntico al Tribunal Supremo en sus funciones", "Solo tiene jurisdicción contencioso-administrativa"],
+      "correct": 1,
+      "explanation": "Art. 36 del Estatuto: el Tribunal Superior de Justicia de Madrid es el órgano jurisdiccional en que culmina la organización judicial en el ámbito territorial de la Comunidad, sin perjuicio de la jurisdicción que corresponda al Tribunal Supremo."
+    },
+    {
+      "id": "est-029",
+      "q": "La competencia de los órganos jurisdiccionales en la Comunidad de Madrid se extiende:",
+      "options": ["Solo a asuntos de derecho autonómico madrileño", "Solo al orden civil y penal", "A todos los órdenes jurisdiccionales y en todas las instancias y grados, salvo la jurisdicción que corresponda al Tribunal Supremo", "Únicamente a asuntos cuya cuantía no exceda de 300.000 euros"],
+      "correct": 2,
+      "explanation": "Art. 37 del Estatuto: la competencia de los órganos jurisdiccionales de Madrid se extiende a todos los órdenes jurisdiccionales y en todas las instancias y grados, salvo la jurisdicción reservada al Tribunal Supremo."
+    },
+    {
+      "id": "est-030",
+      "q": "Corresponde a la Comunidad de Madrid, en relación con la Administración de Justicia:",
+      "options": ["El nombramiento de jueces y magistrados", "El gobierno del poder judicial", "Proporcionar los medios personales y materiales necesarios para el funcionamiento de la Administración de Justicia, sin perjuicio de las competencias del CGPJ", "La instrucción y enjuiciamiento de las causas penales"],
+      "correct": 2,
+      "explanation": "Art. 40 del Estatuto: corresponde a la Comunidad de Madrid proporcionar los medios humanos y materiales necesarios para el funcionamiento de la Administración de Justicia en su territorio, en los términos previstos en la legislación orgánica del Poder Judicial."
+    },
+    {
+      "id": "est-031",
+      "q": "La Hacienda de la Comunidad de Madrid se nutre, entre otros recursos, de:",
+      "options": ["Solo de las subvenciones del Estado", "Exclusivamente de los ingresos propios", "Solo de las tasas municipales", "Los tributos cedidos por el Estado, recargos sobre impuestos estatales, sus propios tributos, y el Fondo de Compensación Interterritorial, entre otros"],
+      "correct": 3,
+      "explanation": "Arts. 52 y siguientes del Estatuto: la Hacienda de la Comunidad se constituye, entre otros recursos, con los tributos cedidos total o parcialmente por el Estado, los recargos sobre impuestos estatales, sus propios impuestos, tasas y contribuciones especiales, las transferencias del FCI y las operaciones de crédito."
+    },
+    {
+      "id": "est-032",
+      "q": "El Presupuesto de la Comunidad de Madrid tiene carácter:",
+      "options": ["Bienal, renovable automáticamente", "Anual, único e incluirá la totalidad de los ingresos y gastos de la Comunidad y sus organismos autónomos", "Plurianual, fijado para toda la legislatura", "Trimestral, sometido a reajuste continuo"],
+      "correct": 1,
+      "explanation": "Art. 59 del Estatuto: el Presupuesto de la Comunidad tiene carácter anual, es único e incluirá la totalidad de los ingresos y gastos de la Comunidad y sus organismos autónomos y, en su caso, de los entes públicos dependientes."
+    },
+    {
+      "id": "est-033",
+      "q": "La Comunidad de Madrid podrá emitir deuda pública para financiar sus gastos de inversión:",
+      "options": ["Nunca, por prohibición constitucional", "Sin autorización alguna y en cualquier cuantía", "Solo con autorización del Congreso de los Diputados", "Conforme a lo establecido en el Estatuto y la Ley Orgánica de Financiación de las Comunidades Autónomas"],
+      "correct": 3,
+      "explanation": "Art. 60 del Estatuto: la Comunidad de Madrid podrá emitir deuda pública para financiar gastos de inversión, de acuerdo con el Estatuto y con la Ley Orgánica de Financiación de las Comunidades Autónomas (LOFCA)."
+    },
+    {
+      "id": "est-034",
+      "q": "¿Qué órgano realiza el control económico y presupuestario de la Comunidad de Madrid, sin perjuicio del que corresponde al Tribunal de Cuentas del Estado?",
+      "options": ["El Consejo Económico y Social", "La Cámara de Cuentas", "El Consejo Consultivo", "El Defensor del Pueblo madrileño"],
+      "correct": 1,
+      "explanation": "Art. 44 del Estatuto (tras la reforma): el control económico, presupuestario y contable de la Comunidad de Madrid se realiza por la Cámara de Cuentas, sin perjuicio del que corresponde al Tribunal de Cuentas del Estado conforme al art. 136 CE."
+    },
+    {
+      "id": "est-035",
+      "q": "La iniciativa de reforma del Estatuto de Autonomía de la Comunidad de Madrid corresponde a:",
+      "options": ["Solo a la Asamblea de Madrid", "Solo al Presidente de la Comunidad", "Al Gobierno de la Nación, al Consejo de Gobierno de la Comunidad, a la Asamblea de Madrid o a las Cortes Generales", "A los municipios mediante iniciativa popular"],
+      "correct": 2,
+      "explanation": "Art. 72 del Estatuto: la iniciativa de reforma corresponde al Gobierno de la Nación, al Consejo de Gobierno de la Comunidad de Madrid, a la Asamblea o a las Cortes Generales, según el procedimiento establecido."
+    },
+    {
+      "id": "est-036",
+      "q": "La aprobación de la reforma del Estatuto por la Asamblea de Madrid requiere:",
+      "options": ["Mayoría simple", "Mayoría absoluta", "Mayoría de dos tercios", "Unanimidad"],
+      "correct": 2,
+      "explanation": "Art. 72 del Estatuto: la aprobación de la reforma por la Asamblea de Madrid requiere el voto favorable de dos tercios de sus miembros, siendo posteriormente remitida a las Cortes Generales para su aprobación mediante ley orgánica."
+    },
+    {
+      "id": "est-037",
+      "q": "Para su aprobación definitiva, la reforma del Estatuto debe ser finalmente aprobada por:",
+      "options": ["Las Cortes Generales mediante Ley Orgánica", "Referéndum de los ciudadanos madrileños obligatoriamente", "El Consejo de Ministros por decreto-ley", "El Tribunal Constitucional"],
+      "correct": 0,
+      "explanation": "Art. 72 del Estatuto y art. 147.3 CE: la reforma del Estatuto, una vez aprobada por la Asamblea por mayoría de 2/3, debe ser aprobada por las Cortes Generales mediante Ley Orgánica."
+    },
+    {
+      "id": "est-038",
+      "q": "La Comunidad de Madrid podrá celebrar convenios con otras Comunidades Autónomas:",
+      "options": ["Libremente y sin ningún control", "Solo con autorización previa del Gobierno de la Nación en todo caso", "Nunca, por prohibición estatutaria", "Para la gestión y prestación de servicios propios, comunicándolo a las Cortes Generales; los acuerdos de cooperación requieren autorización de las Cortes"],
+      "correct": 3,
+      "explanation": "Art. 31 del Estatuto: la Comunidad de Madrid podrá celebrar convenios con otras CCAA para la gestión y prestación de servicios propios, debiendo comunicarlos a las Cortes Generales. En los demás supuestos, los acuerdos de cooperación necesitarán autorización de las Cortes."
+    },
+    {
+      "id": "est-039",
+      "q": "El Estado podrá transferir o delegar en la Comunidad de Madrid facultades correspondientes a materias de titularidad estatal mediante:",
+      "options": ["Un simple acuerdo del Consejo de Ministros", "Ley Orgánica, de conformidad con el art. 150.2 CE", "Real Decreto-Ley", "Acuerdo bilateral sin formalidad legal"],
+      "correct": 1,
+      "explanation": "Art. 30 del Estatuto y art. 150.2 CE: el Estado podrá transferir o delegar, mediante ley orgánica, facultades correspondientes a materia de titularidad estatal que por su propia naturaleza sean susceptibles de transferencia o delegación."
+    },
+    {
+      "id": "est-040",
+      "q": "Respecto a la Unión Europea, la Comunidad de Madrid:",
+      "options": ["Puede firmar tratados internacionales directamente con la UE", "No tiene ninguna relación con la UE", "Participará, a través de los procedimientos establecidos, en la formación de la voluntad del Estado ante las instituciones europeas en las materias de su competencia y ejecutará el derecho de la UE en su ámbito", "Solo puede recibir fondos estructurales"],
+      "correct": 2,
+      "explanation": "Art. 33 del Estatuto: la Comunidad de Madrid participará, en los términos establecidos por la legislación del Estado, en la formación de la voluntad estatal ante las instituciones de la Unión Europea en asuntos de su competencia y aplicará y ejecutará el derecho de la UE en el ámbito de sus competencias."
+    }
+  ]
+}

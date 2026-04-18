@@ -1,0 +1,186 @@
+/* =========================================================================
+   Tests SERMAS C2 — Design tokens (shadcn-style) + base
+   Compañero de Tailwind CDN (cargado en el HTML). Las variables HSL se
+   consumen desde la config de Tailwind vía hsl(var(--token)).
+   ========================================================================= */
+
+@import url('https://rsms.me/inter/inter.css');
+
+:root {
+  --background: 0 0% 100%;
+  --foreground: 222.2 84% 4.9%;
+
+  --card: 0 0% 100%;
+  --card-foreground: 222.2 84% 4.9%;
+
+  --popover: 0 0% 100%;
+  --popover-foreground: 222.2 84% 4.9%;
+
+  --primary: 221.2 83.2% 53.3%;
+  --primary-foreground: 210 40% 98%;
+
+  --secondary: 210 40% 96.1%;
+  --secondary-foreground: 222.2 47.4% 11.2%;
+
+  --muted: 210 40% 96.1%;
+  --muted-foreground: 215.4 16.3% 46.9%;
+
+  --accent: 210 40% 96.1%;
+  --accent-foreground: 222.2 47.4% 11.2%;
+
+  --destructive: 0 84.2% 60.2%;
+  --destructive-foreground: 210 40% 98%;
+
+  --success: 142.1 76.2% 36.3%;
+  --success-foreground: 355.7 100% 97.3%;
+
+  --warning: 32.1 94.6% 43.7%;
+  --warning-foreground: 355.7 100% 97.3%;
+
+  --border: 214.3 31.8% 91.4%;
+  --input: 214.3 31.8% 91.4%;
+  --ring: 221.2 83.2% 53.3%;
+
+  --radius: 0.625rem;
+}
+
+.dark {
+  --background: 222.2 84% 4.9%;
+  --foreground: 210 40% 98%;
+
+  --card: 222.2 47.4% 9%;
+  --card-foreground: 210 40% 98%;
+
+  --popover: 222.2 84% 4.9%;
+  --popover-foreground: 210 40% 98%;
+
+  --primary: 217.2 91.2% 59.8%;
+  --primary-foreground: 222.2 47.4% 11.2%;
+
+  --secondary: 217.2 32.6% 17.5%;
+  --secondary-foreground: 210 40% 98%;
+
+  --muted: 217.2 32.6% 17.5%;
+  --muted-foreground: 215 20.2% 65.1%;
+
+  --accent: 217.2 32.6% 17.5%;
+  --accent-foreground: 210 40% 98%;
+
+  --destructive: 0 62.8% 40%;
+  --destructive-foreground: 210 40% 98%;
+
+  --success: 142.1 70.6% 45.3%;
+  --success-foreground: 144.9 80.4% 10%;
+
+  --warning: 35.5 91.7% 55%;
+  --warning-foreground: 20.5 90.2% 12%;
+
+  --border: 217.2 32.6% 17.5%;
+  --input: 217.2 32.6% 17.5%;
+  --ring: 224.3 76.3% 48%;
+}
+
+html { font-family: 'Inter var', 'Inter', ui-sans-serif, system-ui, sans-serif; }
+
+html, body {
+  background: hsl(var(--background));
+  color: hsl(var(--foreground));
+}
+
+body { -webkit-font-smoothing: antialiased; text-rendering: optimizeLegibility; }
+
+/* El atributo HTML [hidden] pierde la batalla de especificidad frente a
+   clases utilitarias de Tailwind (.flex, .grid, .inline-flex) que también
+   definen display. Forzamos la regla nativa para que hidden=true oculte. */
+[hidden] { display: none !important; }
+
+/* Scrollbar suave */
+* { scrollbar-width: thin; scrollbar-color: hsl(var(--border)) transparent; }
+*::-webkit-scrollbar { width: 10px; height: 10px; }
+*::-webkit-scrollbar-track { background: transparent; }
+*::-webkit-scrollbar-thumb {
+  background: hsl(var(--border));
+  border-radius: 999px;
+  border: 2px solid hsl(var(--background));
+}
+*::-webkit-scrollbar-thumb:hover { background: hsl(var(--muted-foreground) / 0.4); }
+
+/* Focus visible accesible */
+:focus-visible {
+  outline: 2px solid hsl(var(--ring));
+  outline-offset: 2px;
+}
+
+/* Animación sutil de entrada para cartas */
+@keyframes fade-in-up {
+  from { opacity: 0; transform: translateY(4px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+.animate-in { animation: fade-in-up 0.25s ease-out both; }
+
+/* Dialog nativo con look shadcn */
+dialog {
+  color: hsl(var(--foreground));
+  background: hsl(var(--card));
+  border: 1px solid hsl(var(--border));
+  border-radius: calc(var(--radius) + 2px);
+  padding: 0;
+  box-shadow: 0 10px 40px -10px hsl(0 0% 0% / 0.35), 0 8px 16px -8px hsl(0 0% 0% / 0.2);
+}
+dialog::backdrop { background: hsl(0 0% 0% / 0.55); backdrop-filter: blur(2px); }
+
+/* Estados de feedback de opción (compuestas para aplicar a <li>) */
+.opt { border: 1px solid hsl(var(--border)); background: hsl(var(--card)); }
+.opt:hover:not(.locked) { border-color: hsl(var(--ring)); background: hsl(var(--accent)); }
+.opt.selected { border-color: hsl(var(--primary)); background: hsl(var(--primary) / 0.08); box-shadow: 0 0 0 3px hsl(var(--primary) / 0.12); }
+.opt.correct  { border-color: hsl(var(--success)); background: hsl(var(--success) / 0.1); }
+.opt.incorrect{ border-color: hsl(var(--destructive)); background: hsl(var(--destructive) / 0.1); }
+.opt.locked   { cursor: default; }
+
+.opt .letter { color: hsl(var(--primary)); }
+.opt.correct .letter { color: hsl(var(--success)); }
+.opt.incorrect .letter { color: hsl(var(--destructive)); }
+
+/* Mapa de preguntas */
+.map-cell {
+  aspect-ratio: 1;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid hsl(var(--border));
+  background: hsl(var(--card));
+  color: hsl(var(--foreground));
+  border-radius: calc(var(--radius) - 2px);
+  font-size: 0.8rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: transform 0.08s ease, background 0.15s ease;
+}
+.map-cell:hover { transform: scale(1.05); }
+.map-cell.answered { background: hsl(var(--primary)); color: hsl(var(--primary-foreground)); border-color: hsl(var(--primary)); }
+.map-cell.current  { outline: 2px solid hsl(var(--warning)); outline-offset: 2px; }
+.map-cell.doubt    { background: hsl(var(--warning) / 0.15); border-color: hsl(var(--warning)); color: hsl(var(--warning)); }
+
+/* Barra de progreso */
+.progress-track {
+  height: 8px;
+  background: hsl(var(--secondary));
+  border-radius: 999px;
+  overflow: hidden;
+}
+.progress-fill {
+  height: 100%;
+  background: linear-gradient(90deg, hsl(var(--primary)), hsl(var(--primary) / 0.7));
+  width: 0%;
+  transition: width 0.25s ease;
+}
+
+/* Contenedor global: ancho completo con padding lateral confortable */
+.app-container {
+  width: 100%;
+  max-width: 1600px;
+  margin: 0 auto;
+  padding-left: clamp(1rem, 3vw, 2.5rem);
+  padding-right: clamp(1rem, 3vw, 2.5rem);
+}
