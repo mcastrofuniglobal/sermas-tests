@@ -62,12 +62,6 @@
       container.appendChild(section);
     });
 
-    if (manifest.repoUrl) {
-      for (const id of ['repoLink', 'repoLinkFooter']) {
-        const link = document.getElementById(id);
-        if (link) link.href = manifest.repoUrl;
-      }
-    }
   } catch (err) {
     container.innerHTML = `
       <div class="mx-auto max-w-xl rounded-lg border border-destructive/30 bg-destructive/5 p-6 text-center">
