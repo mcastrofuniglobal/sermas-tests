@@ -484,6 +484,246 @@
       ],
       "correct": 3,
       "explanation": "Conforme al artículo 52 de la Ley 1/1983 y las reglas generales de vacatio legis, las disposiciones entran en vigor en la fecha que señalen o, en su defecto, a los veinte días de su publicación íntegra en el BOCM."
+    },
+    {
+      "id": "lgc-041",
+      "q": "¿Quién propone al Rey el nombramiento del Presidente de la Comunidad de Madrid tras la elección?",
+      "options": [
+        "El Presidente de la Asamblea de Madrid",
+        "El Presidente del Gobierno de la Nación",
+        "El Presidente del Senado",
+        "El Delegado del Gobierno en la Comunidad"
+      ],
+      "correct": 0,
+      "explanation": "Según el artículo 18 de la Ley 1/1983, el Presidente de la Asamblea, una vez elegido el candidato, lo comunica al Rey a efectos de su nombramiento."
+    },
+    {
+      "id": "lgc-042",
+      "q": "El plazo para presentar un candidato a la Presidencia, tras la constitución de la Asamblea o los supuestos que lo requieran, se inicia cuando:",
+      "options": [
+        "Se constituye formalmente la Asamblea de Madrid",
+        "Lo determina expresamente el Rey",
+        "El Consejo de Gobierno en funciones lo solicita",
+        "Se publica en el BOCM la disolución anterior"
+      ],
+      "correct": 0,
+      "explanation": "Conforme al artículo 18 de la Ley 1/1983, tras la constitución de la Asamblea, el Presidente de ésta abre las consultas para proponer un candidato a la Presidencia."
+    },
+    {
+      "id": "lgc-043",
+      "q": "Los Vicepresidentes de la Comunidad de Madrid son nombrados y separados por:",
+      "options": [
+        "La Asamblea de Madrid por mayoría absoluta",
+        "El Rey a propuesta de la Asamblea",
+        "El Consejo de Gobierno en pleno",
+        "El Presidente de la Comunidad de Madrid"
+      ],
+      "correct": 3,
+      "explanation": "De conformidad con el artículo 22 de la Ley 1/1983, los Vicepresidentes, cuando existan, son nombrados y separados libremente por el Presidente de la Comunidad."
+    },
+    {
+      "id": "lgc-044",
+      "q": "La existencia de Vicepresidentes en la Comunidad de Madrid es:",
+      "options": [
+        "Obligatoria y debe haber al menos dos",
+        "Potestativa, según decida el Presidente",
+        "Obligatoria y fijada en el Estatuto de Autonomía",
+        "Decidida por la Asamblea"
+      ],
+      "correct": 1,
+      "explanation": "Conforme al artículo 22 de la Ley 1/1983, el Presidente podrá nombrar uno o varios Vicepresidentes, por lo que su existencia es potestativa."
+    },
+    {
+      "id": "lgc-045",
+      "q": "¿Qué órgano convoca las reuniones del Consejo de Gobierno y fija su orden del día?",
+      "options": [
+        "El Vicepresidente primero",
+        "El Consejero de Presidencia",
+        "El Presidente de la Comunidad de Madrid",
+        "El Secretario del Consejo de Gobierno"
+      ],
+      "correct": 2,
+      "explanation": "Según el artículo 21 de la Ley 1/1983, corresponde al Presidente convocar y presidir las reuniones del Consejo de Gobierno, así como fijar el orden del día."
+    },
+    {
+      "id": "lgc-046",
+      "q": "¿Qué mayoría se exige para que la Asamblea presente ante el Congreso una proposición sobre asuntos de competencia estatal a través del Consejo de Gobierno?",
+      "options": [
+        "La Asamblea actúa directamente sin intervención del Consejo de Gobierno",
+        "El Consejo de Gobierno ejerce la iniciativa legislativa ante la Asamblea por acuerdo adoptado",
+        "Se requiere siempre mayoría de dos tercios en ambas cámaras",
+        "Corresponde únicamente al Presidente"
+      ],
+      "correct": 1,
+      "explanation": "Conforme al artículo 21 de la Ley 1/1983, el Consejo de Gobierno ejerce la iniciativa legislativa mediante acuerdo adoptado en sus sesiones, aprobando proyectos de ley que remite a la Asamblea."
+    },
+    {
+      "id": "lgc-047",
+      "q": "El régimen de responsabilidad penal del Presidente y Consejeros de la Comunidad de Madrid por delitos cometidos en el ejercicio del cargo corresponde conocerlo a:",
+      "options": [
+        "La Audiencia Provincial de Madrid",
+        "El Juzgado de Instrucción que corresponda",
+        "La Sala de lo Penal del Tribunal Supremo en los supuestos previstos",
+        "El Tribunal Constitucional"
+      ],
+      "correct": 2,
+      "explanation": "Conforme al artículo 25 de la Ley 1/1983 y al Estatuto de Autonomía, la responsabilidad penal del Presidente y Consejeros se exige ante el Tribunal Supremo en los supuestos estatutariamente previstos, y ante el TSJ de Madrid en el resto."
+    },
+    {
+      "id": "lgc-048",
+      "q": "¿Qué carácter tiene el acuerdo por el que el Consejo de Gobierno autoriza al Presidente para plantear la cuestión de confianza?",
+      "options": [
+        "Vinculante para la Asamblea",
+        "Meramente deliberativo y previo a la decisión presidencial",
+        "Necesario por mayoría de dos tercios del Consejo",
+        "Imponible al Rey para su convocatoria"
+      ],
+      "correct": 1,
+      "explanation": "Según el artículo 26 de la Ley 1/1983, el Presidente plantea la cuestión de confianza previa deliberación del Consejo de Gobierno, que tiene carácter deliberativo y preparatorio de la decisión presidencial."
+    },
+    {
+      "id": "lgc-049",
+      "q": "El Consejo de Gobierno cesa tras:",
+      "options": [
+        "La pérdida de una votación ordinaria en comisión parlamentaria",
+        "Una dimisión individual de un Consejero",
+        "La celebración de elecciones a la Asamblea, la pérdida de confianza parlamentaria, la aprobación de una moción de censura, o dimisión o fallecimiento del Presidente",
+        "La reprobación por el Consejo Económico y Social"
+      ],
+      "correct": 2,
+      "explanation": "Conforme al artículo 24 de la Ley 1/1983, el Consejo de Gobierno cesa tras la celebración de elecciones, pérdida de confianza, moción de censura aprobada, o dimisión o fallecimiento del Presidente."
+    },
+    {
+      "id": "lgc-050",
+      "q": "El Gobierno cesante, hasta la toma de posesión del nuevo Consejo de Gobierno, permanecerá:",
+      "options": [
+        "En funciones, con limitación de facultades",
+        "Plenamente operativo, con todas sus facultades",
+        "Disuelto y sin capacidad alguna de actuación",
+        "Sustituido por la Diputación Permanente de la Asamblea"
+      ],
+      "correct": 0,
+      "explanation": "Conforme al artículo 24 de la Ley 1/1983, el Gobierno cesante continuará en funciones hasta la toma de posesión del nuevo Consejo de Gobierno, limitando su actuación a la gestión ordinaria."
+    },
+    {
+      "id": "lgc-051",
+      "q": "El Presidente de la Comunidad de Madrid no podrá disolver la Asamblea:",
+      "options": [
+        "Cuando esté en trámite una moción de censura",
+        "En periodo ordinario de sesiones",
+        "En el primer año de legislatura, en todo caso",
+        "Si la Asamblea ha aprobado los presupuestos"
+      ],
+      "correct": 0,
+      "explanation": "Conforme al artículo 21 de la Ley 1/1983, el Presidente no podrá disolver la Asamblea cuando esté en tramitación una moción de censura."
+    },
+    {
+      "id": "lgc-052",
+      "q": "¿Quién ejerce la secretaría del Consejo de Gobierno?",
+      "options": [
+        "Siempre el Consejero de Hacienda",
+        "El Consejero que designe el Presidente",
+        "Un funcionario de carrera designado por el Pleno",
+        "El Vicepresidente primero en todo caso"
+      ],
+      "correct": 1,
+      "explanation": "Según la Ley 1/1983 (art. 14) y normativa de desarrollo, la secretaría del Consejo de Gobierno es ejercida por el Consejero que designe el Presidente."
+    },
+    {
+      "id": "lgc-053",
+      "q": "Las disposiciones del Presidente que revistan carácter normativo adoptan la forma de:",
+      "options": [
+        "Órdenes",
+        "Reales Decretos",
+        "Resoluciones",
+        "Decretos del Presidente"
+      ],
+      "correct": 3,
+      "explanation": "Conforme al artículo 50 de la Ley 1/1983, las disposiciones y resoluciones del Presidente de la Comunidad adoptan la forma de Decretos del Presidente."
+    },
+    {
+      "id": "lgc-054",
+      "q": "Los actos y resoluciones administrativas de los Consejeros, sin carácter normativo, adoptan la forma de:",
+      "options": [
+        "Decretos",
+        "Leyes",
+        "Resoluciones u órdenes, según los casos",
+        "Circulares internas exclusivamente"
+      ],
+      "correct": 2,
+      "explanation": "Conforme al artículo 50 de la Ley 1/1983, los actos administrativos de los Consejeros adoptan la forma de órdenes cuando tienen carácter general, o de resoluciones cuando son actos singulares."
+    },
+    {
+      "id": "lgc-055",
+      "q": "Los miembros del Consejo de Gobierno, además de ostentar su condición, pueden:",
+      "options": [
+        "Ejercer libremente actividades empresariales privadas",
+        "Ocupar simultáneamente la alcaldía de un municipio",
+        "Ejercer cargos ejecutivos en otras Administraciones",
+        "Ser a la vez diputados de la Asamblea de Madrid"
+      ],
+      "correct": 3,
+      "explanation": "Conforme al artículo 35 de la Ley 1/1983, los miembros del Consejo de Gobierno pueden ser al mismo tiempo diputados de la Asamblea de Madrid, sin que ello suponga incompatibilidad."
+    },
+    {
+      "id": "lgc-056",
+      "q": "La potestad de iniciativa legislativa mediante proyectos de ley corresponde a:",
+      "options": [
+        "Los grupos parlamentarios de la Asamblea únicamente",
+        "El Consejo de Gobierno",
+        "Los Consejeros individualmente",
+        "El Presidente, sin intervención del Consejo"
+      ],
+      "correct": 1,
+      "explanation": "Según el artículo 21 de la Ley 1/1983, corresponde al Consejo de Gobierno aprobar los proyectos de ley para su remisión a la Asamblea, ejerciendo así la iniciativa legislativa."
+    },
+    {
+      "id": "lgc-057",
+      "q": "Los Consejeros pueden ser obligados a comparecer ante las comisiones de la Asamblea de Madrid:",
+      "options": [
+        "Solo cuando lo solicite el propio Presidente de la Comunidad",
+        "Nunca, por respeto a la separación de poderes",
+        "Exclusivamente tras autorización del Consejo de Gobierno",
+        "Cuando así lo requiera la Asamblea, de conformidad con su Reglamento"
+      ],
+      "correct": 3,
+      "explanation": "Conforme al artículo 25 de la Ley 1/1983, los Consejeros deben comparecer ante la Asamblea o sus comisiones cuando así se les requiera, al ser responsables políticamente de su gestión."
+    },
+    {
+      "id": "lgc-058",
+      "q": "Si la cuestión de confianza no obtiene la mayoría requerida, el Presidente:",
+      "options": [
+        "Continúa en el cargo con limitaciones temporales",
+        "Convoca automáticamente elecciones anticipadas",
+        "Presentará su dimisión ante la Asamblea",
+        "Deberá solicitar una nueva votación tras quince días"
+      ],
+      "correct": 2,
+      "explanation": "Conforme al artículo 26 de la Ley 1/1983, si la confianza no obtiene la mayoría simple, el Presidente debe presentar su dimisión ante el Presidente de la Asamblea, iniciándose el procedimiento de elección de nuevo Presidente."
+    },
+    {
+      "id": "lgc-059",
+      "q": "Los miembros del Consejo de Gobierno, como miembros del mismo:",
+      "options": [
+        "Responden solidariamente de los acuerdos del Consejo, sin perjuicio de su responsabilidad directa",
+        "Solo responden por sus actos individuales",
+        "Tienen total inmunidad mientras estén en el cargo",
+        "Responden únicamente ante la jurisdicción penal"
+      ],
+      "correct": 0,
+      "explanation": "Según el artículo 25 de la Ley 1/1983, los miembros del Consejo de Gobierno responden solidariamente de los acuerdos adoptados en el Consejo, sin perjuicio de la responsabilidad directa de cada Consejero por su gestión."
+    },
+    {
+      "id": "lgc-060",
+      "q": "La delegación de competencias entre órganos de la Administración de la Comunidad de Madrid:",
+      "options": [
+        "Es automática en todos los niveles jerárquicos",
+        "Está expresamente prohibida con carácter general",
+        "Solo procede entre Consejerías del mismo sector",
+        "Requiere publicación en el BOCM para su eficacia"
+      ],
+      "correct": 3,
+      "explanation": "Conforme al artículo 51 de la Ley 1/1983 y normativa básica concordante, la delegación de competencias requiere publicación en el BOCM para producir efectos jurídicos frente a terceros."
     }
   ]
 }

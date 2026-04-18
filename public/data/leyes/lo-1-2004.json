@@ -284,6 +284,146 @@
       "options": ["Defensa y representación gratuitas por abogado y procurador en todos los procesos y procedimientos administrativos que tengan causa directa o indirecta en la violencia padecida", "Sólo la asistencia letrada de oficio", "Únicamente la asistencia en el primer juicio", "Sólo asistencia en vía civil, no penal"],
       "correct": 0,
       "explanation": "Art. 20 LO 1/2004: las víctimas tienen derecho a defensa y representación gratuitas por abogado y procurador en todos los procesos y procedimientos administrativos relacionados con la violencia padecida."
+    },
+    {
+      "id": "lo1-041",
+      "q": "Según el art. 2 LO 1/2004, entre los fines de la ley se incluye:",
+      "options": ["Fortalecer las medidas de sensibilización ciudadana de prevención, dotando a los poderes públicos de instrumentos eficaces en el ámbito educativo, servicios sociales, sanitario, publicitario y mediático", "La eliminación automática de los antecedentes penales del agresor", "La supresión de la jurisdicción penal en estos delitos", "La imposición obligatoria de mediación entre víctima y agresor"],
+      "correct": 0,
+      "explanation": "Art. 2 LO 1/2004: entre los fines de la ley está fortalecer las medidas de sensibilización ciudadana de prevención dotando a los poderes públicos de instrumentos eficaces."
+    },
+    {
+      "id": "lo1-042",
+      "q": "Los Poderes Públicos, en cumplimiento de la LO 1/2004, deben elaborar, conforme al art. 3:",
+      "options": ["Un único plan estatal cada diez años", "Planes de sensibilización dirigidos exclusivamente al ámbito rural", "Un Plan Nacional de Sensibilización y Prevención de la Violencia de Género dirigido a introducir nuevas escalas de valores en el tejido social", "Campañas publicitarias aisladas sin coordinación"],
+      "correct": 2,
+      "explanation": "Art. 3 LO 1/2004: los Poderes Públicos pondrán en marcha un Plan Nacional de Sensibilización y Prevención de la Violencia de Género."
+    },
+    {
+      "id": "lo1-043",
+      "q": "Según el art. 4 LO 1/2004, el sistema educativo español incluirá entre sus fines:",
+      "options": ["La formación exclusiva en ciencia y tecnología", "La formación en el respeto de los derechos y libertades fundamentales y de la igualdad entre hombres y mujeres, así como en el ejercicio de la tolerancia y de la libertad dentro de los principios democráticos de convivencia", "La enseñanza religiosa obligatoria", "La erradicación de los estudios humanísticos"],
+      "correct": 1,
+      "explanation": "Art. 4.1 LO 1/2004: el sistema educativo incluirá entre sus fines la formación en el respeto de los derechos y libertades fundamentales y de la igualdad entre hombres y mujeres."
+    },
+    {
+      "id": "lo1-044",
+      "q": "En relación con el Consejo Escolar, el art. 8 LO 1/2004 prevé:",
+      "options": ["Su supresión en los centros públicos", "Un representante específico impulsor de medidas educativas que fomenten la igualdad real y efectiva entre hombres y mujeres", "La atribución de competencias exclusivas en régimen disciplinario", "La obligación de incluir un juez en su composición"],
+      "correct": 1,
+      "explanation": "Art. 8 LO 1/2004 (también en Consejos Escolares del Estado y autonómicos): se añade un representante que impulse medidas educativas a favor de la igualdad real y efectiva entre hombres y mujeres."
+    },
+    {
+      "id": "lo1-045",
+      "q": "La inspección educativa, conforme al art. 9 LO 1/2004:",
+      "options": ["No tiene competencias en materia de igualdad", "Velará por el cumplimiento y aplicación de los principios y valores destinados a fomentar la igualdad real entre hombres y mujeres", "Solo revisará cuestiones presupuestarias", "Actuará únicamente a requerimiento del Ministerio Fiscal"],
+      "correct": 1,
+      "explanation": "Art. 9 LO 1/2004: la inspección educativa velará por el cumplimiento y aplicación de los principios y valores recogidos en la ley destinados a fomentar la igualdad real."
+    },
+    {
+      "id": "lo1-046",
+      "q": "Según el art. 11 LO 1/2004, el ente público de la radiotelevisión estatal velará por el reflejo, en sus contenidos, de:",
+      "options": ["La imagen tradicional del matrimonio", "Programas de entretenimiento sin valores específicos", "Los valores de igualdad y el respeto a la dignidad de las mujeres, adoptando medidas contra la difusión de contenidos que atenten contra estos valores", "La difusión preferente de espacios deportivos"],
+      "correct": 2,
+      "explanation": "Art. 11 LO 1/2004: el ente público estatal (RTVE) velará por que sus contenidos reflejen los valores de igualdad y el respeto a la dignidad de las mujeres."
+    },
+    {
+      "id": "lo1-047",
+      "q": "La legitimación activa para ejercer acción de cesación y rectificación de publicidad ilícita por razón de violencia de género corresponde, entre otros (art. 12 LO 1/2004), a:",
+      "options": ["Exclusivamente al Ministerio Fiscal", "Solo a las propias víctimas", "Únicamente al Defensor del Pueblo", "La Delegación Especial del Gobierno contra la Violencia sobre la Mujer, el Instituto de la Mujer u órgano equivalente de las CCAA, el Ministerio Fiscal y las asociaciones legalmente constituidas cuyo fin primordial sea la defensa de los intereses de la mujer"],
+      "correct": 3,
+      "explanation": "Art. 12 LO 1/2004: están legitimados la Delegación del Gobierno, el Instituto de la Mujer y órganos equivalentes autonómicos, el MF y las asociaciones que tengan como fin primordial la defensa de los intereses de la mujer."
+    },
+    {
+      "id": "lo1-048",
+      "q": "Respecto a los medios de comunicación, el art. 14 LO 1/2004 establece que los medios:",
+      "options": ["Fomentarán la protección y salvaguarda de la igualdad entre hombre y mujer, evitando toda discriminación", "Pueden difundir cualquier contenido sin restricciones", "Solo emitirán mensajes elaborados por la Administración", "Ignorarán el tratamiento de estas materias"],
+      "correct": 0,
+      "explanation": "Art. 14 LO 1/2004: los medios de comunicación fomentarán la protección y salvaguarda de la igualdad entre hombre y mujer, evitando toda discriminación."
+    },
+    {
+      "id": "lo1-049",
+      "q": "El protocolo sanitario común para la actuación ante la violencia de género, previsto en el art. 15 LO 1/2004:",
+      "options": ["Solo se aplica en servicios de urgencias hospitalarias", "Es voluntario y no vinculante", "Se remite en todo caso a la legislación autonómica", "Contempla las pautas uniformes de actuación sanitaria tanto en el ámbito público como privado, incluyendo actuaciones de detección precoz"],
+      "correct": 3,
+      "explanation": "Art. 15 LO 1/2004: se impulsarán actuaciones de los profesionales sanitarios para la detección precoz de la violencia de género, proponiéndose la adopción de un protocolo sanitario."
+    },
+    {
+      "id": "lo1-050",
+      "q": "Conforme a la LO 1/2004, la acreditación de las situaciones de violencia de género a efectos de los derechos laborales y prestaciones de la Seguridad Social se realiza, como regla general, mediante:",
+      "options": ["La simple denuncia policial de la víctima", "La sentencia condenatoria, la orden de protección a favor de la víctima o, excepcionalmente, informe del Ministerio Fiscal indicando la existencia de indicios; también los servicios sociales o de acogida en los términos legales", "Declaración jurada ante notario", "Testimonio de dos testigos presenciales"],
+      "correct": 1,
+      "explanation": "Art. 23 LO 1/2004 (redacción vigente): la situación se acredita por sentencia, orden de protección, informe del MF o, en los términos legales, por informe de los servicios sociales, servicios especializados o de acogida."
+    },
+    {
+      "id": "lo1-051",
+      "q": "La Renta Activa de Inserción (RAI) y las ayudas económicas para víctimas de violencia de género sin recursos, se prevén en:",
+      "options": ["El art. 27 LO 1/2004 (ayuda económica específica) y el régimen del programa RAI para desempleadas víctimas", "Sólo en la Ley General de la Seguridad Social sin mención en la LO 1/2004", "Únicamente en normativa autonómica", "En la Ley 27/2003 de orden de protección"],
+      "correct": 0,
+      "explanation": "Art. 27 LO 1/2004: se regula una ayuda económica específica para víctimas con especiales dificultades de empleo; el desarrollo reglamentario y la RAI complementan esta protección."
+    },
+    {
+      "id": "lo1-052",
+      "q": "El acceso a viviendas protegidas y residencias públicas para mayores por parte de víctimas de violencia de género (art. 28 LO 1/2004) implica que éstas:",
+      "options": ["Deben concurrir en igualdad con el resto de solicitantes sin ventaja alguna", "Pierden el derecho al ser ya titulares de otra protección", "Serán consideradas colectivos prioritarios en el acceso a viviendas protegidas y residencias públicas para mayores, en los términos que determine la legislación aplicable", "Tendrán derecho únicamente a alojamiento temporal en albergues"],
+      "correct": 2,
+      "explanation": "Art. 28 LO 1/2004: las víctimas serán consideradas colectivos prioritarios en el acceso a viviendas protegidas y a residencias públicas para mayores."
+    },
+    {
+      "id": "lo1-053",
+      "q": "El Observatorio Estatal de Violencia sobre la Mujer tiene adscrito su desarrollo orgánico a:",
+      "options": ["El Ministerio del Interior", "El Ministerio de Justicia", "El Ministerio competente en materia de igualdad / servicios sociales (hoy Ministerio de Igualdad)", "La Fiscalía General del Estado"],
+      "correct": 2,
+      "explanation": "Art. 30 LO 1/2004: el Observatorio Estatal se adscribe al Ministerio competente (actualmente Ministerio de Igualdad, a través de la Delegación del Gobierno contra la Violencia de Género)."
+    },
+    {
+      "id": "lo1-054",
+      "q": "La LO 1/2004 modifica el art. 153 CP, tipificando expresamente como delito:",
+      "options": ["Las lesiones graves con resultado de deformidad", "El menoscabo psíquico o lesión no definidos como delito de lesiones, o el golpear o maltratar de obra sin causar lesión, cuando la víctima fuere la esposa o mujer ligada por análoga relación de afectividad, aun sin convivencia", "El delito de hurto doméstico", "Los daños en bienes muebles conyugales"],
+      "correct": 1,
+      "explanation": "Art. 37 LO 1/2004 (reforma art. 153 CP): tipifica el menoscabo psíquico o lesión leve y el maltrato de obra sin lesión cuando la víctima es la esposa o mujer ligada por análoga relación de afectividad, aun sin convivencia."
+    },
+    {
+      "id": "lo1-055",
+      "q": "La amenaza leve con armas u otros instrumentos peligrosos a quien sea o haya sido su esposa, o mujer que esté o haya estado ligada al autor por análoga relación de afectividad, está tipificada en el CP (reforma LO 1/2004) en el:",
+      "options": ["Art. 147.2 CP", "Art. 169 CP", "Art. 171.4 CP", "Art. 172 ter CP"],
+      "correct": 2,
+      "explanation": "Art. 38 LO 1/2004: reforma el art. 171.4 CP sobre amenazas leves cuando la víctima sea esposa o mujer ligada al autor por análoga relación de afectividad."
+    },
+    {
+      "id": "lo1-056",
+      "q": "Las coacciones leves a quien sea o haya sido su esposa, o mujer ligada al autor por análoga relación de afectividad, fueron tipificadas por la LO 1/2004 en:",
+      "options": ["Art. 172.2 CP", "Art. 620 CP", "Art. 172 ter CP", "Art. 153 CP"],
+      "correct": 0,
+      "explanation": "Art. 39 LO 1/2004: reforma el art. 172.2 CP, tipificando las coacciones leves en estos supuestos."
+    },
+    {
+      "id": "lo1-057",
+      "q": "El art. 44 LO 1/2004 modificó la LOPJ para atribuir a los JVM la competencia para conocer de procesos penales relativos a:",
+      "options": ["Delitos contra la intimidad sin relación con violencia de género", "Cualquier delito cometido en el ámbito familiar", "Delitos de tráfico de drogas en el ámbito doméstico", "Delitos contra los derechos y deberes familiares, cuando la víctima sea alguna de las personas del art. 173.2 CP vinculadas al autor por la relación descrita"],
+      "correct": 3,
+      "explanation": "Art. 44 LO 1/2004 (añade art. 87 ter LOPJ): los JVM son competentes para instruir, entre otros, los procesos por delitos contra los derechos y deberes familiares cuando concurran los elementos del tipo subjetivo de la violencia de género."
+    },
+    {
+      "id": "lo1-058",
+      "q": "Los JVM conocerán de la instrucción de procesos penales de violencia de género y, tratándose de faltas (hoy delitos leves) contra las personas conforme al art. 44 LO 1/2004:",
+      "options": ["Su competencia se limita a los asuntos civiles", "Solo conocerán los Juzgados de Paz", "Son incompetentes siempre en delitos leves", "Conocerán también del enjuiciamiento y fallo de los delitos leves (antes faltas) que les atribuya la ley cuando la víctima sea alguna de las señaladas como tal en la ley"],
+      "correct": 3,
+      "explanation": "Art. 44 LO 1/2004 (y art. 87 ter LOPJ): los JVM conocen del enjuiciamiento y fallo de delitos leves que se les atribuyen cuando la víctima es la señalada por la ley."
+    },
+    {
+      "id": "lo1-059",
+      "q": "Las órdenes de protección y las medidas cautelares penales en materia de violencia de género, en caso de guardia (fuera de horas de audiencia del JVM), son adoptadas por:",
+      "options": ["El Juzgado de Instrucción de guardia, sin perjuicio de que el JVM asuma después la competencia", "La policía judicial de forma autónoma", "Exclusivamente el Fiscal de guardia", "Un juzgado de paz"],
+      "correct": 0,
+      "explanation": "La LO 1/2004 y la LECrim establecen que, cuando no esté de guardia el JVM, será el Juzgado de Instrucción de guardia quien adopte la orden de protección, remitiendo luego lo actuado al JVM competente."
+    },
+    {
+      "id": "lo1-060",
+      "q": "El Pacto de Estado contra la Violencia de Género de 2017, actualizado posteriormente:",
+      "options": ["Derogó la LO 1/2004", "Trasladó la competencia sobre esta materia al ámbito local", "Sustituyó todas las competencias penales por un sistema de arbitraje", "Estableció un conjunto de medidas institucionales, económicas y jurídicas que refuerzan la aplicación de la LO 1/2004, incluyendo reformas normativas posteriores"],
+      "correct": 3,
+      "explanation": "El Pacto de Estado contra la Violencia de Género (2017) y sus renovaciones articulan un paquete de medidas que complementan y refuerzan la LO 1/2004, sin sustituirla, y han motivado reformas posteriores (p. ej. RDL 9/2018)."
     }
   ]
 }

@@ -354,6 +354,146 @@
       "options": ["Un centro privado de formación", "Una universidad pública", "Un órgano del Instituto de Salud Carlos III dedicado a la formación de directivos y profesionales de la salud pública y de los servicios sanitarios", "Un colegio profesional"],
       "correct": 2,
       "explanation": "La Escuela Nacional de Sanidad es una unidad del Instituto de Salud Carlos III (art. 48 Ley 16/2003) dedicada a la formación especializada y continuada de directivos, gestores y profesionales de la salud pública y los servicios sanitarios."
+    },
+    {
+      "id": "l16-051",
+      "q": "Tras la modificación del art. 3 de la Ley 16/2003 por el RDL 7/2018, las personas extranjeras no registradas ni autorizadas como residentes en España tienen derecho a la protección de la salud y a la atención sanitaria:",
+      "options": ["En las mismas condiciones que las personas con nacionalidad española", "Solo si abonan previamente la asistencia", "Únicamente si están afiliadas a la Seguridad Social", "Solo en situaciones de epidemia declarada"],
+      "correct": 0,
+      "explanation": "Art. 3 ter Ley 16/2003 (tras RDL 7/2018): las personas extranjeras no registradas ni autorizadas como residentes tienen derecho a la protección de la salud y a la atención sanitaria en las mismas condiciones que las personas con nacionalidad española."
+    },
+    {
+      "id": "l16-052",
+      "q": "La cartera común de SERVICIOS ACCESORIOS del SNS (art. 8 quater bis) comprende:",
+      "options": ["Todas aquellas actividades, servicios o técnicas sin carácter de prestación que no son esenciales y/o que son coadyuvantes o de apoyo, sujetas a aportación y/o reembolso por el usuario", "Las prestaciones hospitalarias de urgencia", "La atención primaria de adultos", "Los servicios prestados exclusivamente en hospitales privados concertados"],
+      "correct": 0,
+      "explanation": "Art. 8 quater Ley 16/2003 (tras RDL 16/2012): la cartera común de servicios accesorios incluye actividades, servicios o técnicas sin carácter de prestación que no se consideran esenciales y que son coadyuvantes o de apoyo, sujetas a aportación y/o reembolso por el usuario."
+    },
+    {
+      "id": "l16-053",
+      "q": "Las comunidades autónomas, en su ámbito competencial, pueden incluir prestaciones NO recogidas en la cartera común del SNS:",
+      "options": ["Con cargo a sus propios recursos, estableciendo los mecanismos de información necesarios para garantizar la cohesión y calidad del SNS", "Sin necesidad de informar al Ministerio", "Solo si lo autoriza el Congreso", "Con cargo íntegro a los Presupuestos Generales del Estado"],
+      "correct": 0,
+      "explanation": "Art. 8 quinquies Ley 16/2003: las CCAA podrán incorporar en sus carteras una técnica, tecnología o procedimiento no contemplado en la cartera común, con cargo a sus propios recursos, informando con carácter previo al Consejo Interterritorial del SNS."
+    },
+    {
+      "id": "l16-054",
+      "q": "La atención sociosanitaria, en los términos del art. 14 de la Ley 16/2003, comprende:",
+      "options": ["El conjunto de cuidados destinados a enfermos (en especial crónicos) que por sus especiales características pueden beneficiarse de la actuación simultánea y sinérgica de servicios sanitarios y sociales", "Exclusivamente la atención en residencias de mayores privadas", "Los cuidados paliativos domiciliarios de niños", "La asistencia a personas sin hogar"],
+      "correct": 0,
+      "explanation": "Art. 14 Ley 16/2003: la atención sociosanitaria comprende el conjunto de cuidados destinados a aquellos enfermos, generalmente crónicos, que por sus especiales características pueden beneficiarse de la actuación simultánea y sinérgica de los servicios sanitarios y sociales."
+    },
+    {
+      "id": "l16-055",
+      "q": "Según la Ley 16/2003, la formación pregrado de los profesionales sanitarios se imparte fundamentalmente en:",
+      "options": ["Centros del Instituto de Salud Carlos III", "Las universidades, con la colaboración necesaria del SNS, que deberá garantizar la docencia práctica clínica", "Los colegios profesionales", "La Escuela Nacional de Sanidad exclusivamente"],
+      "correct": 1,
+      "explanation": "Art. 34.1 Ley 16/2003: la enseñanza universitaria se desarrollará en las universidades con la colaboración necesaria del SNS, garantizando la docencia práctica de las enseñanzas que así lo exijan."
+    },
+    {
+      "id": "l16-056",
+      "q": "El desarrollo profesional del personal sanitario en el SNS, conforme al art. 40 de la Ley 16/2003, se articula a través de:",
+      "options": ["Un único grado igual para todos los profesionales", "Un sistema de reconocimiento público, expreso y de forma individualizada del desarrollo alcanzado en cuanto a conocimientos, experiencia, formación, docencia e investigación", "Un complemento único automático por antigüedad", "Un sistema de ascensos por concurso-oposición"],
+      "correct": 1,
+      "explanation": "Art. 40 Ley 16/2003: el desarrollo profesional es el reconocimiento público, expreso y de forma individualizada, del desarrollo alcanzado por un profesional sanitario en cuanto a conocimientos, experiencia asistencial, docente e investigadora, cumplimiento de los objetivos asistenciales e investigadores y compromiso con la gestión clínica."
+    },
+    {
+      "id": "l16-057",
+      "q": "El Registro estatal de profesionales sanitarios, contemplado en la Ley 16/2003 y desarrollado por normativa específica:",
+      "options": ["Es un registro privado al que acceden los colegios", "Solo recoge datos de los médicos MIR", "Recoge los datos mínimos de los profesionales sanitarios en el SNS y el sector privado para la planificación y el ejercicio", "Depende de la Seguridad Social"],
+      "correct": 2,
+      "explanation": "Art. 43 Ley 16/2003: el Ministerio de Sanidad mantendrá un registro estatal de profesionales sanitarios con los datos mínimos necesarios para la planificación, programación y evaluación de los recursos humanos del SNS."
+    },
+    {
+      "id": "l16-058",
+      "q": "El Plan Nacional de Salud, previsto en la Ley 16/2003 (art. 64 bis / disposiciones concordantes), será:",
+      "options": ["Aprobado por cada CCAA de forma independiente", "Un mero documento informativo sin valor", "Elaborado exclusivamente por el Ministerio de Sanidad sin intervención autonómica", "Elaborado por el Ministerio de Sanidad, con las aportaciones de las CCAA y del Consejo Interterritorial, y recogerá las prioridades de salud de carácter estatal"],
+      "correct": 3,
+      "explanation": "La Ley 16/2003 prevé, en el marco del art. 64 y la Disposición adicional cuarta, que el Ministerio de Sanidad, con las aportaciones de las CCAA a través del Consejo Interterritorial, elaborará el Plan Nacional de Salud, que recogerá las previsiones de carácter estatal en los términos acordados en el Consejo Interterritorial."
+    },
+    {
+      "id": "l16-059",
+      "q": "En materia de investigación, el art. 45 de la Ley 16/2003 establece que la Administración del Estado y las CCAA, a través del Consejo Interterritorial, elaborarán:",
+      "options": ["Un manual de buenas prácticas clínicas", "Un catálogo de ensayos clínicos", "Iniciativas sectoriales de investigación en salud, dirigidas a objetivos estratégicos, prioritarias y de utilidad para el SNS", "Una guía farmacoterapéutica"],
+      "correct": 2,
+      "explanation": "Art. 45 Ley 16/2003: la Administración del Estado y las CCAA, a través del Consejo Interterritorial, elaborarán iniciativas sectoriales de investigación en salud, estableciendo objetivos estratégicos y prioridades."
+    },
+    {
+      "id": "l16-060",
+      "q": "Según la Ley 16/2003, ¿cuál de los siguientes NO es un ámbito de actuación de la prestación de salud pública (art. 11)?",
+      "options": ["La información y vigilancia epidemiológica", "La protección de la salud, evitando los efectos negativos que diversos elementos del medio pueden tener sobre la salud y el bienestar de las personas", "La promoción de la salud", "La fabricación industrial de medicamentos"],
+      "correct": 3,
+      "explanation": "Art. 11 Ley 16/2003: la prestación de salud pública comprende, entre otros ámbitos, la información y vigilancia epidemiológica, la protección y promoción de la salud, la prevención, la protección y promoción de la sanidad ambiental, alimentaria y laboral, pero no la fabricación industrial de medicamentos."
+    },
+    {
+      "id": "l16-061",
+      "q": "Respecto al Sistema de Información Sanitaria, el art. 54 de la Ley 16/2003 indica que, con el fin de lograr la máxima fiabilidad de la información:",
+      "options": ["Se establecerán las definiciones y criterios comunes para la recogida, procesamiento, análisis, codificación y difusión de la información", "Se usará una única aplicación informática en todo el SNS", "Cada CCAA definirá sus propios estándares sin coordinación", "Se prohibirá el intercambio electrónico"],
+      "correct": 0,
+      "explanation": "Art. 54 Ley 16/2003: el CISNS establecerá las definiciones y criterios comunes para la recogida, procesamiento, análisis, codificación y difusión de los datos integrados en el sistema de información del SNS, así como las garantías de confidencialidad."
+    },
+    {
+      "id": "l16-062",
+      "q": "El art. 62 de la Ley 16/2003 contempla la auditoría externa de los centros, servicios y establecimientos sanitarios. Esta se llevará a cabo por:",
+      "options": ["La Agencia Española de Consumo", "El Ministerio de Sanidad y las CCAA, periódicamente, respecto a los estándares de calidad acordados", "Solo los colegios profesionales", "Entidades privadas sin requisitos"],
+      "correct": 1,
+      "explanation": "Art. 62 Ley 16/2003: las CCAA, en el marco del Ministerio de Sanidad, realizarán auditorías externas periódicas que verifiquen el cumplimiento de los estándares de calidad acordados en el seno del Consejo Interterritorial."
+    },
+    {
+      "id": "l16-063",
+      "q": "De acuerdo con el art. 71 de la Ley 16/2003, las funciones del Consejo Interterritorial del SNS incluyen, entre otras:",
+      "options": ["Aprobar los presupuestos autonómicos de sanidad", "Gestionar directamente los hospitales del Estado", "Legislar con rango de ley sobre materias sanitarias", "Desarrollar esencial y específicamente funciones en materia de cartera común de servicios, uso tutelado de técnicas, formación sanitaria especializada, planes integrales y planificación estratégica del SNS"],
+      "correct": 3,
+      "explanation": "Art. 71 Ley 16/2003: entre las funciones esenciales del CISNS están las relativas a la cartera común del SNS, uso tutelado de nuevas técnicas, criterios para la formación sanitaria especializada, planes integrales y planificación estratégica del SNS."
+    },
+    {
+      "id": "l16-064",
+      "q": "El Foro Abierto de Salud, previsto en la Ley 16/2003 (art. 67), tiene como función principal:",
+      "options": ["Celebrar elecciones sindicales", "Ser convocado por el Consejo Interterritorial para debatir con asociaciones y organizaciones ciudadanas sobre temas de actualidad o interés", "Aprobar la financiación sanitaria", "Sustituir al Parlamento en materia sanitaria"],
+      "correct": 1,
+      "explanation": "Art. 67.2 Ley 16/2003: el Foro Abierto de Salud, de carácter temporal, será convocado por el Consejo Interterritorial del SNS para debatir sobre temas de interés o actualidad con asociaciones ciudadanas y organizaciones no gubernamentales."
+    },
+    {
+      "id": "l16-065",
+      "q": "¿Qué estructura prevista en la Ley 16/2003 (art. 59) recoge las guías de práctica clínica y los registros de buenas prácticas y de acontecimientos adversos?",
+      "options": ["El Registro Mercantil sanitario", "La base de datos de colegios profesionales", "La ONT", "Las infraestructuras para la calidad del SNS"],
+      "correct": 3,
+      "explanation": "Art. 59 Ley 16/2003: las infraestructuras de la calidad del SNS están integradas por las normas de calidad y seguridad, los indicadores, las guías de práctica clínica y asistenciales, el registro de buenas prácticas y el registro de acontecimientos adversos."
+    },
+    {
+      "id": "l16-066",
+      "q": "La Ley 16/2003, en relación con la AEMPS, establece que sus funciones se ejercen:",
+      "options": ["De forma independiente del SNS y sin sujeción a la legislación de medicamentos", "Solo respecto a medicamentos hospitalarios", "En el marco del SNS y de acuerdo con lo previsto en la legislación específica de medicamentos y productos sanitarios", "Únicamente en el ámbito de Madrid"],
+      "correct": 2,
+      "explanation": "La Ley 16/2003 encuadra a la AEMPS (art. 59 bis y normativa complementaria) como organismo público adscrito al Ministerio de Sanidad que ejerce sus funciones en el marco del SNS y conforme al Real Decreto Legislativo 1/2015 de garantías y uso racional de medicamentos y productos sanitarios."
+    },
+    {
+      "id": "l16-067",
+      "q": "Respecto a la tarjeta sanitaria individual (art. 57 Ley 16/2003), los dispositivos que emitan las CCAA permitirán:",
+      "options": ["Realizar pagos bancarios generales", "Identificar al titular en el SNS y facilitar el acceso del ciudadano a las prestaciones, así como la compatibilidad e interoperabilidad con los sistemas de información sanitaria", "Funcionar como DNI electrónico a todos los efectos", "Sustituir al pasaporte europeo"],
+      "correct": 1,
+      "explanation": "Art. 57 Ley 16/2003: la tarjeta sanitaria individual permite la identificación del ciudadano y el acceso a las prestaciones del SNS, y los dispositivos emitidos por las CCAA deben ser compatibles e interoperables con los sistemas de información sanitarios del SNS."
+    },
+    {
+      "id": "l16-068",
+      "q": "Entre las acciones en materia de salud pública, la Ley 16/2003 (art. 11) menciona la vigilancia en salud pública. Esta incluye:",
+      "options": ["La persecución penal de las infracciones sanitarias", "La fijación de los precios de medicamentos", "La recogida, análisis e interpretación sistemática y continuada de información para la detección y respuesta ante problemas de salud", "Solo el control aduanero de productos"],
+      "correct": 2,
+      "explanation": "Art. 11 Ley 16/2003: la prestación de salud pública incluye la vigilancia, como sistema de recogida, análisis e interpretación sistemática y continuada de datos sobre eventos relacionados con la salud para detectar amenazas y responder a ellas."
+    },
+    {
+      "id": "l16-069",
+      "q": "Respecto de los acuerdos del Consejo Interterritorial del SNS, el art. 73 de la Ley 16/2003 señala que cuando afecten a competencias de las CCAA requerirán la conformidad de las mismas para ser aplicables en su ámbito territorial y se plasmarán como:",
+      "options": ["Reales Decretos del Gobierno", "Acuerdos de obligado cumplimiento automático", "Órdenes ministeriales directas", "Recomendaciones aprobadas por consenso"],
+      "correct": 3,
+      "explanation": "Art. 73.2 Ley 16/2003: los acuerdos del Consejo se plasmarán a través de recomendaciones que se aprobarán, en su caso, por consenso; cuando afecten a competencias de las CCAA, estas podrán asumirlos en su ámbito territorial."
+    },
+    {
+      "id": "l16-070",
+      "q": "Según el art. 76 de la Ley 16/2003, en el ejercicio de sus funciones, los inspectores de la Alta Inspección:",
+      "options": ["Solo pueden actuar previa denuncia ciudadana", "Necesitan autorización judicial para cualquier actuación", "Tendrán la consideración de autoridad pública y estarán facultados para requerir información, realizar inspecciones y adoptar medidas", "No tienen competencia en centros privados concertados"],
+      "correct": 2,
+      "explanation": "Art. 76 Ley 16/2003: los funcionarios que desarrollen funciones de Alta Inspección gozarán de la consideración de autoridad pública a todos los efectos y podrán recabar la información y cooperación que precisen para desarrollar sus cometidos."
     }
   ]
 }

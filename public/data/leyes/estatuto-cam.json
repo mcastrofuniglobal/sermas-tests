@@ -284,6 +284,146 @@
       "options": ["Puede firmar tratados internacionales directamente con la UE", "No tiene ninguna relación con la UE", "Participará, a través de los procedimientos establecidos, en la formación de la voluntad del Estado ante las instituciones europeas en las materias de su competencia y ejecutará el derecho de la UE en su ámbito", "Solo puede recibir fondos estructurales"],
       "correct": 2,
       "explanation": "Art. 33 del Estatuto: la Comunidad de Madrid participará, en los términos establecidos por la legislación del Estado, en la formación de la voluntad estatal ante las instituciones de la Unión Europea en asuntos de su competencia y aplicará y ejecutará el derecho de la UE en el ámbito de sus competencias."
+    },
+    {
+      "id": "est-041",
+      "q": "Tras la reforma operada por la LO 5/2022, ¿qué prerrogativa procesal de los diputados y miembros del Gobierno de la Comunidad de Madrid ha quedado suprimida?",
+      "options": ["El aforamiento ante el Tribunal Superior de Justicia de Madrid y el Tribunal Supremo", "La inviolabilidad por las opiniones manifestadas", "La inmunidad frente a detenciones fuera de flagrante delito", "La protección frente a demandas civiles"],
+      "correct": 0,
+      "explanation": "La LO 5/2022, de 28 de julio, de reforma del Estatuto de Autonomía de la Comunidad de Madrid suprimió el aforamiento de los diputados de la Asamblea (art. 11) y de los miembros del Gobierno (art. 25), manteniendo la inviolabilidad por sus opiniones y votos."
+    },
+    {
+      "id": "est-042",
+      "q": "Conforme al art. 3 del Estatuto, los símbolos de la Comunidad de Madrid son:",
+      "options": ["Solo la bandera", "La bandera, el escudo y el himno", "La bandera y el escudo", "El escudo y el himno"],
+      "correct": 2,
+      "explanation": "Art. 3 del Estatuto: la Comunidad de Madrid tiene bandera, escudo y tratamiento propios. El himno fue aprobado posteriormente mediante norma autonómica, pero el Estatuto regula específicamente la bandera (art. 4) y el escudo."
+    },
+    {
+      "id": "est-043",
+      "q": "La condición política de madrileños, a efectos del Estatuto, se atribuye a:",
+      "options": ["Todos los nacidos en la provincia de Madrid, aunque residan fuera", "Quienes hayan residido en Madrid durante al menos diez años", "Quienes trabajen en Madrid aunque no residan en ella", "Los españoles que, de acuerdo con las leyes generales del Estado, tengan vecindad administrativa en cualquiera de los municipios de la Comunidad"],
+      "correct": 3,
+      "explanation": "Art. 7.1 del Estatuto: a efectos del Estatuto, gozan de la condición política de madrileños los españoles que, conforme a las leyes generales del Estado, tengan vecindad administrativa en cualquiera de los municipios de la Comunidad de Madrid."
+    },
+    {
+      "id": "est-044",
+      "q": "¿Qué artículo del Estatuto establece que la Asamblea de Madrid se reúne en sesiones ordinarias y extraordinarias, indicando los períodos de sesiones?",
+      "options": ["Art. 13 del Estatuto", "Art. 10 del Estatuto", "Art. 20 del Estatuto", "Art. 15 del Estatuto"],
+      "correct": 0,
+      "explanation": "Art. 13 del Estatuto: la Asamblea se reúne en sesiones ordinarias y extraordinarias. Los períodos ordinarios de sesiones abarcan de septiembre a diciembre y de febrero a junio. Las sesiones extraordinarias se convocan conforme al Reglamento."
+    },
+    {
+      "id": "est-045",
+      "q": "El Presidente de la Comunidad de Madrid podrá acordar la disolución anticipada de la Asamblea:",
+      "options": ["Libremente y en cualquier momento, sin ninguna limitación", "Previa deliberación del Consejo de Gobierno y bajo su exclusiva responsabilidad, salvo cuando esté en trámite una moción de censura", "Únicamente tras la aprobación de los Presupuestos", "Solo con autorización del Rey"],
+      "correct": 1,
+      "explanation": "Art. 21 del Estatuto: el Presidente, previa deliberación del Consejo de Gobierno y bajo su exclusiva responsabilidad, podrá acordar la disolución de la Asamblea. No podrá acordarse cuando esté en trámite una moción de censura ni antes de que transcurra un año desde la anterior disolución por esta vía."
+    },
+    {
+      "id": "est-046",
+      "q": "El nombramiento y cese de los Consejeros del Gobierno de la Comunidad de Madrid corresponde:",
+      "options": ["A la Asamblea de Madrid", "Al Presidente de la Comunidad, libremente", "Al Rey, a propuesta del Consejo de Ministros", "Al Presidente del Tribunal Superior de Justicia de Madrid"],
+      "correct": 1,
+      "explanation": "Art. 23 del Estatuto: los Consejeros son nombrados y separados libremente por el Presidente de la Comunidad de Madrid, que dirige la acción del Gobierno y coordina las funciones de los distintos miembros del mismo."
+    },
+    {
+      "id": "est-047",
+      "q": "¿Cuál de las siguientes materias es competencia exclusiva de la Comunidad de Madrid según el art. 26 del Estatuto?",
+      "options": ["Legislación procesal", "Hacienda general y Deuda del Estado", "Ordenación del territorio, urbanismo y vivienda", "Relaciones internacionales"],
+      "correct": 2,
+      "explanation": "Art. 26.1.4 del Estatuto: la Comunidad de Madrid tiene competencia exclusiva en materia de ordenación del territorio, urbanismo y vivienda. Las otras materias corresponden al Estado conforme al art. 149.1 CE."
+    },
+    {
+      "id": "est-048",
+      "q": "La Comunidad de Madrid puede solicitar al Gobierno de la Nación la celebración de tratados o convenios internacionales:",
+      "options": ["Con plena capacidad para firmarlos por sí misma", "En materias de interés para la Comunidad y, especialmente, los derivados de su situación geográfica como región fronteriza", "En materias exclusivas del Estado únicamente", "Nunca, por estar vetado en el Estatuto"],
+      "correct": 1,
+      "explanation": "Art. 34 del Estatuto: la Comunidad de Madrid podrá solicitar del Gobierno de la Nación la celebración de tratados o convenios internacionales en materias de interés específico para Madrid, así como ser informada de la elaboración de los mismos cuando afecten a sus competencias."
+    },
+    {
+      "id": "est-049",
+      "q": "La Administración de Justicia en la Comunidad de Madrid se rige por los principios de:",
+      "options": ["Jerarquía y dependencia del Gobierno autonómico", "Elección democrática de los jueces", "Unidad e independencia, siendo los jueces y magistrados integrantes del Poder Judicial único del Estado", "Autonomía plena respecto al Estado"],
+      "correct": 2,
+      "explanation": "Art. 36 del Estatuto: la Administración de Justicia en la Comunidad de Madrid se rige por los principios constitucionales de unidad e independencia del Poder Judicial, correspondiendo a jueces y magistrados integrantes del único Poder Judicial del Estado."
+    },
+    {
+      "id": "est-050",
+      "q": "En relación con los nombramientos de notarios y registradores, corresponde a la Comunidad de Madrid:",
+      "options": ["Nombrarlos directamente", "Denegar los nombramientos propuestos por el Estado", "Suprimirlos si así lo acuerda el Consejo de Gobierno", "Participar en la fijación de las demarcaciones notariales y registrales, y proponer al Ministerio competente cuando proceda, según prevea la legislación estatal"],
+      "correct": 3,
+      "explanation": "Art. 39 del Estatuto: la Comunidad de Madrid participará en la fijación de las demarcaciones correspondientes a las Notarías y Registros de la propiedad y mercantiles radicados en su territorio, en los términos previstos por la legislación estatal."
+    },
+    {
+      "id": "est-051",
+      "q": "Los municipios gozan, dentro del ámbito de sus competencias, de:",
+      "options": ["Subordinación total a la Comunidad Autónoma", "Dependencia directa del Estado", "Autonomía para la gestión de sus respectivos intereses, conforme a la Constitución y al Estatuto", "Autonomía limitada exclusivamente a asuntos municipales internos"],
+      "correct": 2,
+      "explanation": "Art. 41 del Estatuto: los municipios y demás entidades locales existentes en la Comunidad de Madrid gozarán, dentro del ámbito de sus competencias y conforme a la legislación del Estado y la Comunidad, de plena autonomía para la gestión de sus respectivos intereses."
+    },
+    {
+      "id": "est-052",
+      "q": "La Comunidad de Madrid, en el ámbito del régimen local, podrá:",
+      "options": ["Suprimir municipios sin audiencia", "Crear agrupaciones basadas en hechos urbanísticos, metropolitanos y otros de naturaleza análoga, que requerirán la audiencia preceptiva de los municipios afectados", "Integrar a los municipios en la Administración autonómica", "Transferir la titularidad de los bienes municipales a la Comunidad"],
+      "correct": 1,
+      "explanation": "Art. 42 del Estatuto: la Comunidad de Madrid podrá crear, modificar o suprimir por ley de la Asamblea agrupaciones basadas en hechos urbanísticos, metropolitanos, comarcales u otros de naturaleza análoga, con audiencia preceptiva de los municipios afectados."
+    },
+    {
+      "id": "est-053",
+      "q": "El patrimonio de la Comunidad de Madrid está integrado por:",
+      "options": ["Los bienes y derechos de que sea titular la Comunidad, de cualquier naturaleza y cualquiera que sea el título de adquisición", "Únicamente los inmuebles adquiridos tras la aprobación del Estatuto", "Solo los bienes cedidos por el Estado", "Los bienes de las diputaciones provinciales"],
+      "correct": 0,
+      "explanation": "Art. 51 del Estatuto: el patrimonio de la Comunidad está integrado por los bienes y derechos de los que sea titular la Comunidad de Madrid, de cualquier naturaleza, adquiridos por cualquier título conforme al ordenamiento jurídico."
+    },
+    {
+      "id": "est-054",
+      "q": "La Comunidad de Madrid tiene competencia para establecer:",
+      "options": ["Sus propios impuestos, tasas y contribuciones especiales, así como recargos sobre los impuestos estatales, en los términos previstos en la LOFCA", "Impuestos estatales", "Tributos municipales obligatorios para todos los ayuntamientos", "Tributos aduaneros"],
+      "correct": 0,
+      "explanation": "Art. 53 del Estatuto y LOFCA: la Comunidad de Madrid puede establecer sus propios impuestos, tasas y contribuciones especiales, así como recargos sobre impuestos estatales, con los límites previstos en la Ley Orgánica de Financiación de las Comunidades Autónomas."
+    },
+    {
+      "id": "est-055",
+      "q": "La gestión, liquidación, recaudación e inspección de los tributos propios de la Comunidad de Madrid corresponde a:",
+      "options": ["La Agencia Estatal de Administración Tributaria en exclusiva", "El Consejo de Ministros", "La propia Comunidad, que podrá asumir también la gestión de los tributos cedidos por el Estado conforme a la ley de cesión", "Las Diputaciones Provinciales"],
+      "correct": 2,
+      "explanation": "Art. 56 del Estatuto: la gestión, liquidación, recaudación e inspección de sus propios tributos corresponderá a la Comunidad de Madrid, que asumirá por delegación del Estado la gestión, liquidación, recaudación, inspección y revisión de los tributos cedidos en los términos de la ley de cesión."
+    },
+    {
+      "id": "est-056",
+      "q": "¿Quién elabora los Presupuestos Generales de la Comunidad de Madrid?",
+      "options": ["El Consejo de Gobierno, que los remite a la Asamblea para su examen, enmienda y aprobación", "La Asamblea, que los aprueba por iniciativa propia", "El Presidente de la Comunidad de forma individual", "La Cámara de Cuentas"],
+      "correct": 0,
+      "explanation": "Art. 59 del Estatuto: corresponde al Consejo de Gobierno la elaboración y ejecución del presupuesto, y a la Asamblea su examen, enmienda, aprobación y control. El presupuesto se presenta como proyecto de ley."
+    },
+    {
+      "id": "est-057",
+      "q": "La iniciativa legislativa popular en la Comunidad de Madrid se regula:",
+      "options": ["Está prohibida por el Estatuto", "Por ley de la Asamblea, conforme a lo dispuesto en el Estatuto y respetando lo prevenido en la Ley Orgánica 3/1984", "Exclusivamente por norma estatal", "Solo para reformas del Estatuto"],
+      "correct": 1,
+      "explanation": "Art. 16.3 del Estatuto: una ley de la Asamblea regulará el ejercicio de la iniciativa legislativa popular, de acuerdo con lo que dispone la Constitución y la Ley Orgánica 3/1984, reguladora de la iniciativa legislativa popular."
+    },
+    {
+      "id": "est-058",
+      "q": "Las leyes aprobadas por la Asamblea de Madrid serán promulgadas, en nombre del Rey, por:",
+      "options": ["El Presidente de la Asamblea", "El Delegado del Gobierno en Madrid", "El Presidente del Tribunal Superior de Justicia", "El Presidente de la Comunidad de Madrid, que ordenará su publicación en el BOCM en el plazo de quince días y también en el BOE"],
+      "correct": 3,
+      "explanation": "Art. 15.3 del Estatuto: las leyes de la Asamblea serán promulgadas, en nombre del Rey, por el Presidente de la Comunidad de Madrid, que ordenará su publicación en el Boletín Oficial de la Comunidad de Madrid en el plazo de quince días desde su aprobación, y también en el BOE."
+    },
+    {
+      "id": "est-059",
+      "q": "En materia de reforma del Estatuto, si la propuesta de reforma no es aprobada por la Asamblea o por las Cortes Generales:",
+      "options": ["Se considerará aprobada tácitamente", "Deberá someterse a referéndum obligatorio", "Podrá plantearse de nuevo una propuesta sobre el mismo tema dentro de la misma legislatura", "No podrá ser sometida nuevamente a debate y votación de la Asamblea hasta que haya transcurrido un año"],
+      "correct": 3,
+      "explanation": "Art. 72 del Estatuto: la propuesta de reforma requerirá, en todo caso, la aprobación de la Asamblea por mayoría de dos tercios y la aprobación por las Cortes Generales mediante ley orgánica. Si no se aprueba, no podrá ser sometida nuevamente a debate y votación de la Asamblea hasta que haya transcurrido un año."
+    },
+    {
+      "id": "est-060",
+      "q": "La reforma del Estatuto operada por la LO 5/2022, además de suprimir el aforamiento, tuvo como finalidad principal:",
+      "options": ["Introducir el referéndum popular para todas las leyes autonómicas", "Establecer un nuevo sistema electoral mayoritario", "Crear una segunda cámara legislativa", "Modificar los artículos 11.3 y 25.4 del Estatuto para eliminar la prerrogativa procesal de los diputados y miembros del Gobierno autonómico"],
+      "correct": 3,
+      "explanation": "La LO 5/2022, de 28 de julio, tuvo como objeto específico la modificación de los artículos 11.3 (diputados) y 25.4 (miembros del Consejo de Gobierno) del Estatuto, suprimiendo la prerrogativa procesal del aforamiento en las causas penales que hubieran podido corresponderles."
     }
   ]
 }

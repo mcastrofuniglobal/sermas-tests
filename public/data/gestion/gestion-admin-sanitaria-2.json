@@ -1,0 +1,289 @@
+{
+  "id": "gestion-admin-sanitaria-2",
+  "title": "Gestión administrativa y sanitaria (II)",
+  "category": "Gestión",
+  "source": "Normativa sanitaria + ofimática + gestión administrativa SERMAS",
+  "lastUpdated": "2026-04-18",
+  "questions": [
+    {
+      "id": "ges2-001",
+      "q": "Según el art. 3 de la Ley 41/2002, la historia clínica se define como:",
+      "options": ["El conjunto de documentos que contienen los datos, valoraciones e informaciones de cualquier índole sobre la situación y la evolución clínica de un paciente a lo largo del proceso asistencial", "El informe de alta de un episodio hospitalario", "El fichero de citas del paciente", "El registro de facturación al seguro"],
+      "correct": 0,
+      "explanation": "El art. 3 de la Ley 41/2002 define la historia clínica como el conjunto de documentos que contienen los datos, valoraciones e informaciones sobre la situación y evolución clínica del paciente a lo largo del proceso asistencial."
+    },
+    {
+      "id": "ges2-002",
+      "q": "El consentimiento informado, como regla general, se prestará (art. 8.2 Ley 41/2002):",
+      "options": ["Siempre por escrito", "Verbalmente, salvo las excepciones legalmente previstas en que se requiere por escrito", "Siempre ante notario", "Mediante grabación obligatoria"],
+      "correct": 1,
+      "explanation": "El art. 8.2 de la Ley 41/2002 establece que, como regla general, el consentimiento será verbal, exigiéndose por escrito en intervenciones quirúrgicas, procedimientos invasores y los de riesgo de repercusión notoria y previsible."
+    },
+    {
+      "id": "ges2-003",
+      "q": "El menor de 16 años maduro, conforme al art. 9.4 Ley 41/2002 (redacción vigente), en supuestos de grave riesgo:",
+      "options": ["Decide siempre por sí mismo sin excepción", "Sus padres pueden siempre vetar su consentimiento", "No se le consulta", "Se tendrá en cuenta su opinión, pero la decisión corresponderá a los padres o representantes legales tras oírle"],
+      "correct": 3,
+      "explanation": "Tras la reforma por la Ley 26/2015, el art. 9.4 Ley 41/2002 dispone que, cuando exista grave riesgo para la vida o salud del menor, la decisión la tomarán los representantes legales oídos y tenidos en cuenta los argumentos del menor."
+    },
+    {
+      "id": "ges2-004",
+      "q": "El Registro de Instrucciones Previas de la Comunidad de Madrid está adscrito a:",
+      "options": ["El Ministerio de Justicia", "La Asamblea de Madrid", "La Consejería competente en materia de Sanidad de la CAM", "El Colegio de Médicos"],
+      "correct": 2,
+      "explanation": "La Ley 3/2005 y su desarrollo reglamentario (Decreto 101/2006) adscriben el Registro de Instrucciones Previas a la Consejería competente en materia de Sanidad de la Comunidad de Madrid."
+    },
+    {
+      "id": "ges2-005",
+      "q": "Conforme al art. 7 de la Ley 41/2002, el derecho a la intimidad del paciente implica que:",
+      "options": ["Toda persona tiene derecho a que se respete el carácter confidencial de los datos referentes a su salud, sin que nadie pueda acceder a ellos sin previa autorización amparada por la ley", "Los datos de salud solo se difunden en prensa especializada", "El paciente debe permanecer en habitación individual siempre", "Se permite grabar las consultas sin permiso"],
+      "correct": 0,
+      "explanation": "El art. 7.1 de la Ley 41/2002 reconoce el derecho a la confidencialidad de los datos referentes a la salud e impide el acceso sin previa autorización amparada legalmente."
+    },
+    {
+      "id": "ges2-006",
+      "q": "Conforme al art. 9 del RGPD, los datos relativos a la salud:",
+      "options": ["Son datos ordinarios cuyo tratamiento es libre", "Son datos públicos por naturaleza", "Solo pueden tratarse con autorización notarial", "Son categoría especial de datos cuyo tratamiento está prohibido salvo excepciones tasadas (consentimiento explícito, asistencia sanitaria, salud pública, etc.)"],
+      "correct": 3,
+      "explanation": "El art. 9.1 RGPD prohíbe el tratamiento de categorías especiales de datos (entre ellas la salud), y el art. 9.2 enumera las excepciones, entre las que figura el consentimiento explícito y la prestación de asistencia sanitaria."
+    },
+    {
+      "id": "ges2-007",
+      "q": "El Delegado de Protección de Datos (DPD) en el ámbito del SERMAS es:",
+      "options": ["El jefe de informática del hospital", "Un miembro del Comité de Ética", "Una figura obligatoria en las AAPP conforme al art. 37 RGPD que supervisa el cumplimiento de la normativa de protección de datos", "Un auditor de cuentas"],
+      "correct": 2,
+      "explanation": "El art. 37.1.a RGPD obliga a designar DPD en las autoridades u organismos públicos; sus funciones (art. 39 RGPD) incluyen informar, supervisar el cumplimiento y cooperar con la autoridad de control (AEPD)."
+    },
+    {
+      "id": "ges2-008",
+      "q": "Los derechos del interesado bajo el RGPD incluyen, entre otros:",
+      "options": ["Acceso, Rectificación, Supresión, Oposición, Portabilidad y Limitación del tratamiento", "Solo el derecho de acceso", "Solo el derecho al olvido", "Acceso, Retribución y Compensación"],
+      "correct": 0,
+      "explanation": "Los arts. 15 a 22 del RGPD reconocen los derechos ARCO-POL: Acceso, Rectificación, Supresión (olvido), Oposición, Portabilidad y Limitación del tratamiento."
+    },
+    {
+      "id": "ges2-009",
+      "q": "Según el art. 16 de la Ley 39/2015, los asientos del registro electrónico deben contener al menos:",
+      "options": ["Un número, epígrafe expresivo de la naturaleza, fecha y hora de su presentación, identificación del interesado, órgano administrativo remitente y persona u órgano al que se envía y, en su caso, referencia al contenido del documento", "Solo la fecha", "Solo el nombre del interesado", "Solo el número de expediente"],
+      "correct": 0,
+      "explanation": "El art. 16.3 de la Ley 39/2015 enumera el contenido mínimo de los asientos registrales: número, epígrafe, fecha y hora, identificación del interesado, órgano remitente y de destino, y referencia al contenido."
+    },
+    {
+      "id": "ges2-010",
+      "q": "Cuando un ciudadano presenta un documento en el registro electrónico, conforme al art. 16.3 Ley 39/2015, tiene derecho a:",
+      "options": ["Obtener una copia sellada por correo postal únicamente", "Firmar en un libro físico", "Esperar 15 días para obtener justificante", "Recibir un recibo acreditativo de la presentación expedido automáticamente"],
+      "correct": 3,
+      "explanation": "El art. 16.3 Ley 39/2015 reconoce el derecho del interesado a recibir un recibo acreditativo de la fecha y hora de presentación, expedido automáticamente por el registro electrónico."
+    },
+    {
+      "id": "ges2-011",
+      "q": "La Tarjeta Sanitaria Individual (TSI) del SNS se regula con carácter básico en:",
+      "options": ["Real Decreto 183/2004, de 30 de enero", "Real Decreto 1030/2006", "Ley 14/1986 exclusivamente", "Ley 39/2015"],
+      "correct": 0,
+      "explanation": "El Real Decreto 183/2004, de 30 de enero, regula la tarjeta sanitaria individual y establece los datos básicos comunes en todo el SNS."
+    },
+    {
+      "id": "ges2-012",
+      "q": "La Tarjeta Sanitaria Europea (TSE):",
+      "options": ["Sustituye al pasaporte en la UE", "Permite contratar seguros privados en Europa", "Da derecho a vuelos gratuitos", "Acredita el derecho a recibir asistencia sanitaria pública necesaria durante una estancia temporal en países de la UE/EEE/Suiza"],
+      "correct": 3,
+      "explanation": "La TSE acredita el derecho del titular a la asistencia sanitaria pública necesaria durante una estancia temporal en Estados de la UE, EEE y Suiza, en los términos del Reglamento (CE) 883/2004."
+    },
+    {
+      "id": "ges2-013",
+      "q": "Cl@ve PIN es una modalidad del sistema Cl@ve que:",
+      "options": ["Requiere instalación de software especial en el PC", "Genera un PIN de un solo uso para identificación de ciudadanos ante las AAPP", "Sustituye al DNIe físico", "Solo sirve para consultas bancarias"],
+      "correct": 1,
+      "explanation": "Cl@ve PIN es un sistema de contraseña de validez muy limitada en el tiempo, orientado a usuarios que acceden esporádicamente a los servicios públicos electrónicos."
+    },
+    {
+      "id": "ges2-014",
+      "q": "El nivel de seguridad de Cl@ve Permanente es:",
+      "options": ["Nivel bajo", "Nivel sustancial (usuario y contraseña reforzada con OTP)", "Nivel alto irrevocable", "No tiene nivel asignado"],
+      "correct": 1,
+      "explanation": "Cl@ve Permanente, con reforzamiento por código OTP enviado al móvil, alcanza el nivel de seguridad sustancial conforme al Reglamento eIDAS (UE 910/2014)."
+    },
+    {
+      "id": "ges2-015",
+      "q": "El DNI electrónico (DNIe) contiene, además de los datos del DNI tradicional:",
+      "options": ["Solo un código QR de color", "Un chip con certificados de autenticación y firma electrónica cualificada", "Un microchip RFID de pago contactless", "Una banda magnética bancaria"],
+      "correct": 1,
+      "explanation": "El DNIe incorpora un chip con certificados de autenticación y firma electrónica cualificada, que permite identificarse y firmar con plena validez jurídica ante las AAPP."
+    },
+    {
+      "id": "ges2-016",
+      "q": "La facturación a terceros en los centros del SERMAS se aplica típicamente en:",
+      "options": ["Asistencia rutinaria a pacientes con TSI", "Accidentes de tráfico cubiertos por seguro obligatorio, mutuas colaboradoras con la Seguridad Social, convenios internacionales y pacientes de compañías aseguradoras", "Atención a menores sin identificación", "Campañas de vacunación"],
+      "correct": 1,
+      "explanation": "La facturación a terceros se produce cuando el coste debe repercutirse a entidades obligadas al pago: compañías de seguros (accidentes de tráfico), mutuas (AT/EP), convenios internacionales y aseguradoras privadas."
+    },
+    {
+      "id": "ges2-017",
+      "q": "HCIS (Historia Clínica Informatizada SERMAS) es la herramienta corporativa de historia clínica electrónica de:",
+      "options": ["Atención Primaria", "Farmacia comunitaria", "Los hospitales del SERMAS", "Residencias sociosanitarias privadas"],
+      "correct": 2,
+      "explanation": "HCIS es la plataforma hospitalaria corporativa del SERMAS para la historia clínica electrónica; AP-Madrid es la herramienta de Atención Primaria."
+    },
+    {
+      "id": "ges2-018",
+      "q": "AP-Madrid es el sistema corporativo del SERMAS destinado a la gestión asistencial de:",
+      "options": ["Atención Primaria (historia clínica, agendas y prescripción de los centros de salud)", "Farmacia hospitalaria", "Contabilidad general", "Recursos humanos"],
+      "correct": 0,
+      "explanation": "AP-Madrid integra la historia clínica, las agendas, la prescripción y los episodios de los centros de salud del SERMAS (Atención Primaria)."
+    },
+    {
+      "id": "ges2-019",
+      "q": "El Centro de Atención Personalizada (CAP) del SERMAS ofrece información y cita previa a través del teléfono:",
+      "options": ["010", "061", "112", "900 8888 33"],
+      "correct": 3,
+      "explanation": "El CAP atiende las peticiones de cita e información de los ciudadanos del SERMAS en el número 900 8888 33."
+    },
+    {
+      "id": "ges2-020",
+      "q": "El Servicio de Atención e Información al Paciente (SAIP) tiene, entre otras, la función de:",
+      "options": ["Diagnosticar enfermedades", "Prescribir medicamentos", "Fiscalizar presupuestos", "Informar, orientar y tramitar reclamaciones, sugerencias, agradecimientos e iniciativas de los usuarios"],
+      "correct": 3,
+      "explanation": "Los SAIP (u Oficinas de Atención al Paciente) tienen por misión informar y orientar al ciudadano, así como canalizar quejas, reclamaciones, sugerencias y agradecimientos."
+    },
+    {
+      "id": "ges2-021",
+      "q": "El plazo general de respuesta a una reclamación presentada en el SERMAS es de:",
+      "options": ["7 días hábiles", "90 días", "6 meses", "30 días"],
+      "correct": 3,
+      "explanation": "La normativa autonómica establece con carácter general el plazo de 30 días para dar respuesta a las reclamaciones presentadas ante los servicios sanitarios."
+    },
+    {
+      "id": "ges2-022",
+      "q": "La diferencia entre queja/reclamación y sugerencia radica principalmente en que:",
+      "options": ["No hay diferencia, son sinónimos", "La reclamación exige respuesta formal y expresa disconformidad, mientras que la sugerencia propone mejoras sin exigir contestación formal en los mismos términos", "Ambas se resuelven en 24 horas", "La sugerencia solo la pueden hacer los sanitarios"],
+      "correct": 1,
+      "explanation": "La reclamación manifiesta disconformidad y requiere respuesta expresa al ciudadano; la sugerencia aporta ideas de mejora, con tramitación diferenciada."
+    },
+    {
+      "id": "ges2-023",
+      "q": "En archivística clínica, el archivo pasivo se refiere a:",
+      "options": ["Historias clínicas de pacientes fallecidos exclusivamente", "Historias que se consultan con frecuencia", "Historias en curso de digitalización", "Historias clínicas que han dejado de utilizarse con frecuencia y se conservan por obligación legal o valor histórico"],
+      "correct": 3,
+      "explanation": "El archivo pasivo (o semiactivo/histórico) custodia las historias clínicas que, tras un periodo sin consultas, se conservan por obligación legal o valor documental."
+    },
+    {
+      "id": "ges2-024",
+      "q": "La digitalización certificada de documentos administrativos (conforme a la Ley 39/2015 y la normativa de interoperabilidad) permite:",
+      "options": ["Obtener copias electrónicas auténticas de documentos en papel con idéntico valor jurídico que los originales", "Solo almacenamiento interno sin valor legal", "Sustituir al consentimiento informado", "Eliminar todo documento sin garantías"],
+      "correct": 0,
+      "explanation": "El art. 27 de la Ley 39/2015 y el ENI regulan las copias electrónicas auténticas por digitalización, otorgándoles la misma validez y eficacia que el documento original."
+    },
+    {
+      "id": "ges2-025",
+      "q": "El expurgo de documentación clínica consiste en:",
+      "options": ["Destruir indiscriminadamente cualquier documento", "Imprimir la historia clínica electrónica", "Eliminar, conforme a procedimientos reglados y con autorización competente, documentos sin valor asistencial, científico-docente o legal tras cumplirse los plazos de conservación", "Cambiar la portada del expediente"],
+      "correct": 2,
+      "explanation": "El expurgo es un proceso reglado y autorizado que, cumplidos los plazos legales, elimina documentos carentes de valor asistencial, docente, investigador o legal, tras valoración por comisiones especializadas."
+    },
+    {
+      "id": "ges2-026",
+      "q": "En Microsoft Word, los estilos permiten principalmente:",
+      "options": ["Aplicar conjuntos predefinidos de formato (fuente, párrafo, numeración) de manera coherente a través del documento", "Proteger el documento contra la edición", "Convertir el documento a PDF", "Cifrar el archivo"],
+      "correct": 0,
+      "explanation": "Los estilos de Word encapsulan atributos de formato (fuente, párrafo, numeración, etc.) y permiten aplicarlos de forma consistente y modificarlos centralizadamente."
+    },
+    {
+      "id": "ges2-027",
+      "q": "La combinación de correspondencia en Word (Mail Merge) se utiliza para:",
+      "options": ["Unir dos documentos distintos en uno", "Comprobar la ortografía de múltiples documentos", "Generar múltiples documentos personalizados a partir de una plantilla y un origen de datos (lista/base)", "Combinar estilos de distintos documentos"],
+      "correct": 2,
+      "explanation": "La combinación de correspondencia genera cartas, etiquetas o sobres personalizados combinando una plantilla base con un origen de datos (p. ej., Excel), insertando campos para cada registro."
+    },
+    {
+      "id": "ges2-028",
+      "q": "En Microsoft Word, la tecla F12 se utiliza habitualmente para:",
+      "options": ["Abrir el cuadro de diálogo Guardar como", "Cerrar el documento", "Lanzar el corrector ortográfico", "Imprimir"],
+      "correct": 0,
+      "explanation": "En Microsoft Word, la tecla F12 abre directamente el cuadro de diálogo Guardar como; Ctrl+G guarda y F7 revisa la ortografía."
+    },
+    {
+      "id": "ges2-029",
+      "q": "En Excel, la función =PROMEDIO(A1:A10) devuelve:",
+      "options": ["La suma de los valores", "El valor máximo", "La media aritmética de los valores numéricos del rango", "El número de celdas no vacías"],
+      "correct": 2,
+      "explanation": "=PROMEDIO calcula la media aritmética de los valores numéricos del rango indicado, ignorando celdas con texto o vacías."
+    },
+    {
+      "id": "ges2-030",
+      "q": "En Excel, la función =CONTAR.SI(B2:B100;\">=18\") devuelve:",
+      "options": ["La suma de valores mayores o iguales a 18", "El número de celdas del rango cuyo valor cumple la condición (mayor o igual a 18)", "El promedio de los valores mayores o iguales a 18", "El valor máximo del rango"],
+      "correct": 1,
+      "explanation": "CONTAR.SI devuelve el número de celdas del rango que cumplen el criterio indicado; en este caso, las celdas con valor igual o superior a 18."
+    },
+    {
+      "id": "ges2-031",
+      "q": "En Excel, si copiamos la fórmula =A1*$B$1 desde la celda C1 a la celda C2, la fórmula resultante será:",
+      "options": ["=A2*$B$1", "=A1*$B$2", "=A2*$B$2", "=A1*$B$1"],
+      "correct": 0,
+      "explanation": "La referencia relativa A1 se ajusta a A2 al copiar una fila abajo; la referencia absoluta $B$1 se mantiene fija."
+    },
+    {
+      "id": "ges2-032",
+      "q": "En Excel, para buscar el dato de una tabla usando un identificador en la primera columna se utiliza típicamente:",
+      "options": ["CONCATENAR", "REDONDEAR", "BUSCARV (o CONSULTAV)", "IZQUIERDA"],
+      "correct": 2,
+      "explanation": "BUSCARV (VLOOKUP) localiza un valor en la primera columna de una tabla y devuelve el contenido de otra columna en la misma fila, con coincidencia exacta o aproximada."
+    },
+    {
+      "id": "ges2-033",
+      "q": "En Excel, una referencia mixta como =$A1 significa que al copiar la fórmula:",
+      "options": ["No cambia nada, todo es fijo", "Cambian tanto columna como fila", "La columna queda fija ($A) y la fila se ajusta al copiar", "Solo funciona si la hoja está protegida"],
+      "correct": 2,
+      "explanation": "En la referencia mixta $A1 la columna A queda fija (por el $) y la fila 1 se ajusta en cada copia; lo inverso ocurre con A$1."
+    },
+    {
+      "id": "ges2-034",
+      "q": "En un correo electrónico, los destinatarios incluidos en el campo CC:",
+      "options": ["Reciben el mensaje pero sus direcciones permanecen ocultas al resto", "No reciben el mensaje, solo la confirmación", "Reciben solo el asunto", "Reciben el mensaje y sus direcciones son visibles para todos los destinatarios"],
+      "correct": 3,
+      "explanation": "CC (Con Copia) envía el mensaje a destinatarios secundarios y sus direcciones son visibles para el resto; en CCO las direcciones están ocultas."
+    },
+    {
+      "id": "ges2-035",
+      "q": "Al enviar un correo electrónico a un grupo amplio de destinatarios externos que no se conocen entre sí, lo más adecuado para proteger su privacidad es:",
+      "options": ["Ponerlos todos en el campo Para", "Ponerlos todos en CC", "Colocarlos en CCO (Copia Oculta)", "Enviarlos en el asunto"],
+      "correct": 2,
+      "explanation": "CCO impide que los destinatarios vean las direcciones del resto, evitando la divulgación no autorizada de datos personales (art. 5 RGPD, principio de minimización)."
+    },
+    {
+      "id": "ges2-036",
+      "q": "Al enviar un correo con un documento adjunto con información sensible (datos de salud), lo correcto es:",
+      "options": ["Enviarlo sin cifrar para que llegue rápido", "Usar medidas de protección adecuadas (cifrado del adjunto o canales seguros) cumpliendo el RGPD", "Publicarlo en redes sociales", "Enviarlo como imagen en el cuerpo"],
+      "correct": 1,
+      "explanation": "El art. 32 del RGPD exige medidas técnicas y organizativas apropiadas para garantizar la seguridad; el envío de datos de salud requiere cifrado o canales corporativos seguros."
+    },
+    {
+      "id": "ges2-037",
+      "q": "En los navegadores web, los marcadores (favoritos) sirven para:",
+      "options": ["Almacenar las cookies de sesión", "Cifrar la navegación", "Guardar enlaces a páginas web para acceder a ellas rápidamente en el futuro", "Bloquear anuncios automáticamente"],
+      "correct": 2,
+      "explanation": "Los marcadores (bookmarks/favoritos) almacenan accesos directos a URLs para recuperarlas rápidamente; se gestionan desde el propio navegador."
+    },
+    {
+      "id": "ges2-038",
+      "q": "El modo de navegación privada o incógnito de un navegador:",
+      "options": ["Hace al usuario anónimo en Internet y oculta su IP a los sitios web", "No guarda historial, cookies ni formularios en el equipo local al cerrar la ventana, pero no anonimiza al usuario frente al proveedor o al sitio web", "Cifra el tráfico como una VPN", "Bloquea el malware automáticamente"],
+      "correct": 1,
+      "explanation": "El modo privado impide que el navegador guarde historial, cookies y datos de formularios en el equipo local, pero no oculta la identidad ni la IP del usuario ante servidores o proveedores de red."
+    },
+    {
+      "id": "ges2-039",
+      "q": "Las cookies de un navegador son:",
+      "options": ["Virus informáticos de pequeño tamaño", "Archivos de texto que los sitios web almacenan en el equipo del usuario para recordar información de sesión o preferencias", "Fragmentos de código que eliminan historial", "Certificados electrónicos del DNIe"],
+      "correct": 1,
+      "explanation": "Las cookies son pequeños archivos de texto que los sitios web almacenan en el equipo del usuario para mantener sesiones, preferencias o realizar seguimiento; su uso está regulado por la LSSI y el RGPD."
+    },
+    {
+      "id": "ges2-040",
+      "q": "Conforme al art. 16 de la Ley 41/2002, el acceso a la historia clínica con fines judiciales, epidemiológicos, de salud pública, investigación o docencia:",
+      "options": ["Está totalmente prohibido en todo caso", "Requiere el consentimiento notarial del paciente siempre", "Solo lo puede autorizar el director del hospital", "Se rige por lo dispuesto en la legislación de protección de datos y de la función estadística pública, preservando los datos identificativos salvo excepciones tasadas"],
+      "correct": 3,
+      "explanation": "El art. 16.3 de la Ley 41/2002 regula el acceso a la historia clínica con fines judiciales, epidemiológicos, de salud pública, investigación o docencia, con separación de los datos identificativos salvo consentimiento del paciente o supuestos legales."
+    }
+  ]
+}
